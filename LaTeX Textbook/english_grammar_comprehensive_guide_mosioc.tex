@@ -1,0 +1,381 @@
+% !TEX TS-program = pdflatex
+% English Grammar Comprehensive Guide - Mosioc
+% Comprehensive LaTeX reference book aimed at IELTS & TOEFL learners
+
+\documentclass[12pt,oneside]{book}
+
+% Packages for layout and typography
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{geometry}
+\geometry{a4paper, left=30mm, right=25mm, top=30mm, bottom=30mm}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins, breakable}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+\usepackage{enumitem}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{graphicx}
+\usepackage{framed}
+\usepackage{fancyhdr}
+\usepackage{listings}
+\usepackage{imakeidx}
+\makeindex
+
+% Styling for chapter and section headings
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+
+% Boxes for notes, tips, examples
+\newtcolorbox{examptip}{colback=blue!5!white,colframe=blue!50!black,breakable}
+\newtcolorbox{examplebox}{colback=green!5!white,colframe=green!50!black,breakable}
+\newtcolorbox{commonerr}{colback=red!5!white,colframe=red!60!black,breakable}
+\newtcolorbox{definitionbox}{colback=gray!5!white,colframe=black!30!white,breakable}
+
+% Commands
+\newcommand{\ex}[1]{\begin{examplebox}\textbf{Example:} #1\end{examplebox}}
+\newcommand{\tip}[1]{\begin{examptip}\textbf{Exam Tip:} #1\end{examptip}}
+\newcommand{\cerror}[1]{\begin{commonerr}\textbf{Common Error:} #1\end{commonerr}}
+\newcommand{\defbox}[1]{\begin{definitionbox}\textbf{Definition:} #1\end{definitionbox}}
+
+% Document metadata
+\title{English Grammar: A Comprehensive Reference for IELTS \& TOEFL}
+\author{Mosioc}
+\date{\today}
+
+\begin{document}
+
+% Title page
+\begin{titlepage}
+  \centering
+  \vspace*{3cm}
+  {\Huge\bfseries English Grammar}\vspace{0.5cm} \\
+  {\Large\bfseries A Comprehensive Reference for IELTS \& TOEFL}\\[1.5cm]
+  {\Large Mosioc}\vfill
+  {\large Compiled and Expanded — \today}\\[1cm]
+  \vfill
+  \normalsize This textbook is designed as a practical and in-depth grammar reference for English learners preparing for academic exams (IELTS \& TOEFL). It focuses on both explanation and application: rules, examples, exam tips, and practice.
+\end{titlepage}
+
+\frontmatter
+\tableofcontents
+\mainmatter
+
+% Preface
+\chapter*{Preface}
+This book is written for intermediate to advanced English learners who aim to achieve high scores in standardized academic tests such as \textbf{IELTS} and \textbf{TOEFL}, and for learners who want a comprehensive, reliable grammar reference. Each chapter includes clear explanations, graded examples, exam tips, and practice exercises.
+
+\tip{Use this book actively: read a section, study the examples, then do the exercises. When preparing for IELTS/TOEFL, focus on accuracy first, range second.}
+
+\chapter{Foundations of English Grammar}
+\section{What is Grammar?}
+Grammar is the system of rules that governs how words are combined to form sentences. Grammar controls morphology (word forms), syntax (sentence structure), and usage (pragmatic choices).
+
+\section{Sentence Elements}
+\defbox{A sentence typically contains a \textbf{subject} and a \textbf{predicate}. The predicate contains the verb and provides information about the subject. Objects, complements, and modifiers add details.}
+
+\subsection{Subject, Predicate, Object, Complement}
+\begin{itemize}
+  \item \textbf{Subject:} the doer or topic of the sentence.\
+  \item \textbf{Predicate:} includes the verb and expresses something about the subject.\
+  \item \textbf{Direct object:} receives the action of a transitive verb.\
+  \item \textbf{Indirect object:} recipient of the direct object.\
+  \item \textbf{Complement:} completes the meaning of a subject or object (e.g. subject complement after linking verbs).\
+\end{itemize}
+
+\ex{\textit{The committee} (subject) \textit{approved} (verb) \textit{the proposal} (direct object).}
+
+\section{Word Order in English}
+English is primarily SVO (Subject-Verb-Object). Word order is crucial for meaning. In questions and some other constructions, inversion occurs.
+
+\chapter{Parts of Speech}
+\section{Nouns}
+\subsection{Types of Nouns}
+Common, proper, countable, uncountable, collective, abstract.
+
+\subsection{Countable vs. Uncountable}
+\defbox{Countable nouns have plural forms and can be used with numbers (one book, two books). Uncountable nouns cannot be counted directly (water, information) and take singular verbs.}
+
+\ex{\textit{Many books} vs. \textit{much information}.}
+\cerror{Using 'many' with uncountable nouns: *many informations* is incorrect.}
+
+\section{Pronouns}
+\subsection{Personal, Possessive, Reflexive}
+Rules for pronoun agreement and clarity of reference.
+
+\ex{\textit{She gave herself a break.}} 
+\cerror{Ambiguous pronouns: avoid unclear antecedents.}
+
+\section{Adjectives and Adverbs}
+\subsection{Adjective order}
+Typical order: Determiner — Opinion — Size — Age — Shape — Color — Origin — Material — Purpose — Noun.\
+\ex{\textit{a lovely small old round wooden jewelry box}}
+
+\subsection{Adverbs: Position and Types}
+Adverbs of frequency, manner, place, time; typical positions (before main verb for frequency, after main verb for manner, etc.).
+
+\chapter{Sentence Structure and Clauses}
+\section{Simple, Compound, Complex}
+\defbox{\textbf{Simple sentence:} one independent clause. \\ \textbf{Compound sentence:} two or more independent clauses joined by coordinating conjunctions (and, but, or, so, yet). \\ \textbf{Complex sentence:} one independent clause + one or more dependent (subordinate) clauses.}
+
+\ex{Simple: \textit{She reads.} Compound: \textit{She reads, and he writes.} Complex: \textit{She reads because she enjoys learning.}}
+
+\section{Relative Clauses}
+Defining vs non-defining clauses; punctuation rules, choice of relative pronoun (who, which, that, whom, where, when).
+
+\ex{The book \textit{that} I borrowed was helpful. (defining) \\ My sister, \textit{who} lives in London, is a teacher. (non-defining)}
+
+\section{Noun Clauses (Nominal Clauses)}
+Noun clauses function as subjects, objects, or complements. Common introducers: that, whether, if, wh-words.
+
+\ex{\textit{What she said} surprised everyone.}
+
+\section{Sentence Fragments and Run-ons}
+How to identify and correct fragments and comma splices (run-on sentences). Use semicolons, coordinating conjunctions, or restructure clauses.
+
+\chapter{Tenses and Aspect}
+\section{Understanding Tense vs Aspect}
+Tense locates an action in time (past, present, future). Aspect shows internal temporal structure (simple, continuous/progressive, perfect, perfect continuous).
+
+\section{Present Tenses}
+\subsection{Present Simple}
+Use for habitual actions, general truths, scheduled events.
+\ex{She usually walks to work.}
+\subsection{Present Continuous}
+Use for actions happening now or around now, and future arrangements.
+\ex{I am studying for the exam.}
+\subsection{Present Perfect}
+Used for actions with relevance to the present: experience, recent events, actions that started in the past and continue to present.
+\ex{She has lived here since 2010.}
+\subsection{Present Perfect Continuous}
+Focuses on duration of an action up to the present.
+\ex{They have been studying for three hours.}
+
+\section{Past Tenses}
+\subsection{Past Simple}
+Completed actions at a definite time in the past.
+\ex{He graduated last year.}
+\subsection{Past Continuous}
+Background actions in the past; parallel actions.
+\ex{While I was cooking, she called.}
+\subsection{Past Perfect}
+An action completed before another past action.
+\ex{She had left before I arrived.}
+\subsection{Past Perfect Continuous}
+Duration before a certain past point.
+\ex{They had been working for two hours when the power went out.}
+
+\section{Future Forms}
+Will vs going to vs present continuous for future. Future perfect and future continuous explained.
+
+\section{Tense Harmony and Sequence of Tenses}
+How tense backshifts in reported speech and conditionals. Importance of consistency for coherence in essays and spoken answers.
+
+\tip{In IELTS Writing Task 1 (Academic), prefer simple and perfect tenses to describe trends. Avoid unnecessary tense shifts.}
+
+\chapter{Modal Verbs and Auxiliary Structures}
+\section{Modal Verbs: basic uses}
+Can/could, may/might, must, should, ought to, shall/will, would.
+
+\subsection{Degrees of certainty and politeness}
+Can vs could, may vs might, must (deduction) vs have to (obligation).
+
+\ex{He must be at home. (logical conclusion) \\ You must finish this by tomorrow. (obligation)}
+
+\section{Semi-modals and Periphrastic forms}
+Have to, need to, be able to, used to, be supposed to.
+
+\chapter{Voice: Active and Passive}
+\section{Forming the Passive}
+All tenses can have passive equivalents. Use auxiliary \textit{be} + past participle.
+
+\ex{Active: The committee approved the policy. \\ Passive: The policy was approved by the committee.}
+
+\section{When to use Passive}
+To focus on action rather than agent, in academic writing, or when agent is unknown or irrelevant.
+
+\tip{In IELTS Academic Writing Task 1, passive voice can often make descriptions more objective.}
+
+\chapter{Conditionals and Hypothetical Structures}
+\section{Zero, First, Second, Third Conditionals}
+\begin{itemize}
+  \item Zero: general truths (If + present, present). \
+  \item First: possible future (If + present, will + base). \
+  \item Second: unreal present/future (If + past simple, would + base). \
+  \item Third: unreal past (If + past perfect, would have + past participle). \
+\end{itemize}
+
+\ex{If you heat water, it boils. \\ If it rains, I will stay home. \\ If I won the lottery, I would travel. \\ If I had known, I would have told you.}
+
+\section{Mixed Conditionals and Wishes}
+Mixed conditionals combine past and present hypothetical consequences. Use \textit{wish} to express regret or desire with past/present/future reference.
+
+\ex{If I had studied harder (past), I would be at university now (present result). \\ I wish I had gone to the conference.}
+
+\chapter{Clauses and Advanced Structures}
+\section{Relative Clauses: reduction and complexity}
+Reduced relative clauses, omission of relative pronouns when possible, and restrictive vs nonrestrictive distinctions.
+
+\section{Inversion for Emphasis}
+Inversion in negatives and for adverbial expressions for stylistic emphasis.
+
+\ex{Rarely have I seen such dedication.}
+
+\section{Cleft and Pseudo-cleft Sentences}
+It was/what-clefts to emphasize a sentence element. Useful to vary sentence openings in essays.
+
+\ex{It was \textbf{John} who solved the problem. \\ What I need is more time.}
+
+\section{Nominalization}
+Turning verbs and adjectives into nouns to create formal, concise academic style (e.g. \textit{analyze} -> \textit{analysis}).
+
+\tip{Nominalization increases formality and density—use it in academic writing but avoid overuse.}
+
+\chapter{Reported Speech}
+\section{Backshifting and Reporting Verbs}
+Rules for shifting tenses, pronouns, and time expressions when converting direct speech into reported speech.
+
+\ex{Direct: "I am leaving" -> Reported: He said (that) he was leaving.}
+
+\chapter{Subjunctive and Formal Structures}
+\section{Present Subjunctive}
+Use of subjunctive in formal expressions, demands, suggestions (e.g. "It is essential that he be present").
+
+\section{Formal registers and fixed expressions}
+Use of constructions like \textit{lest}, \textit{had I known}, and formal inversion.
+
+\chapter{Punctuation, Style and Cohesion}
+\section{Articles and Determiners}
+Usage of a/an, the, zero article; determiners with countable and uncountable nouns.
+
+\ex{I bought a car. The car is blue.}
+
+\section{Commas, Semicolons, Colons}
+Rules to avoid comma splices and to use semicolons and colons effectively.
+
+\section{Linking words and discourse markers}
+Phrases for addition, contrast, cause/effect, exemplification, sequencing. Use them to improve cohesion and coherence in essays.
+
+\begin{multicols}{2}
+\textbf{Addition:} moreover, furthermore, in addition, besides.\\
+\textbf{Contrast:} however, on the other hand, whereas, although.\\
+\textbf{Cause/Effect:} therefore, consequently, as a result.\\
+\textbf{Example:} for example, for instance, such as.\\
+\textbf{Sequencing:} firstly, secondly, finally, subsequently.
+\end{multicols}
+
+\tip{Avoid overusing the same linking word. Aim for a varied set of connectors and natural flow.}
+
+\chapter{Common Errors and How to Avoid Them}
+\section{Subject-Verb Agreement}
+Agreement with singular/plural subjects, collective nouns, and tricky constructions (e.g., "one of the students is/are").
+
+\section{Article Errors}
+When to use definite/indefinite/zero articles; common mistakes by L1 speakers.
+
+\section{Preposition Problems}
+Common preposition collocations and fixed expressions. Practice lists.
+
+\cerror{Incorrect preposition: *married with* -> correct: *married to*.}
+
+\chapter{Grammar for IELTS and TOEFL}
+\section{What examiners look for}
+IELTS: Grammatical Range and Accuracy. TOEFL: grammatical control in writing and speaking responses.
+
+\section{Writing Task 1 (Academic) and Writing Task 2}
+Task-specific grammar guidance: report trends, use passive where appropriate, vary sentence types, avoid contractions.
+
+\section{Speaking: Fluency and Accuracy}
+Balance fluency with grammatical correctness. Use a range of structures but avoid unnatural complexity.
+
+\tip{When practicing speaking, record yourself and transcribe the response to analyze grammar and sentence variety.}
+
+\chapter{Exercises}
+Each section below contains short practice activities.
+
+\section{Error Correction}
+Correct the errors in the following sentences:
+\begin{enumerate}
+  \item She don't like coffee.
+  \item The informations were useful.
+  \item If I will see him, I will tell him.
+  \item He suggested me to go there.
+  \item This is the man which helped me.
+\end{enumerate}
+
+\section{Transformations}
+Rewrite the sentences as requested:
+\begin{enumerate}
+  \item Change to passive: "They will announce the results tomorrow." 
+  \item Reported speech: "She said, 'I have finished the report.'"
+  \item Conditional (second): "If I (win) the prize, I (buy) a car." 
+  \item Use a cleft to emphasize "John fixed the car." 
+  \item Reduce the relative clause: "The documents which were signed yesterday are ready." 
+\end{enumerate}
+
+\section{Tense Practice}
+Fill in the correct tense:
+\begin{enumerate}
+  \item By next year, I (finish) my degree.
+  \item She (study) French for three years before she moved to Paris.
+  \item Right now, they (work) on the new project.
+\end{enumerate}
+
+\chapter*{Answer Key}
+\addcontentsline{toc}{chapter}{Answer Key}
+\section*{Error Correction Answers}
+\begin{enumerate}
+  \item She doesn't like coffee.
+  \item The information was useful. (information is uncountable)
+  \item If I see him, I will tell him. (first conditional) or If I saw him, I would tell him. (second conditional)
+  \item He suggested that I go there. / He suggested going there.
+  \item This is the man who helped me. (use "who")
+\end{enumerate}
+
+\section*{Transformations Answers}
+\begin{enumerate}
+  \item The results will be announced tomorrow.
+  \item She said (that) she had finished the report.
+  \item If I won the prize, I would buy a car.
+  \item It was John who fixed the car.
+  \item The documents signed yesterday are ready.
+\end{enumerate}
+
+\section*{Tense Practice Answers}
+\begin{enumerate}
+  \item will have finished
+  \item had been studying
+  \item are working / are working on
+\end{enumerate}
+
+\chapter*{Appendix: Useful Tables}
+\addcontentsline{toc}{chapter}{Appendix: Useful Tables}
+\section*{Timeline of Tenses}
+\begin{longtable}{p{4cm}p{10cm}}
+\toprule
+Tense & Use / Example \\
+\midrule
+Present Simple & habits, facts: She works every day. \\
+Present Continuous & actions now, arrangements: He is leaving tomorrow. \\
+Present Perfect & experience/continuing: She has lived here since 2010. \\
+Past Simple & finished past: They visited last summer. \\
+Past Perfect & past before past: She had left when I arrived. \\
+Future (will) & predictions/decisions: I will help you. \\
+\bottomrule
+\end{longtable}
+
+\printindex
+
+\end{document}
