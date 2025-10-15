@@ -1,4 +1,4 @@
-# english-forge
+# English Forge
 Forging my English skills like a blacksmith; A journey toward fluency.
 
 ## Abbreviations
