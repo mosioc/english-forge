@@ -62,11 +62,29 @@
 
 ### Gen Z & Internet Slang
 
-| Abbreviation / Term | Meaning                             | Use Case                          |
-| ------------------- | ----------------------------------- | --------------------------------- |
-| Rizz                | Charisma, ability to charm          | “He’s got mad rizz.”              |
-| W / L               | Win / Loss (used to rate something) | “That’s a big W!”                 |
-| Bet                 | Okay / Sure / Deal                  | “Bet, I’ll see you there.”        |
-| Cap / No Cap        | Lie / No lie (truth)                | “That’s cap, you didn’t do that.” |
-| Sus                 | Suspicious / Shady                  | “He’s acting kinda sus.”          |
-| FR / FRFR           | For Real / For real for real        | “That gam                         |
+| Abbreviation / Term | Meaning                                 | Use Case                          |
+| ------------------- | --------------------------------------- | --------------------------------- |
+| Rizz                | Charisma, ability to charm              | “He’s got mad rizz.”              |
+| W / L               | Win / Loss (used to rate something)     | “That’s a big W!”                 |
+| Bet                 | Okay / Sure / Deal                      | “Bet, I’ll see you there.”        |
+| Cap / No Cap        | Lie / No lie (truth)                    | “That’s cap, you didn’t do that.” |
+| Sus                 | Suspicious / Shady                      | “He’s acting kinda sus.”          |
+| FR / FRFR           | For Real / For real for real            | “That game was fun, FR.”          |
+| GOAT                | Greatest Of All Time                    | “MJ is the GOAT.”                 |
+| LMAO                | Laughing My Ass Off                     | “LMAO, that video cracked me up.” |
+| WTV                 | Whatever                                | “WTV, I don’t care.”              |
+| IYKYK               | If You Know, You Know                   | “That ending... IYKYK.”           |
+| Vibe                | Mood / Energy                           | “The vibe was chill.”             |
+| Aura                | Personal energy or impression           | “She’s got a calm aura.”          |
+| Flex                | Show off / Brag                         | “He’s flexing that new setup.”    |
+| Lowkey / Highkey    | Slightly / Definitely                   | “Lowkey, I liked that game.”      |
+| Deadass             | Seriously / For real                    | “You deadass forgot?”             |
+| WTMF / WTF          | What The [Heck/F***]                    | “WTF just happened?”              |
+| ICY                 | Cool / Stylish                          | “Your outfit is icy.”             |
+| OML                 | Oh My Lord                              | “OML, that scared me.”            |
+| NGNL                | Not Gonna Lie                           | “NGL, that was awesome.”          |
+| Slay                | Perform exceptionally well / look great | “You slayed that presentation!”   |
+| Vibes               | General feeling or atmosphere           | “Good vibes only.”                |
+| 404                 | Clueless / Confused (like ‘Error 404’)  | “He’s 404 right now.”             |
+
+
