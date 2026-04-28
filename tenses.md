@@ -1,101 +1,176 @@
-# English Tenses
+## 5. Tenses Overview
 
-**all the formulas** for Present, Past, and Future tenses in **Normal, Question, Passive, and Passive Question** (using general placeholders like **Subject + Verb**). I’ll separate **Simple, Continuous, Perfect, Perfect Continuous**.
+English tenses are built from four core aspects (Simple, Continuous, Perfect, Perfect Continuous) across three time frames (Present, Past, Future). Each combination expresses a different relationship between an action and time.
 
----
+### A. Core Aspect Patterns
 
-## **PRESENT TENSES**
+| Aspect | Pattern | Use |
+|--------|---------|-----|
+| **Simple** | V1 / V2 / will + V1 | Completed actions, habits, facts, predictions |
+| **Continuous (Progressive)** | be + V-ing | Actions in progress at a specific time |
+| **Perfect** | have/has/had + V3 (past participle) | Actions completed before another point in time |
+| **Perfect Continuous** | have/has/had + been + V-ing | Duration of an action up to a certain point |
 
-**1. Present Simple**
-
-* Normal: Subject + base verb (+ s/es) → `I write / He writes`
-* Question: Do/Does + Subject + base verb → `Do I write? / Does he write?`
-* Passive: Object + is/are + past participle → `A letter is written`
-* Passive Question: Is/Are + Object + past participle → `Is a letter written?`
-
-**2. Present Continuous**
-
-* Normal: Subject + am/is/are + verb-ing → `I am writing`
-* Question: Am/Is/Are + Subject + verb-ing → `Am I writing?`
-* Passive: Object + is/are + being + past participle → `A letter is being written`
-* Passive Question: Is/Are + Object + being + past participle → `Is a letter being written?`
-
-**3. Present Perfect**
-
-* Normal: Subject + have/has + past participle → `I have written`
-* Question: Have/Has + Subject + past participle → `Have I written?`
-* Passive: Object + has/have + been + past participle → `A letter has been written`
-* Passive Question: Has/Have + Object + been + past participle → `Has a letter been written?`
-
-**4. Present Perfect Continuous**
-
-* Normal: Subject + have/has + been + verb-ing → `I have been writing`
-* Question: Have/Has + Subject + been + verb-ing → `Have I been writing?`
-* Passive: —
-* Passive Question: —
+> **Regular verb example:** play  
+> **Irregular verb example:** eat (eat → ate → eaten)  
+> **Special verb example:** be (am/is/are, was/were, be, been)
 
 ---
 
-## **PAST TENSES**
+### B. Conjugation of Key Auxiliary Verbs
 
-**1. Past Simple**
+#### To Be
 
-* Normal: Subject + past verb → `I wrote`
-* Question: Did + Subject + base verb → `Did I write?`
-* Passive: Object + was/were + past participle → `A letter was written`
-* Passive Question: Was/Were + Object + past participle → `Was a letter written?`
+| Tense | Forms |
+|-------|-------|
+| Present | am / is / are |
+| Past | was / were |
+| Future | will be |
+| Past Participle | been |
 
-**2. Past Continuous**
+#### To Have
 
-* Normal: Subject + was/were + verb-ing → `I was writing`
-* Question: Was/Were + Subject + verb-ing → `Was I writing?`
-* Passive: Object + was/were + being + past participle → `A letter was being written`
-* Passive Question: Was/Were + Object + being + past participle → `Was a letter being written?`
-
-**3. Past Perfect**
-
-* Normal: Subject + had + past participle → `I had written`
-* Question: Had + Subject + past participle → `Had I written?`
-* Passive: Object + had + been + past participle → `A letter had been written`
-* Passive Question: Had + Object + been + past participle → `Had a letter been written?`
-
-**4. Past Perfect Continuous**
-
-* Normal: Subject + had + been + verb-ing → `I had been writing`
-* Question: Had + Subject + been + verb-ing → `Had I been writing?`
-* Passive: —
-* Passive Question: —
+| Tense | Forms |
+|-------|-------|
+| Present | has (he, she, it) / have (I, you, we, they) |
+| Past | had (all subjects) |
+| Future | will have (all subjects) |
 
 ---
 
-## **FUTURE TENSES**
+### C. Tense Tables (Active Voice)
 
-**1. Future Simple**
+#### Present Tenses
 
-* Normal: Subject + will + base verb → `I will write`
-* Question: Will + Subject + base verb → `Will I write?`
-* Passive: Object + will + be + past participle → `A letter will be written`
-* Passive Question: Will + Object + be + past participle → `Will a letter be written?`
+| Aspect | Form | Example |
+|--------|------|---------|
+| Present Simple | V1 / V1 + -s/-es | *She plays the piano.* / *She is awesome.* |
+| Present Continuous | am/is/are + V-ing | *She is playing the piano.* |
+| Present Perfect | have/has + V3 | *She has played the piano.* / *She has eaten the cake.* / *I have been to the Olympics.* |
+| Present Perfect Continuous | have/has + been + V-ing | *She has been playing the piano.* |
 
-**2. Future Continuous**
+#### Past Tenses
 
-* Normal: Subject + will + be + verb-ing → `I will be writing`
-* Question: Will + Subject + be + verb-ing → `Will I be writing?`
-* Passive: —
-* Passive Question: —
+| Aspect | Form | Example |
+|--------|------|---------|
+| Past Simple | V2 | *She played the piano.* / *She ate the cake.* / *She was awesome.* |
+| Past Continuous | was/were + V-ing | *She was playing the piano.* |
+| Past Perfect | had + V3 | *She had played the piano.* / *She had eaten the cake.* / *I had been to the Olympics.* |
+| Past Perfect Continuous | had + been + V-ing | *She had been playing the piano.* |
 
-**3. Future Perfect**
+#### Future Tenses
 
-* Normal: Subject + will + have + past participle → `I will have written`
-* Question: Will + Subject + have + past participle → `Will I have written?`
-* Passive: Object + will + have + been + past participle → `A letter will have been written`
-* Passive Question: Will + Object + have + been + past participle → `Will a letter have been written?`
-
-**4. Future Perfect Continuous**
-
-* Normal: Subject + will + have + been + verb-ing → `I will have been writing`
-* Question: Will + Subject + have + been + verb-ing → `Will I have been writing?`
-* Passive: —
-* Passive Question: —
+| Aspect | Form | Example |
+|--------|------|---------|
+| Future Simple | will + V1 | *She will play the piano.* / *She will eat the cake.* / *She will be awesome.* |
+| Future Continuous | will + be + V-ing | *She will be playing the piano.* |
+| Future Perfect | will + have + V3 | *She will have played the piano.* / *She will have eaten the cake.* |
+| Future Perfect Continuous | will + have + been + V-ing | *She will have been playing the piano.* |
 
 ---
+
+### D. Negative Forms
+
+#### Present Negative
+
+| Aspect | Example |
+|--------|---------|
+| Present Simple | *She doesn't play the piano.* / *She isn't perfect.* |
+| Present Continuous | *She isn't playing the piano.* |
+| Present Perfect | *She hasn't played the piano.* / *She hasn't eaten the cake.* / *I haven't been to the Olympics.* |
+| Present Perfect Continuous | *She hasn't been playing the piano.* |
+
+#### Past Negative
+
+| Aspect | Example |
+|--------|---------|
+| Past Simple | *She didn't play the piano.* / *She didn't eat the cake.* / *She wasn't awesome.* |
+| Past Continuous | *She wasn't playing the piano.* |
+| Past Perfect | *She hadn't played the piano.* / *She hadn't eaten the cake.* |
+| Past Perfect Continuous | *She hadn't been playing the piano.* |
+
+#### Future Negative
+
+| Aspect | Example |
+|--------|---------|
+| Future Simple | *She won't play the piano.* / *She won't be awesome.* |
+| Future Continuous | *She won't be playing the piano.* |
+| Future Perfect | *She won't have played the piano.* / *She won't have eaten the cake.* |
+| Future Perfect Continuous | *She won't have been playing the piano.* |
+
+---
+
+### E. Question Forms
+
+#### Present Questions
+
+| Aspect | Example |
+|--------|---------|
+| Present Simple | *Does she play the piano?* / *Is she awesome?* / *Do you play the piano?* |
+| Present Continuous | *Is she playing the piano?* |
+| Present Perfect | *Has she played the piano?* / *Has she eaten the cake?* / *Have you been to the Olympics?* |
+| Present Perfect Continuous | *Has she been playing the piano?* |
+
+#### Past Questions
+
+| Aspect | Example |
+|--------|---------|
+| Past Simple | *Did she play the piano?* / *Was she awesome?* |
+| Past Continuous | *Was she playing the piano?* |
+| Past Perfect | *Had she played the piano?* / *Had she eaten the cake?* |
+| Past Perfect Continuous | *Had she been playing the piano?* |
+
+#### Future Questions
+
+| Aspect | Example |
+|--------|---------|
+| Future Simple | *Will she play the piano?* / *Will she be awesome?* |
+| Future Continuous | *Will she be playing the piano?* |
+| Future Perfect | *Will she have played the piano?* / *Will she have eaten the cake?* |
+| Future Perfect Continuous | *Will she have been playing the piano?* |
+
+---
+
+### F. Passive Voice Tenses
+
+#### Present Passive
+
+| Aspect | Form | Example |
+|--------|------|---------|
+| Present Simple | am/is/are + V3 | *The piano is played.* |
+| Present Continuous | am/is/are + being + V3 | *The piano is being played.* |
+| Present Perfect | have/has + been + V3 | *The piano has been played.* |
+| Present Perfect Continuous | have/has + been + being + V3 | *The piano has been being played.* |
+
+#### Past Passive
+
+| Aspect | Form | Example |
+|--------|------|---------|
+| Past Simple | was/were + V3 | *The piano was played.* |
+| Past Continuous | was/were + being + V3 | *The piano was being played.* |
+| Past Perfect | had + been + V3 | *The piano had been played.* |
+| Past Perfect Continuous | had + been + being + V3 | *The piano had been being played.* |
+
+#### Future Passive
+
+| Aspect | Form | Example |
+|--------|------|---------|
+| Future Simple | will + be + V3 | *The piano will be played.* |
+| Future Continuous | will + be + being + V3 | *The piano will be being played.* |
+| Future Perfect | will + have + been + V3 | *The piano will have been played.* |
+| Future Perfect Continuous | will + have + been + being + V3 | *The piano will have been being played.* |
+
+> **Important Note on Passive Perfect Continuous:** Forms like *"has been being played"* are grammatically correct but almost never used in natural speech or writing. Native speakers typically rephrase them (e.g., *"The piano has been played for hours"*).
+
+---
+
+### G. Quick Reference: Tense Uses
+
+| Tense | Primary Use |
+|-------|-------------|
+| Present Simple | Habits, general truths, facts, scheduled events |
+| Past Simple | Completed actions at a specific or implied past time |
+| Future Simple | Predictions, spontaneous decisions, promises, offers |
+| Continuous (any time) | Actions in progress at a specific time |
+| Perfect (any time) | Actions completed before another point in time; past actions with present results |
+| Perfect Continuous (any time) | Emphasizes duration of an action up to a certain point |
