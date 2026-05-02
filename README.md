@@ -3,6 +3,7 @@
 A journey toward fluency.
 
 ## INDEX
+
 - [Basic Concepts](./basic-concepts.md)
     - [Prefixes and Suffixes](./prefixes-suffixes.md)
     - [Punctuation](./punctuation.md)
@@ -26,7 +27,7 @@ A journey toward fluency.
 - [Questions](./questions.md)
     - [Negative Structures](./negative-structures.md)
     - [Exclamations and Interjections](./exclamations-interjections.md)
-- [-ing and to Forms (Verbals)](./ing-and-to-forms-verbals.md)
+- [Verb Complementation; Gerunds (-ing) and Infinitives (to) (Verbals)](./ing-and-to-forms-verbals.md)
     - [Ellipsis (Omitting Words)](./ellipsis-omitting-words.md)
 - [Articles and Nouns](./articles-nouns.md)
 - [Pronouns and Determiners](./pronouns-determiners.md)
@@ -42,7 +43,7 @@ A journey toward fluency.
 - [Parallel Structure](./parallel-structure.md)
 - [Register and Formality](./register-formality.md)
 - [Hedges and Softening Language](./hedges-softening-language.md)
-- [Appendices](./appendices.md)
+- Appendices
     - [Appendix A: American vs. British English](./appendix-a-american-british-english.md)
     - [Appendix B: Pronunciation](./appendix-b-pronunciation.md)
     - [Appendix C: Vocabulary](./appendix-c-vocabulary.md)
@@ -50,9 +51,16 @@ A journey toward fluency.
     - [Appendix E: Abbreviations](./appendix-e-abbreviations.md)
     - [Appendix F: Irregular Verbs](./appendix-f-irregular-verbs.md)
     - [Appendix G: Common Errors and Troubleshooting](./appendix-g-common-errors-troubleshooting.md)
+- [Glossary](./glossary.md)
+- [Summary, Reminder, Cheatsheet](/.summary.md)
 
 ## MISCELLANEOUS
+
 - [Abbreviations](abbrvs.md)
-- [Tenses](tenses.md)
 - [Tenses (Summary)](tenses-short.md)
 - [Command Prompts](prompts.md)
+
+## SOURCE
+
+- [English Grammar in Use (5th Edition) - Raymond Murphy](./units.md#english-grammar-in-use)
+- [Advanced Grammar in Use (4th Edition) - Martin Hewings](./units.md#advanced-grammar-in-use)
