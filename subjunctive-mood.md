@@ -2,7 +2,7 @@
 
 The subjunctive mood is used to express wishes, demands, suggestions, recommendations, hypothetical situations, and statements that are contrary to fact. Unlike the indicative mood (which states facts), the subjunctive expresses **unreal, desired, or hypothetical** ideas.
 
-> **Related Sections:** See *Section 7. If-Clauses, Wish-Clauses, and Conditionals* and *Section 7.1 Unreal Time* for related structures.
+> **Related Sections:** See *[Section 7. If-Clauses, Wish-Clauses, and Conditionals](./if-clauses-wish-clauses-conditionals.md)* and *[Section 7.1 Unreal Time](./unreal-time.md)* for related structures.
 
 ---
 
@@ -15,6 +15,8 @@ The subjunctive is a **verb form** that is used in certain grammatical contexts.
 | **Indicative** | States facts, reality | *He **is** here.* / *She **comes** every day.* |
 | **Imperative** | Gives commands | *Be here!* / *Come here!* |
 | **Subjunctive** | Expresses wishes, demands, hypotheticals | *I suggest that he **be** here.* / *If I **were** rich...* |
+
+> **Note:** The subjunctive is much more common in American English than in British English, where it is often replaced by *should + infinitive* or other constructions.
 
 ---
 
@@ -30,12 +32,13 @@ The present subjunctive uses the **base form (V1)** of the verb for **all person
 | *go* | *she goes* | *that she **go*** |
 | *work* | *it works* | *that it **work*** |
 | *arrive* | *he arrives* | *that he **arrive*** |
+| *have* | *she has* | *that she **have*** |
 
 #### 2. Uses of the Present Subjunctive
 
 ##### A. After Verbs of Demand, Suggestion, Recommendation, and Request
 
-Common verbs: *insist, suggest, recommend, demand, request, propose, ask, urge, advise, require*
+Common verbs: *insist, suggest, recommend, demand, request, propose, ask, urge, advise, require, command, order, prefer*
 
 | Example | Meaning |
 |---------|---------|
@@ -43,27 +46,32 @@ Common verbs: *insist, suggest, recommend, demand, request, propose, ask, urge, 
 | *She insisted that he **be** present.* | (Not: *he is*) |
 | *They demanded that the manager **resign**.* | (Not: *manager resigns*) |
 | *The doctor recommended that she **rest** for a week.* | |
-| *It is important that everyone **arrive** on time.* | |
 | *We requested that the meeting **be** postponed.* | |
+| *He asked that she **not** reveal the secret.* | |
+| *The judge ordered that the prisoner **be** released.* | |
 
 ##### B. After Adjectives Expressing Importance or Urgency
 
-Common adjectives: *essential, important, necessary, vital, crucial, imperative*
+Common adjectives: *essential, important, necessary, vital, crucial, imperative, advisable, desirable, obligatory, urgent*
 
 | Example |
 |---------|
 | *It is essential that he **finish** the report today.* |
 | *It is necessary that she **be** informed immediately.* |
 | *It is vital that they **understand** the risks.* |
+| *It is advisable that he **see** a lawyer.* |
+| *It is imperative that we **act** now.* |
 
 ##### C. After *That* Clauses Following Certain Nouns
 
-Common nouns: *advice, demand, request, suggestion, recommendation, requirement*
+Common nouns: *advice, demand, request, suggestion, recommendation, requirement, proposal, insistence, preference*
 
 | Example |
 |---------|
 | *The suggestion that he **resign** was rejected.* |
 | *Their demand that the price **be** lowered was ignored.* |
+| *His insistence that she **apologize** surprised everyone.* |
+| *The proposal that the company **expand** was approved.* |
 
 ##### D. Fixed Expressions (Formulaic Subjunctive)
 
@@ -77,6 +85,8 @@ Certain fixed expressions use the present subjunctive and have survived from old
 | *Come what **may**...* | Whatever happens |
 | *Long **live** the President!* | May the President live long |
 | *Suffice it **to say**...* | It is enough to say |
+| *So **be** it.* | Let it be that way |
+| *Far **be** it from me...* | I would never... |
 
 ---
 
@@ -104,6 +114,7 @@ The past subjunctive is used for hypothetical, unreal, or contrary-to-fact situa
 | *If she **were** here, she would help us.* | (She is not here) |
 | *If he **were** taller, he could play basketball.* | (He is not taller) |
 | *I would do it if I **were** you.* | (I am not you) |
+| *If it **were** not for the rain, we would go out.* | (It is raining) |
 
 ##### B. After *Wish* (Present Unreal)
 
@@ -112,6 +123,7 @@ The past subjunctive is used for hypothetical, unreal, or contrary-to-fact situa
 | *I wish I **were** taller.* | (I am not tall) |
 | *She wishes she **were** more confident.* | (She is not confident) |
 | *He wishes he **were** on vacation.* | (He is not on vacation) |
+| *They wish it **were** summer.* | (It is not summer) |
 
 ##### C. After *As If / As Though* (Present Unreal)
 
@@ -119,6 +131,7 @@ The past subjunctive is used for hypothetical, unreal, or contrary-to-fact situa
 |---------|---------|
 | *He acts as if he **were** the boss.* | (He is not the boss) |
 | *She talks as though she **were** an expert.* | (She is not an expert) |
+| *He spends money as if he **were** a millionaire.* | (He is not a millionaire) |
 
 ##### D. After *If Only* (Present Unreal)
 
@@ -126,6 +139,7 @@ The past subjunctive is used for hypothetical, unreal, or contrary-to-fact situa
 |---------|---------|
 | *If only I **were** younger!* | (I am not younger) |
 | *If only it **were** summer!* | (It is not summer) |
+| *If only he **were** here!* | (He is not here) |
 
 ##### E. After *Would Rather* (Present/Future Preference about Others)
 
@@ -147,6 +161,7 @@ The past subjunctive is used for hypothetical, unreal, or contrary-to-fact situa
 | *If I **was** rich, I would travel.* | *If I **were** rich, I would travel.* |
 | *I wish I **was** taller.* | *I wish I **were** taller.* |
 | *It is important that she **arrives** on time.* | *It is important that she **arrive** on time.* |
+| *The doctor recommended that she **takes** a break.* | *The doctor recommended that she **take** a break.* |
 
 ---
 
@@ -159,6 +174,7 @@ In British English, the subjunctive is often replaced by **should + base verb**,
 | *I suggest that he **go**.* | *I suggest that he **should go**.* |
 | *She insisted that he **be** there.* | *She insisted that he **should be** there.* |
 | *It is essential that she **arrive**.* | *It is essential that she **should arrive**.* |
+| *They demanded that he **resign**.* | *They demanded that he **should resign**.* |
 
 > **Note:** In American English, the subjunctive is preferred over the *should* alternative. In British English, both are acceptable, but the *should* form is more common in everyday speech.
 
@@ -168,9 +184,9 @@ In British English, the subjunctive is often replaced by **should + base verb**,
 
 | Trigger | Structure | Example |
 |---------|-----------|---------|
-| **Verbs** (suggest, insist, recommend, demand, request, propose, advise, require, ask) | *verb + that + subject + base verb* | *I suggest **that he go**.* |
-| **Adjectives** (essential, important, necessary, vital, crucial, imperative) | *It is + adjective + that + subject + base verb* | *It is essential **that she be** here.* |
-| **Nouns** (suggestion, demand, request, recommendation, requirement) | *noun + that + subject + base verb* | *The suggestion **that he resign** was rejected.* |
+| **Verbs** (suggest, insist, recommend, demand, request, propose, advise, require, ask, urge, command) | *verb + that + subject + base verb* | *I suggest **that he go**.* |
+| **Adjectives** (essential, important, necessary, vital, crucial, imperative, advisable) | *It is + adjective + that + subject + base verb* | *It is essential **that she be** here.* |
+| **Nouns** (suggestion, demand, request, recommendation, requirement, proposal, insistence) | *noun + that + subject + base verb* | *The suggestion **that he resign** was rejected.* |
 
 ---
 
@@ -198,6 +214,9 @@ In British English, the subjunctive is often replaced by **should + base verb**,
 | *advise* | *The lawyer advised that he **remain** silent.* |
 | *require* | *The rules require that each player **wear** a helmet.* |
 | *urge* | *They urged that action **be** taken immediately.* |
+| *command* | *The general commanded that the soldiers **advance**.* |
+| *order* | *The judge ordered that the prisoner **be** released.* |
+| *prefer* | *I would prefer that she **come** alone.* |
 
 ---
 
@@ -210,6 +229,7 @@ To form the negative subjunctive, add **not** before the base verb.
 | *I suggest that he **go**.* | *I suggest that he **not go**.* |
 | *It is important that she **be** here.* | *It is important that she **not be** here.* |
 | *She asked that he **call**.* | *She asked that he **not call**.* |
+| *They recommended that she **apply**.* | *They recommended that she **not apply**.* |
 
 > **Note:** Do **not** use *do not / does not / did not* with the subjunctive.
 
@@ -217,6 +237,7 @@ To form the negative subjunctive, add **not** before the base verb.
 |-----------|---------|
 | *I suggest that he **does not go**.* | *I suggest that he **not go**.* ✓ |
 | *She asked that he **did not call**.* | *She asked that he **not call**.* ✓ |
+| *It is important that she **does not be** late.* | *It is important that she **not be** late.* ✓ |
 
 ---
 
@@ -229,10 +250,24 @@ The passive subjunctive is formed with **be + past participle (V3)**.
 | *I suggest that he **finish** the work.* | *I suggest that the work **be finished**.* |
 | *They demanded that she **sign** the contract.* | *They demanded that the contract **be signed**.* |
 | *It is essential that they **complete** the project.* | *It is essential that the project **be completed**.* |
+| *The doctor recommended that she **take** the medicine.* | *The doctor recommended that the medicine **be taken**.* |
 
 ---
 
-### K. Quick Comparison: Subjunctive vs. Indicative vs. Imperative
+### K. Subjunctive in Formal vs. Informal English
+
+| Register | Present Subjunctive | Past Subjunctive (*were*) |
+|----------|--------------------|--------------------------|
+| **Formal (US)** | *I insist that he be there.* | *If I were you...* |
+| **Formal (UK)** | *I insist that he should be there.* | *If I were/was you...* |
+| **Informal (US)** | *I insist that he is there.* (rare) | *If I was you...* |
+| **Informal (UK)** | *I insist that he is there.* (common) | *If I was you...* (common) |
+
+> **Key Takeaway:** The subjunctive is most alive in **formal American English**. In informal speech and British English, alternate constructions are often used.
+
+---
+
+### L. Quick Comparison: Subjunctive vs. Indicative vs. Imperative
 
 | Mood | Use | Example |
 |------|-----|---------|
@@ -242,14 +277,17 @@ The passive subjunctive is formed with **be + past participle (V3)**.
 
 ---
 
-### L. Common Errors to Avoid
+### M. Common Errors to Avoid
 
-| Error | Correction |
-|-------|------------|
-| *I suggest that he **goes**.* | *I suggest that he **go**.* |
-| *It is important that she **is** on time.* | *It is important that she **be** on time.* |
-| *She insisted that he **was** there.* | *She insisted that he **be** there.* |
-| *If I **was** you...* | *If I **were** you...* |
-| *I wish she **was** here.* | *I wish she **were** here.* |
-| *I suggest that he **does not go**.* | *I suggest that he **not go**.* |
-| *They demanded that the contract **was signed**.* | *They demanded that the contract **be signed**.* |
+| Error | Correction | Rule |
+|-------|------------|------|
+| *I suggest that he **goes**.* | *I suggest that he **go**.* | Use base form after subjunctive verbs |
+| *It is important that she **is** on time.* | *It is important that she **be** on time.* | Use *be* (not *is*) in subjunctive |
+| *She insisted that he **was** there.* | *She insisted that he **be** there.* | Use base form after *insist* |
+| *If I **was** you...* | *If I **were** you...* | Use *were* for all persons in hypothetical *if* clauses (formal) |
+| *I wish she **was** here.* | *I wish she **were** here.* | Use *were* after *wish* (formal) |
+| *I suggest that he **does not go**.* | *I suggest that he **not go**.* | Use *not* + base verb for negative subjunctive |
+| *They demanded that the contract **was signed**.* | *They demanded that the contract **be signed**.* | Use passive subjunctive *be + V3* |
+| *The proposal that he **should resign** was rejected.* (BrE) | *The proposal that he **resign** was rejected.* (AmE) | Use base form in American English |
+| *I would rather he **goes** home.* | *I would rather he **go** home.* | Use base form after *would rather* (with different subject) |
+| *She eats as if she **is** starving.* | *She eats as if she **were** starving.* | Use past subjunctive after *as if* |
