@@ -2,8 +2,8 @@
 
 English questions are typically formed by inverting the usual word order, swapping the subject and the auxiliary or modal verb.
 
-> **Basic Pattern:** *Statement (Subject + Verb)* → *Question (Verb + Subject)*  
-> *Example:* You **are** happy. → **Are** you happy?
+> **Basic Pattern:** *Statement (Subject + Verb)* -> *Question (Verb + Subject)*  
+> *Example:* You **are** happy. -> **Are** you happy?
 
 ---
 
@@ -88,8 +88,8 @@ Tag questions are used to seek confirmation or encourage a response. They consis
 
 **Key Rules:**
 1. The tag uses the **opposite polarity**:
-   - Positive statement → Negative tag
-   - Negative statement → Positive tag
+   - Positive statement -> Negative tag
+   - Negative statement -> Positive tag
 2. The tag uses the **same auxiliary/modal verb** as the statement (or *do/does/did* if no auxiliary is present).
 3. The subject in the tag is always a pronoun.
 
@@ -103,16 +103,105 @@ Tag questions are used to seek confirmation or encourage a response. They consis
 | *She doesn't like it* (negative) | *does she?* (positive) | *She doesn't like it, does she?* |
 
 **Special Cases:**
-- *I am* → *aren't I?* (Not: *amn't I?*)
+- *I am* -> *aren't I?* (Not: *amn't I?*)
   - *I'm late, **aren't I**?*
-- *Let's* → *shall we?*
+- *Let's* -> *shall we?*
   - *Let's go, **shall we**?*
-- Imperatives → *will you?* / *won't you?*
+- Imperatives -> *will you?* / *won't you?*
   - *Open the door, **will you**?*
 
 ---
 
-### E. Special Cases: Stylistic Inversion
+### E. Echo Questions
+
+Echo questions are short questions that repeat what someone has just said. They are used to show **surprise, interest, disbelief**, or to ask for **clarification**. They "echo" the speaker's words.
+
+> **Structure:** *Auxiliary/Modal Verb + Subject?* (repeating key words)
+
+#### 1. Uses of Echo Questions
+
+| Use | Example |
+|-----|---------|
+| **Showing surprise** | *"I'm moving to Japan." - "You're **moving to Japan**?"* |
+| **Expressing disbelief** | *"I won the lottery." - "You **won** the lottery?"* |
+| **Asking for clarification** | *"He left early." - "He **left early**?"* |
+| **Showing interest** | *"We're getting married." - "You're **getting married**?"* |
+| **Requesting confirmation** | *"The meeting is cancelled." - "The meeting is **cancelled**?"* |
+
+#### 2. Forming Echo Questions
+
+| Original Statement | Echo Question | Notes |
+|--------------------|---------------|-------|
+| *I am leaving.* | *You **are leaving**?* | Repeat with correct pronoun |
+| *She doesn't like coffee.* | *She **doesn't like coffee**?* | Repeat entire clause |
+| *They have arrived.* | *They **have arrived**?* | Repeat auxiliary |
+| *He went home.* | *He **went home**?* | Repeat past tense verb |
+| *We should wait.* | *We **should wait**?* | Repeat modal |
+
+#### 3. Echo Questions with *Wh-* Words
+
+Sometimes an echo question uses a wh-word to ask for specific clarification.
+
+| Original Statement | Echo Question | Meaning |
+|--------------------|---------------|---------|
+| *I met someone.* | *You met **who**?* | Ask for the person's name |
+| *She went somewhere.* | *She went **where**?* | Ask for the place |
+| *He did something.* | *He did **what**?* | Ask for the action |
+
+#### 4. Intonation in Echo Questions
+
+| Type | Intonation | Example |
+|------|------------|---------|
+| **Surprise / Disbelief** | Rising intonation ↗ | *"He's leaving?"* ↗ |
+| **Clarification** | Rising intonation ↗ | *"You want **what**?"* ↗ |
+| **Confirmation** | Falling intonation ↘ (less common) | *"He's leaving?"* ↘ |
+
+#### 5. Echo Questions vs. Tag Questions
+
+| Feature | Echo Questions | Tag Questions |
+|---------|----------------|---------------|
+| **Purpose** | Show surprise, ask for clarification | Seek confirmation |
+| **Structure** | Repeat speaker's words + ? | Statement + tag |
+| **Example** | *"He's leaving?"* | *"He's leaving, isn't he?"* |
+
+---
+
+### F. Questions with *That*-Clauses
+
+Questions with *that*-clauses are used to express **surprise, disbelief, or seek an explanation**. They often begin with *How is it that...* or *Why is it that...*
+
+> **Structure:** *Question Word + is/was it + that + clause?*
+
+#### 1. Forming Questions with *That*-Clauses
+
+| Structure | Example |
+|-----------|---------|
+| *How is it that...* | *How is it that you arrived so late?* |
+| *Why is it that...* | *Why is it that he never calls?* |
+| *Is it true that...* | *Is it true that you're moving to London?* |
+| *Is it possible that...* | *Is it possible that she forgot?* |
+| *Could it be that...* | *Could it be that we made a mistake?* |
+
+#### 2. Uses of Questions with *That*-Clauses
+
+| Use | Example |
+|-----|---------|
+| **Expressing surprise** | *How is it that you speak French so well?* |
+| **Seeking an explanation** | *Why is it that the train is always late?* |
+| **Checking a fact** | *Is it true that she resigned?* |
+| **Expressing doubt** | *Is it possible that he didn't know?* |
+
+#### 3. Difference Between Regular Questions and *That*-Clause Questions
+
+| Regular Question | Question with *That*-Clause |
+|------------------|----------------------------|
+| *Why did you arrive late?* | *How is it that you arrived late?* (implies surprise) |
+| *Is she moving to London?* | *Is it true that she's moving to London?* (seeks confirmation) |
+| *Did he forget?* | *Is it possible that he forgot?* (expresses doubt) |
+
+---
+
+### G. Special Cases: Stylistic Inversion
 
 This is a stylistic or literary construction, often found in narrative or formal speech, used for emphasis or rhetorical effect.
 
@@ -124,11 +213,11 @@ This is a stylistic or literary construction, often found in narrative or formal
 | *So goes the story.* | Emphasizes how the narrative proceeds |
 | *Never have I seen such a thing!* | Emphasis on "never" (with auxiliary) |
 
-> **Note:** This overlaps with inversion structures covered in *Section 11. Inversion*.
+> **Note:** This overlaps with inversion structures covered in *[Section 11. Inversion](./inversion.md)*. Check that too. 
 
 ---
 
-### F. Quick Reference Summary Table
+### H. Quick Reference Summary Table
 
 | Question Type | Structure | Example |
 |---------------|-----------|---------|
@@ -139,4 +228,19 @@ This is a stylistic or literary construction, often found in narrative or formal
 | Embedded Question | *Intro phrase + wh-word + S + V* | *Can you tell me where you live?* |
 | Tag Question (positive) | *Positive statement + negative tag?* | *You like coffee, don't you?* |
 | Tag Question (negative) | *Negative statement + positive tag?* | *She isn't here, is she?* |
+| Echo Question | *Repeat speaker's words + ?* | *"You're leaving?"* |
+| Question with That-Clause | *How/Why is it that + clause?* | *How is it that you're late?* |
 | Stylistic Inversion | *Verb + Subject* | *Here comes the bus.* |
+
+---
+
+### I. Common Errors to Avoid
+
+| Error | Correction |
+|-------|------------|
+| *You like coffee?* (without auxiliary) | *Do you like coffee?* |
+| *What you want?* | *What do you want?* |
+| *Can you tell me where is the station?* (embedded inversion) | *Can you tell me where the station is?* |
+| *She is coming, isn't she?* (correct - no error) | - |
+| *I'm late, amn't I?* | *I'm late, aren't I?* |
+| *He doesn't like it, doesn't he?* (same polarity) | *He doesn't like it, does he?* |
