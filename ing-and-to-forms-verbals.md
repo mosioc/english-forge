@@ -1,4 +1,4 @@
-## 14. `-ing` and `to` Forms (Verbals)
+## 14. Verb Complementation: Gerunds (-ing) and Infinitives (to) (Verbals)
 
 The infinitive (`to + base verb`) and the gerund (`-ing` form of the verb) are used in various grammatical constructions. Understanding when to use each - especially after certain verbs, prepositions, and adjectives - is crucial for accurate and natural English.
 
@@ -219,15 +219,111 @@ Participial phrases act like adjectives, modifying nouns or pronouns.
 
 ---
 
-### H. Quick Reference Summary Table
+### H. Verbs with Two Objects (Ditransitive Verbs)
+
+Some verbs can take **two objects**: a **direct object** (the thing) and an **indirect object** (the person). These objects can be ordered in two ways.
+
+> **Pattern 1:** *Verb + Indirect Object (person) + Direct Object (thing)*
+> **Pattern 2:** *Verb + Direct Object (thing) + to/for + Indirect Object (person)*
+
+#### Common Ditransitive Verbs
+
+| Verb | Pattern 1 (IO + DO) | Pattern 2 (DO + to/for + IO) |
+|------|---------------------|------------------------------|
+| *give* | *She gave **me** a book.* | *She gave a book **to me**.* |
+| *send* | *They sent **us** a letter.* | *They sent a letter **to us**.* |
+| *tell* | *He told **me** a story.* | *He told a story **to me**.* |
+| *show* | *She showed **him** the way.* | *She showed the way **to him**.* |
+| *offer* | *They offered **her** a job.* | *They offered a job **to her**.* |
+| *lend* | *Can you lend **me** $10?* | *Can you lend $10 **to me**?* |
+| *write* | *She wrote **me** an email.* | *She wrote an email **to me**.* |
+| *buy* | *He bought **his wife** a gift.* | *He bought a gift **for his wife**.* |
+| *make* | *She made **us** dinner.* | *She made dinner **for us**.* |
+| *get* | *Can you get **me** a coffee?* | *Can you get a coffee **for me**?* |
+| *cook* | *He cooked **his family** a meal.* | *He cooked a meal **for his family**.* |
+| *find* | *I found **her** a job.* | *I found a job **for her**.* |
+
+#### Key Rules for Two Objects
+
+| Rule | Example |
+|------|---------|
+| **Pronouns are often placed first** (Pattern 1) | *Give **me** the book.* (not *Give the book to me* - though both are correct) |
+| **With *to*:** verbs of transfer/giving | *give, send, lend, offer, show, tell, write, pass* |
+| **With *for*:** verbs of doing for someone | *buy, make, get, cook, find, choose, pick* |
+| **Cannot separate the verb from the direct object** (Pattern 2) | *She gave **a book** to me.* (DO before *to*) |
+
+#### Passive Voice with Two Objects
+
+Sentences with two objects can have **two passive forms**.
+
+| Active | Passive (IO as subject) | Passive (DO as subject) |
+|--------|------------------------|------------------------|
+| *She gave me a book.* | *I **was given** a book.* | *A book **was given** to me.* |
+| *They offered her a job.* | *She **was offered** a job.* | *A job **was offered** to her.* |
+| *He bought her a gift.* | *She **was bought** a gift.* | *A gift **was bought** for her.* |
+
+---
+
+### I. Verbs Followed by Either Gerund or Infinitive (With Meaning Change)
+
+Some verbs can be followed by both a gerund and an infinitive, but the **meaning changes**.
+
+| Verb | + Gerund (-ing) | + Infinitive (to + V1) |
+|------|----------------|------------------------|
+| *stop* | *She stopped **smoking**.* (quit the action) | *She stopped **to smoke**.* (stopped in order to smoke) |
+| *remember* | *I remember **locking** the door.* (memory of past action) | *Remember **to lock** the door.* (don't forget future action) |
+| *forget* | *I'll never forget **meeting** her.* (memory of past event) | *Don't forget **to call** him.* (don't forget future action) |
+| *regret* | *I regret **telling** him.* (sorry about past action) | *I regret **to inform** you.* (sorry about what I'm about to say) |
+| *try* | *Try **pressing** the button.* (experiment with a method) | *Try **to fix** it.* (make an effort to achieve something) |
+| *mean* | *Success means **working** hard.* (involves/requires) | *I didn't mean **to hurt** you.* (intend) |
+| *need* | *The car needs **washing**.* (needs to be done - passive meaning) | *I need **to wash** the car.* (active obligation) |
+| *go on* | *He went on **talking** for hours.* (continued) | *She went on **to become** a doctor.* (proceeded to next action) |
+
+---
+
+### J. Verbs Followed by Either Gerund or Infinitive (No/Negligible Meaning Change)
+
+| Verb | Both are possible with little or no change in meaning |
+|------|------------------------------------------------------|
+| *begin* | *It began **raining**.* / *It began **to rain**.* |
+| *start* | *She started **crying**.* / *She started **to cry**.* |
+| *continue* | *He continued **working**.* / *He continued **to work**.* |
+| *like* | *I like **swimming**.* / *I like **to swim**.* (slight nuance: gerund = enjoyment, infinitive = habit/choice) |
+| *love* | *She loves **dancing**.* / *She loves **to dance**.* |
+| *hate* | *I hate **being** late.* / *I hate **to be** late.* |
+| *prefer* | *I prefer **reading**.* / *I prefer **to read**.* |
+
+> **Note for *like/love/hate/prefer*:** In American English, the infinitive is more common for specific situations; the gerund is more common for general statements. However, both are widely used and accepted.
+
+---
+
+### K. Quick Reference Summary Table
 
 | Pattern | Example |
 |---------|---------|
 | *Verb + -ing* | *I enjoy **swimming**.* |
 | *Verb + to + V1* | *I want **to swim**.* |
 | *Verb + object + to + V1* | *She told me **to go**.* |
+| *Verb + two objects* | *She gave **me a book**.* / *She gave **a book to me**.* |
 | *Preposition + -ing* | *Thank you **for helping**.* |
 | *Adjective + to + V1* | *I'm happy **to help**.* |
 | *be/get used to + -ing* | *I'm used **to waking** early.* |
 | *would rather + V1* | *I'd rather **stay** home.* |
+| *stop + -ing / stop + to* | *She stopped **smoking**.* / *She stopped **to smoke**.* |
+| *remember + -ing / remember + to* | *I remember **locking**.* / *Remember **to lock**.* |
 | *see/hear/watch + object + V1/-ing* | *I saw him **leave/leaving**.* |
+
+---
+
+### L. Common Errors to Avoid
+
+| Error | Correction |
+|-------|------------|
+| *I look forward **to see** you.* | *I look forward **to seeing** you.* |
+| *She suggested **to go** home.* | *She suggested **going** home.* |
+| *I enjoy **to read**.* | *I enjoy **reading**.* |
+| *He made me **to laugh**.* | *He made me **laugh**.* (no *to* after *make*) |
+| *I let him **to go**.* | *I let him **go**.* (no *to* after *let*) |
+| *She gave **to me** a book.* (wrong order with *to*) | *She gave **me** a book.* or *She gave a book **to me**.* |
+| *I stopped **to smoke** cigarettes.* (means you stopped in order to smoke) | *I stopped **smoking** cigarettes.* (to quit) |
+| *I remembered **to lock** the door yesterday.* (if you actually have a memory) | *I remembered **locking** the door yesterday.* (recalling the action) |
