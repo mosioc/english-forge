@@ -13,7 +13,7 @@
 - **Action Verbs:** Express physical or mental action (run, think).
 - **Linking Verbs:** Connect subject to a noun or adjective describing it (is, seem, become).
 - **Auxiliary Verbs:** Helper verbs (be, do, have) used with main verbs for tenses, voice, etc.
-- **All Verbs (Tenses):** Represent time (Present, Past, Future) and aspect (Simple, Continuous, Perfect, Perfect Continuous). *See main tense section for details.*
+- **All Verbs (Tenses):** Represent time (Present, Past, Future) and aspect (Simple, Continuous, Perfect, Perfect Continuous). *See [main tense section](./tenses.md) for details.*
 - **Infinitive:** Base form of a verb, often with 'to' (to run, to eat).
 
 #### Nouns
@@ -90,7 +90,7 @@ Word parts added to change meaning or word type.
   - Use a semicolon (;).
   - Make them separate sentences.
 
-- **Conditional Sentences:** Express conditions and their results (If/When + clause, main clause). Types 0, 1, 2, 3 cover present/future possibilities and past hypotheticals. *See Conditional section for details.*
+- **Conditional Sentences:** Express conditions and their results (If/When + clause, main clause). Types 0, 1, 2, 3 cover present/future possibilities and past hypotheticals. *See [Conditional section](./if-clauses-wish-clauses-conditionals.md) for details.*
 
 - **Clauses:** Groups of words with a subject and a verb.
   - **Independent Clause:** Can stand alone as a sentence.
@@ -102,13 +102,13 @@ Word parts added to change meaning or word type.
 
 - **Active and Passive Voice:**
   - **Active:** Subject performs action (The cat chased the mouse).
-  - **Passive:** Subject receives action (The mouse was chased by the cat). *See Passive Voice section for details.*
+  - **Passive:** Subject receives action (The mouse was chased by the cat). *See [Passive Voice section](./passive-voice.md) for details.*
 
 - **Noun Phrases:** A noun and its modifiers (the big red ball).
 
 - **Adverbial Phrases:** Groups of words acting as an adverb (in the morning, very quickly).
 
-- **Subject-Verb-Object (SVO):** Basic English sentence order.
+- **Subject-Verb-Object (SVO):** Basic English sentence order. *See [Section 1.5 Word Order (SVO)](./word-order-svo.md) for full details.*
 
 - **Sentence Structure:** How clauses and phrases are arranged (simple, compound, complex, compound-complex).
 
