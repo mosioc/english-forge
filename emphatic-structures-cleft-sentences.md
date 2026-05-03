@@ -1,8 +1,8 @@
-## 12.1 Emphatic Structures (Cleft Sentences)
+## 12 Emphatic Structures (Cleft Sentences)
 
 Cleft sentences are used to **emphasize** a particular part of a sentence. The word "cleft" means "split" or "divided" - a cleft sentence splits a standard sentence into two parts to highlight a specific element (subject, object, adverb, etc.).
 
-> **Related Sections:** See *Section 11. Inversion* for other emphasis structures and *Section 17. Clause Concepts* for clause types.
+> **Related Sections:** See *[Section 11. Inversion](./inversion.md)* for other emphasis structures and *[Section 17. Clause Concepts](./clause-concepts.md)* for clause types.
 
 ---
 
@@ -186,7 +186,7 @@ Sometimes *it* is used as a dummy subject to emphasize an infinitive or *that*-c
 | **All-cleft** | *All John did was **break the window**.* | The only action |
 | **Reversed wh-cleft** | ***Breaking the window** was what John did.* | Action (breaking) |
 | **Emphatic do** | *John **did break** the window.* | Verb (did break) |
-| **Inversion** (see Section 10) | *Never **had John** broken a window before.* | Negative time phrase |
+| **Inversion** (see [Section 11](./inversion.md)) | *Never **had John** broken a window before.* | Negative time phrase |
 
 ---
 
