@@ -2,7 +2,7 @@
 
 English is an **SVO language**: the core word order is **Subject + Verb + Object**. Understanding this basic structure and the rules for placing other elements (indirect objects, adverbs, prepositional phrases) is essential for forming correct sentences.
 
-> **Related Sections:** See *Section 19. Adjectives and Adverbs* for adverb placement with verbs and adjectives, *Section 11. Inversion* for when normal word order is reversed, *Section 13. Questions* for question word order, and *Section 19.1 Order of Adjectives* for order of adjectives. 
+> **Related Sections:** See *[Section 19. Adjectives and Adverbs](./adjectives-adverbs.md)* for adverb placement with verbs and adjectives, *[Section 11. Inversion](./inversion.md)* for when normal word order is reversed, *[Section 13. Questions](./questions.md)* for question word order, and *[Section 19.1 Order of Adjectives](./order-of-adjectives.md)* for order of adjectives. 
 
 ---
 
@@ -157,7 +157,7 @@ Time can come first when it is **the main focus**, especially in shorter sentenc
 
 ### D. Adverb Placement: Quick Summary
 
-For full details, see *Section 19. Adjectives and Adverbs*. Here is a short summary:
+For full details, see *[Section 19. Adjectives and Adverbs](./adjectives-adverbs.md)*. Here is a short summary:
 
 | Adverb Type | Typical Position | Example |
 |-------------|------------------|---------|
