@@ -50,6 +50,18 @@ Similar to *can* and *could*, used for ability. Can be used in all tenses.
 | Past | was/were able to | *He **was able to** finish the project on time.* |
 | Future | will be able to | *They **will be able to** join us tomorrow.* |
 
+#### (Be) Allowed To
+
+Similar to *can* and *could* for permission, but *be allowed to* is more explicit and can be used in all tenses. Often used when permission comes from an external authority (rules, parents, laws).
+
+| Tense | Form | Example |
+|-------|------|---------|
+| Present | am/is/are allowed to | *Students **are allowed to** use the library until 9 PM.* |
+| Past | was/were allowed to | *When I was a child, I **was not allowed to** watch TV after dinner.* |
+| Future | will be allowed to | *You **will be allowed to** leave once you finish the test.* |
+
+**Note on form:** Unlike modal verbs, *be allowed to* requires the verb *to be* and follows standard conjugation.
+
 #### Must
 
 | Use | Meaning | Example |
@@ -84,7 +96,13 @@ Similar to *can* and *could*, used for ability. Can be used in all tenses.
 |-------|---------|---------|
 | **must** | Strong obligation (speaker's perspective) | *I **must** finish this report by Friday.* |
 | **have to** | External obligation (rules, external factors) | *Students **have to** wear uniforms.* / *You **have to** have a passport to travel.* |
-| **needn't** | Lack of necessity | *You **needn't** worry about the test; it's quite easy.* |
+| **needn't** | Lack of necessity (formal/British) | *You **needn't** worry about the test; it's quite easy.* |
+| **don't need to**  | Lack of necessity (common, neutral) | *You **don't need to** bring anything to the party.* |
+| **don't have to**  | Lack of necessity (very common in everyday speech) | *We **don't have to** wear uniforms on Fridays.* |
+
+**Important distinction:**
+- *Must not* = prohibition (You *must not* smoke here.)
+- *Don't have to* = lack of necessity (You *don't have to* smoke, but you can if you want.)
 
 #### Needn't Have vs. Didn't Need To
 
@@ -111,7 +129,59 @@ Similar to *can* and *could*, used for ability. Can be used in all tenses.
 
 ---
 
-### D. Modals in Past Forms (Hypothetical Situations)
+### D. Modals of Habit, Prediction, and Politeness
+
+This new section combines *will*, *would*, and *used to*.
+
+#### Will
+
+| Use | Meaning | Example |
+|-----|---------|---------|
+| Prediction | Future prediction (certain) | *It **will** rain tomorrow according to the forecast.* |
+| Spontaneous decision | Decision made at the moment of speaking | *The phone is ringing — I **will** answer it.* |
+| Promise | Committing to an action | *I **will** call you as soon as I arrive.* |
+| Polite request | Asking someone to do something | *Will you please open the window?* |
+| Refusal (negative) | Refusing to do something | *The car **won't** start.* / *He **won't** listen to me.* |
+
+#### Would
+
+| Use | Meaning | Example |
+|-----|---------|---------|
+| Past habit | Repeated actions in the past (not states) | *Every summer, we **would** visit my grandparents.* |
+| Polite request | More polite than *will* | *Would you mind helping me with this?* |
+| Hypothetical / Conditional | Imaginary situations | *I **would** buy a house if I won the lottery.* |
+| Preference | Expressing preference | *I **would** rather stay home tonight than go out.* |
+| Past refusal (negative) | Refused to do something in the past | *He **wouldn't** tell me the secret, no matter how much I asked.* |
+
+#### Used To
+
+| Use | Meaning | Example |
+|-----|---------|---------|
+| Past habit (action) | Repeated past actions that no longer happen | *I **used to** play soccer every weekend, but I don't anymore.* |
+| Past state | Past situations that are no longer true | *She **used to** live in Paris.* / *There **used to be** a cinema here.* |
+
+**Important rules for *used to*:**
+- Only exists in past tense (no present form)
+- Negative: *didn't use to* (not *didn't used to*)
+- Question: *Did you use to...?*
+
+| Form | Example |
+|------|---------|
+| Affirmative | *I **used to** smoke, but I quit.* |
+| Negative | *I **didn't use to** like vegetables as a child.* |
+| Question | *Where **did you use to** live before moving here?* |
+
+**Comparison: *used to* vs. *would* (both for past habits)**
+
+| | Used To | Would |
+|--|---------|-------|
+| Past habits (actions) | ✓ *I used to walk to school.* | ✓ *I would walk to school.* |
+| Past states (no action) | ✓ *She used to have long hair.* | ❌ *She would have long hair.* |
+| Past facts | ✓ *There used to be a hotel here.* | ❌ *There would be a hotel here.* |
+
+---
+
+### E. Modals in Past Forms (Hypothetical Situations)
 
 | Form | Meaning | Example |
 |------|---------|---------|
@@ -120,10 +190,11 @@ Similar to *can* and *could*, used for ability. Can be used in all tenses.
 | **must have + V3** | Strong belief about the past | *She **must have received** good news.* |
 | **might have + V3** | Past possibility (may or may not have happened) | *He **might have forgotten** our meeting.* |
 | **may have + V3** | Past possibility (similar to *might have*) | *The keys **may have fallen** out of my pocket.* |
+| **would have + V3** | Hypothetical past (something didn't happen) | *I **would have called** you, but my phone died.* |
 
 ---
 
-### E. Degree of Certainty (Present and Past)
+### F. Degree of Certainty (Present and Past)
 
 | Certainty Level | Present Form | Past Form |
 |----------------|--------------|-----------|
@@ -136,7 +207,7 @@ Similar to *can* and *could*, used for ability. Can be used in all tenses.
 
 ---
 
-### F. Semi-Modals
+### G. Semi-Modals
 
 Semi-modals are verb phrases that function like modal verbs but are not single words. They often behave more like regular verbs (taking `-ing`, `-ed`, etc.) but express modal meanings.
 
@@ -146,12 +217,14 @@ Semi-modals are verb phrases that function like modal verbs but are not single w
 | **ought to** | Advice / moral obligation | *You **ought to** apologize.* |
 | **(be) supposed to** | Expectation or plan | *The meeting **is supposed to** start at 10.* |
 | **(be) able to** | Ability (all tenses) | *I **will be able to** help you.* |
+| **(be) allowed to**  | Permission (all tenses) | *You **are allowed to** bring one guest.* |
 | **tend to** | Habitual action or general tendency | *She **tends to** be late.* |
 | **be likely to** | Probability | *It **is likely to** rain later.* |
+| **used to**  | Past habit or state | *We **used to** be friends.* |
 
 ---
 
-### G. Quick Reference: Modal Verb Summary
+### H. Quick Reference: Modal Verb Summary
 
 | Modal | Primary Uses |
 |-------|--------------|
@@ -164,4 +237,10 @@ Semi-modals are verb phrases that function like modal verbs but are not single w
 | **ought to** | advice (moral obligation) |
 | **had better** | strong advice (with warning) |
 | **have to** | external obligation |
-| **needn't** | lack of necessity |
+| **will**  | prediction, promise, spontaneous decision, polite request |
+| **would**  | past habit, polite request, hypothetical situations, preference |
+| **used to**  | past habits and states (no longer true) |
+| **needn't** | lack of necessity (formal) |
+| **don't need to**  | lack of necessity (neutral) |
+| **don't have to**  | lack of necessity (common) |
+| **be allowed to**  | permission (all tenses, external authority) |
