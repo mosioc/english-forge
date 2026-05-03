@@ -1,8 +1,8 @@
-# Summary; Reminder and Quick Reference Cheatsheet
+## Summary; Reminder and Quick Reference Cheatsheet
 
 ---
 
-## Word Building: Prefixes and Suffixes
+### Word Building: Prefixes and Suffixes
 
 | Type | Common Prefixes/Suffixes |
 |------|--------------------------|
@@ -14,7 +14,7 @@
 
 ---
 
-## Key Spelling Rules
+### Key Spelling Rules
 
 | Rule | Example |
 |------|---------|
@@ -29,7 +29,7 @@
 
 ---
 
-## Capitalization
+### Capitalization
 
 | Rule | Example |
 |------|---------|
@@ -42,26 +42,26 @@
 
 ---
 
-## Numbers, Dates & Time
+### Numbers, Dates & Time
 
-### Numbers
+#### Numbers
 - Spell out 1-9 (*five*), digits 10+ (*15*)
 - Spell out at sentence start (*Twenty-five people came*)
 
-### Dates
+#### Dates
 - US: *December 25, 2024* -> 12/25/2024
 - UK: *25 December 2024* -> 25/12/2024
 
-### Time
+#### Time
 - *quarter past / half past / quarter to* (UK)
 - *three fifteen / three thirty / three forty-five* (US)
 - *at* clock times (*at 5 PM*), *on* days (*on Monday*), *in* months (*in July*)
 
 ---
 
-## Tenses
+### Tenses
 
-### Active Voice
+#### Active Voice
 
 | Aspect | Structure | Example |
 |--------|-----------|---------|
@@ -70,7 +70,7 @@
 | **Perfect** | *have/has/had* + V3 (past participle) | *She has/had/will have worked.* |
 | **Perfect Continuous** | *have/has/had* + been + V-ing | *She has/had/will have been working.* |
 
-### Passive Voice
+#### Passive Voice
 
 | Aspect | Structure | Example |
 |--------|-----------|---------|
@@ -82,7 +82,7 @@
 
 > **Note:** Perfect Continuous passive (*has been being done*) exists but is almost never used. Rephrase instead.
 
-### More Passive Patterns
+#### More Passive Patterns
 
 | Pattern | Structure | Example |
 |---------|-----------|---------|
@@ -93,7 +93,7 @@
 | **Passive Gerund** | *being + V3* | *She dislikes being told what to do.* |
 | **Passive Infinitive** | *to be + V3* | *She expects to be given a promotion.* |
 
-### Key Tense Rules
+#### Key Tense Rules
 
 | Rule | Example |
 |------|---------|
@@ -109,9 +109,9 @@
 
 ---
 
-## Word Order (SVO)
+### Word Order (SVO)
 
-### Basic Patterns
+#### Basic Patterns
 
 | Pattern | Structure | Example |
 |---------|-----------|---------|
@@ -121,14 +121,14 @@
 | **Linking** (subject complement) | S + V + SC | *She is happy.* |
 | **Object complement** | S + V + O + OC | *They painted the room blue.* |
 
-### Two Objects: Both Patterns
+#### Two Objects: Both Patterns
 
 | Pattern | Structure | Example |
 |---------|-----------|---------|
 | **IO first** (no preposition) | V + IO + DO | *He gave me a book.* |
 | **DO first** (with *to/for*) | V + DO + *to/for* + IO | *He gave a book to me.* |
 
-### When to Use the *to/for* Pattern
+#### When to Use the *to/for* Pattern
 
 | Reason | Example |
 |--------|---------|
@@ -139,7 +139,7 @@
 
 > **Verbs that require *to* (no V+IO+DO):** *explain, describe, suggest, recommend, say*
 
-### Place Before Time Rule
+#### Place Before Time Rule
 
 > **Rule:** Place (Where?) -> Time (When?)
 
@@ -148,7 +148,7 @@
 | *She went **to the park** (place) **yesterday** (time).* | *She went yesterday to the park.* |
 | *I'll meet you **at the station** (place) **at 5 p.m.** (time).* | *I'll meet you at 5 p.m. at the station.* |
 
-### Manner + Place + Time
+#### Manner + Place + Time
 
 > **Rule:** Manner (How?) -> Place (Where?) -> Time (When?)
 
@@ -157,7 +157,7 @@
 | *She drove **carefully** (M) **to work** (P) **this morning** (T).* |
 | *They waited **patiently** (M) **in the queue** (P) **for hours** (T).* |
 
-### Exceptions: Time First
+#### Exceptions: Time First
 
 | Condition | Example |
 |-----------|---------|
@@ -169,7 +169,7 @@
 > ✓ *I read **the book** yesterday.*
 > ✗ *I read yesterday **the book**.*
 
-### Adverb Placement Summary
+#### Adverb Placement Summary
 
 | Adverb Type | Position | Example |
 |-------------|----------|---------|
@@ -182,7 +182,7 @@
 
 ---
 
-## Advanced Future Forms
+### Advanced Future Forms
 
 | Structure | Use | Example |
 |-----------|-----|---------|
@@ -200,7 +200,7 @@
 
 ---
 
-## Modals
+### Modals
 
 > **Structure:** *Subject + modal + base verb (V1)*
 > No *to*, no *-s*, no *do/does/did* for questions or negatives.
@@ -225,7 +225,7 @@
 
 > ***Mustn't* vs. *Don't have to*:** *You mustn't smoke here.* (prohibition) / *You don't have to come.* (no obligation)
 
-### Past Modals (Speculation & Regret)
+#### Past Modals (Speculation & Regret)
 
 | Form | Meaning |
 |------|---------|
@@ -240,9 +240,9 @@
 
 ---
 
-## If, Wish, and Conditionals
+### If, Wish, and Conditionals
 
-### If-Clauses
+#### If-Clauses
 
 | Conditional | If-Clause | Main Clause | Meaning |
 |-------------|-----------|-------------|---------|
@@ -253,7 +253,7 @@
 | **Mixed A** | Past Perfect | *would* + V1 | Past cause -> present result |
 | **Mixed B** | Past Simple | *would have* + V3 | Present condition -> past result |
 
-### Wish-Clauses
+#### Wish-Clauses
 
 | Time | Structure | Use |
 |------|-----------|-----|
@@ -262,7 +262,7 @@
 | **Past** (regret) | *wish + past perfect* | *I wish I had studied.* |
 | **Future** (annoyance/desire) | *wish + would* (others only) | *I wish you would listen.* |
 
-### Key Alternatives
+#### Key Alternatives
 
 | Expression | Meaning |
 |------------|---------|
@@ -274,7 +274,7 @@
 | *only if* | The condition is the only way |
 | *but for / if it weren't for* | Without this |
 
-### Inversion in Conditionals (Formal)
+#### Inversion in Conditionals (Formal)
 
 | Normal | Inverted |
 |--------|----------|
@@ -285,7 +285,7 @@
 
 ---
 
-## Unreal Time (Hypothetical Situations)
+### Unreal Time (Hypothetical Situations)
 
 | Structure | Time | Example |
 |-----------|------|---------|
@@ -305,7 +305,7 @@
 
 ---
 
-## Subjunctive Mood
+### Subjunctive Mood
 
 | Type | Form | Example |
 |------|------|---------|
@@ -317,7 +317,7 @@
 | **Passive Subjunctive** | *be* + V3 | *They demanded that it **be done**.* |
 | **Formulaic (Fixed Expressions)** | *God save the King. / Be that as it may. / Come what may. / Long live... / Suffice it to say.* | |
 
-### Subjunctive Triggers
+#### Subjunctive Triggers
 
 | Type | Examples |
 |------|----------|
@@ -331,7 +331,7 @@
 
 ---
 
-## Passive Voice – Key Patterns
+### Passive Voice – Key Patterns
 
 | Pattern | Structure | Example |
 |---------|-----------|---------|
@@ -347,9 +347,9 @@
 
 ---
 
-## Reported Speech
+### Reported Speech
 
-### Tense Backshift
+#### Tense Backshift
 
 | Direct | Reported |
 |--------|----------|
@@ -363,7 +363,7 @@
 | *may* -> | *might* |
 | *must* -> | *had to* |
 
-### No Backshift
+#### No Backshift
 
 | Condition |
 |-----------|
@@ -373,7 +373,7 @@
 | General truths / timeless facts |
 | Modals: *could, would, should, might, ought to, had better* |
 
-### Changes Beyond Tenses
+#### Changes Beyond Tenses
 
 | Direct | Reported |
 |--------|----------|
@@ -387,7 +387,7 @@
 | *here* -> | *there* |
 | *ago* -> | *before* |
 
-### Reporting Patterns
+#### Reporting Patterns
 
 | Type | Pattern | Example |
 |------|---------|---------|
@@ -401,7 +401,7 @@
 | Promise | *promise + to + V1* | *She promised to call.* |
 | Refusal | *refuse + to + V1* | *He refused to go.* |
 
-### Reporting with Nouns and Adjectives
+#### Reporting with Nouns and Adjectives
 
 | Pattern | Example |
 |---------|---------|
@@ -413,7 +413,7 @@
 
 ---
 
-## Auxiliary Verbs – Quick Reference
+### Auxiliary Verbs – Quick Reference
 
 | Auxiliary | Functions |
 |-----------|-----------|
@@ -423,7 +423,7 @@
 | **Modals** (*can, could, will, would, shall, should, must, may, might*) | Possibility, obligation, ability, permission, etc. |
 | **Semi-modals** (*have to, need to, be able to, be allowed to, be going to, used to, had better, would rather*) | Modal meanings across all tenses |
 
-### Short Responses
+#### Short Responses
 
 | Statement | Affirmative | Negative |
 |-----------|-------------|----------|
@@ -431,7 +431,7 @@
 | Negative | – | *Neither/Nor + aux + I* |
 | *think/hope/believe/expect/be afraid* + clause | *I think so.* | *I don't think so.* / *I hope not.* |
 
-### Emphatic *Do*
+#### Emphatic *Do*
 
 | Use | Example |
 |-----|---------|
@@ -439,9 +439,9 @@
 
 ---
 
-## Inversion – Triggers
+### Inversion – Triggers
 
-### After Negative/Emphatic Adverbs (Verb-Subject)
+#### After Negative/Emphatic Adverbs (Verb-Subject)
 
 | Trigger | Example |
 |---------|---------|
@@ -455,7 +455,7 @@
 | *Only + time/condition phrase* | *Only then did I understand.* |
 | *Under no circumstances / In no way / At no time* | *Under no circumstances should you open that door.* |
 
-### After Place Adverbs
+#### After Place Adverbs
 
 | Example | Note |
 |---------|------|
@@ -463,7 +463,7 @@
 | *There goes my chance.* | |
 | *In the corner sat an old man.* | |
 
-### In Conditionals (Formal – Omit *If*)
+#### In Conditionals (Formal – Omit *If*)
 
 | With *if* | Without *if* |
 |-----------|---------------|
@@ -474,18 +474,18 @@
 | *If it were not for...* | *Were it not for...* |
 | *If it had not been for...* | *Had it not been for...* |
 
-### Agreement (*So / Neither / Nor*)
+#### Agreement (*So / Neither / Nor*)
 
 | Statement | Agreement |
 |-----------|-----------|
 | Positive | *So + aux + subject* – *So do I.* |
 | Negative | *Neither/Nor + aux + subject* – *Neither do I.* |
 
-### Concession (*As / Though*)
+#### Concession (*As / Though*)
 
 *Strange as it may seem...* / *Try as he might...* / *Child as he is...* (no article)
 
-### Wishes with *May*
+#### Wishes with *May*
 
 | Structure | Example |
 |-----------|---------|
@@ -493,7 +493,7 @@
 
 ---
 
-## Emphatic Structures
+### Emphatic Structures
 
 | Type | Structure | Example |
 |------|-----------|---------|
@@ -507,7 +507,7 @@
 
 ---
 
-## Questions
+### Questions
 
 | Type | Structure | Example |
 |------|-----------|---------|
@@ -528,7 +528,7 @@
 
 ---
 
-## Negative Structures
+### Negative Structures
 
 | Structure | Formation | Example |
 |-----------|-----------|---------|
@@ -547,9 +547,9 @@
 
 ---
 
-## Exclamations and Interjections
+### Exclamations and Interjections
 
-### Exclamations (full structures)
+#### Exclamations (full structures)
 
 | Type | Structure | Example |
 |------|-----------|---------|
@@ -559,7 +559,7 @@
 | **Negative question** | *Isn't/Don't/Weren't + subj...!* | *Isn't she lovely!* |
 | **Infinitive** | *To + think/be/have...!* | *To think I trusted him!* |
 
-### Interjections (stand-alone)
+#### Interjections (stand-alone)
 
 | Emotion | Examples |
 |---------|----------|
@@ -576,12 +576,12 @@
 
 ---
 
-## -ing and *to* (Gerunds & Infinitives)
+### -ing and *to* (Gerunds & Infinitives)
 
 > **Gerund (-ing):** Functions as a noun.
 > **Infinitive (to + V1):** Expresses purpose or follows certain verbs.
 
-### Quick Decision Table
+#### Quick Decision Table
 
 | Pattern | Example |
 |---------|---------|
@@ -591,7 +591,7 @@
 | *Preposition + -ing* | ALL prepositions -> *-ing*: *before going, after eating, without saying, interested in learning* |
 | *Adjective + to + V1* | *happy to help, afraid to ask, ready to go, difficult to understand* |
 
-### Meaning Change: *-ing* vs. *to*
+#### Meaning Change: *-ing* vs. *to*
 
 | Verb | + -ing | + to |
 |------|--------|------|
@@ -603,7 +603,7 @@
 | *mean* | involve (*means working*) | intend (*didn't mean to hurt*) |
 | *need* | passive meaning (*needs washing*) | active obligation (*need to wash*) |
 
-### Other Key Patterns
+#### Other Key Patterns
 
 | Pattern | Example |
 |---------|---------|
@@ -628,7 +628,7 @@
 
 ---
 
-## Ellipsis (Omitting Words)
+### Ellipsis (Omitting Words)
 
 | Type | Structure | Example |
 |------|-----------|---------|
@@ -643,9 +643,9 @@
 
 ---
 
-## Articles and Nouns
+### Articles and Nouns
 
-### Articles
+#### Articles
 
 | Article | Type | When |
 |---------|------|------|
@@ -655,7 +655,7 @@
 | *some* | Indefinite quantity | Positive statements, offers/requests |
 | *any* | Indefinite quantity | Negatives, questions; also "no matter which" |
 
-### Nouns
+#### Nouns
 
 | Type | Can Plural? | Can *a/an*? | Quantifiers |
 |------|-------------|-------------|-------------|
@@ -664,7 +664,7 @@
 | **Proper** | Rarely | Rarely | Usually no article |
 | **Collective** | Depends | Yes | Singular verb (US), singular/plural (UK) |
 
-### Key Article/Noun Rules
+#### Key Article/Noun Rules
 
 | Rule | Example |
 |------|---------|
@@ -678,9 +678,9 @@
 
 ---
 
-## Pronouns and Determiners
+### Pronouns and Determiners
 
-### Pronouns
+#### Pronouns
 
 | Type | Examples |
 |------|----------|
@@ -697,7 +697,7 @@
 | **Substitute** | *one, ones* – *I need a pen. Do you have **one**?* |
 | **Clause substitute** | *so, not* – *I think **so**. / I hope **not**.* |
 
-### Determiners
+#### Determiners
 
 | Type | Examples |
 |------|----------|
@@ -709,7 +709,7 @@
 | **Quantity/Proportion** | *all, most, none, each, every, both, either, neither* |
 | **Interrogative** | *which, what, whose* |
 
-### Little / Few / Less / Fewer – Quick Guide
+#### Little / Few / Less / Fewer – Quick Guide
 
 | | Countable | Uncountable |
 |--|-----------|-------------|
@@ -721,7 +721,7 @@
 
 ---
 
-## Clause Concepts
+### Clause Concepts
 
 | Clause Type | Function | Introducers |
 |-------------|----------|-------------|
@@ -734,14 +734,14 @@
 
 ---
 
-## Relative Clauses
+### Relative Clauses
 
 | Type | Features | Example |
 |------|----------|---------|
 | **Defining (Restrictive)** | No commas, *that* OK, can omit object pronoun | *The book (that) I read was great.* |
 | **Non-Defining** | Commas, *that* NOT allowed, cannot omit pronoun | *My brother, who lives in Canada, is visiting.* |
 
-### Reduced Forms
+#### Reduced Forms
 
 | Form | Meaning | Example |
 |------|---------|---------|
@@ -750,7 +750,7 @@
 | *to + V1* | Future/Superlative/Ordinal | *The first to arrive gets a prize.* |
 | **Negative reduced** | *not* + participle/infinitive | *Anyone not having a ticket cannot enter.* |
 
-### Special Cases
+#### Special Cases
 
 | Case | Rule |
 |------|------|
@@ -761,9 +761,9 @@
 
 ---
 
-## Adjectives and Adverbs
+### Adjectives and Adverbs
 
-### Adjective Order – OSASCOMP
+#### Adjective Order – OSASCOMP
 
 1. **O**pinion (*beautiful, nice*)
 2. **S**ize (*big, small*)
@@ -776,7 +776,7 @@
 
 > No comma between different categories. Comma between same-category adjectives.
 
-### Degrees of Adjectives
+#### Degrees of Adjectives
 
 | Type | Comparative | Superlative |
 |------|-------------|-------------|
@@ -788,7 +788,7 @@
 
 > **Never double:** ~~*more better*~~, ~~*most fastest*~~
 
-### Key Adjective Rules
+#### Key Adjective Rules
 
 | Rule | Example |
 |------|---------|
@@ -800,7 +800,7 @@
 | **Gradable** (can use *very*) | *hot, cold, big, small, happy, sad* |
 | **Non-gradable** (no *very*, no comparative) | *dead, unique, pregnant, impossible, boiling, freezing* |
 
-### Adverb Types – Quick List
+#### Adverb Types – Quick List
 
 | Type | Examples | Position |
 |------|----------|----------|
@@ -814,7 +814,7 @@
 | **Degree** (Intensifiers) | *so, too, very, extremely* | Before adj/adv |
 | **Degree** (Mitigators) | *enough, quite, fairly, pretty* | *enough* after adj/adv; others before adj/adv |
 
-### Too / Enough – Quick Rules
+#### Too / Enough – Quick Rules
 
 | Rule | Example |
 |------|---------|
@@ -827,7 +827,7 @@
 | *enough... to* (positive result) | *light enough to lift* |
 | *not... enough... to* (negative) | *not light enough to lift* |
 
-### Still / Yet / Already / Any More
+#### Still / Yet / Already / Any More
 
 | Adverb | Meaning | Polarity | Position |
 |--------|---------|----------|----------|
@@ -837,7 +837,7 @@
 | *any more* | Stopped; no longer true | Neg (*not... any more*) | End |
 | *no longer* | Stopped (formal) | Positive form (but neg meaning) | Mid |
 
-### Even – Position = Meaning
+#### Even – Position = Meaning
 
 | Position | Focus | Example |
 |----------|-------|---------|
@@ -847,7 +847,7 @@
 | Before comparative | Degree | *even better, even more tired* |
 | *Not even* | Negative emphasis | *He didn't even call.* |
 
-### So / Such – Quick Decision
+#### So / Such – Quick Decision
 
 | Followed by... | Use |
 |----------------|-----|
@@ -859,7 +859,7 @@
 
 ---
 
-## Comparative Structures
+### Comparative Structures
 
 | Type | Structure |
 |------|-----------|
@@ -873,7 +873,7 @@
 | **Quantity** | *more/fewer/less + noun + than* |
 | **Same as** | *the same + noun + as* |
 
-### Modifying Comparatives
+#### Modifying Comparatives
 
 | Modifier | Meaning | Example |
 |----------|---------|---------|
@@ -882,7 +882,7 @@
 | *even* | Emphasizes difference | *even faster* |
 | *no* | Equal in negative sense | *no richer than* |
 
-### Special Patterns
+#### Special Patterns
 
 | Pattern | Example |
 |---------|---------|
@@ -891,7 +891,7 @@
 
 ---
 
-## Conjunctions
+### Conjunctions
 
 | Type | Examples |
 |------|----------|
@@ -900,7 +900,7 @@
 | **Adversative** | *but, however, yet, although, whereas, despite, in spite of* |
 | **Conjunctive Adverbs** | *however, therefore, moreover, then, nevertheless, consequently, furthermore, indeed* |
 
-### Although / Despite / In Spite Of – Quick Rule
+#### Although / Despite / In Spite Of – Quick Rule
 
 | Followed by... | Use |
 |----------------|-----|
@@ -913,7 +913,7 @@
 
 ---
 
-## Discourse Markers – Functions
+### Discourse Markers – Functions
 
 | Function | Markers |
 |----------|---------|
@@ -931,9 +931,9 @@
 
 ---
 
-## Prepositions – Quick Reference
+### Prepositions – Quick Reference
 
-### Time
+#### Time
 
 | Preposition | Use |
 |-------------|-----|
@@ -953,7 +953,7 @@
 
 > ***During* vs. *While*:** *During* + noun (*during the movie*). *While* + clause (*while the movie was playing*).
 
-### Place
+#### Place
 
 | Preposition | Use |
 |-------------|-----|
@@ -964,7 +964,7 @@
 | *between* | two |
 | *among* | three or more |
 
-### *By* – All Uses
+#### *By* – All Uses
 
 | Use | Example |
 |-----|---------|
@@ -974,7 +974,7 @@
 | Deadline | *by Friday* |
 | Measurement | *increased by 10%* |
 
-### Key Verb + Preposition Collocations
+#### Key Verb + Preposition Collocations
 
 | Preposition | Verbs |
 |-------------|-------|
@@ -989,7 +989,7 @@
 | *with* | agree, deal, provide, compare |
 | ***discuss, enter, resemble, lack, request, marry*** | **NO preposition!** |
 
-### Exceptions & Stranded Prepositions
+#### Exceptions & Stranded Prepositions
 
 | Pattern | Example |
 |---------|---------|
@@ -999,7 +999,7 @@
 
 ---
 
-## Phrasal Verbs – Key Points
+### Phrasal Verbs – Key Points
 
 1. Meaning is often idiomatic (*give up* ≠ *give* + *up*).
 2. One phrasal verb can have multiple meanings (*take off*: remove, depart, succeed).
@@ -1007,7 +1007,7 @@
 4. **Pronouns must go in the middle** (*turn it off*, NOT *turn off it*).
 5. **Three-word phrasal verbs** are always inseparable (*put up with*).
 
-### Common by Particle
+#### Common by Particle
 
 | Particle | Examples |
 |----------|----------|
@@ -1022,7 +1022,7 @@
 
 ---
 
-## Parallel Structure
+### Parallel Structure
 
 > **Rule:** Keep the same grammatical form throughout a list, comparison, or correlative pair.
 
@@ -1039,7 +1039,7 @@
 
 ---
 
-## Register and Formality
+### Register and Formality
 
 | Feature | Formal | Neutral | Informal |
 |---------|--------|---------|----------|
@@ -1050,7 +1050,7 @@
 | Sentence length | Long, complex | Medium | Short |
 | Vocabulary | Latinate (*inquire*) | Standard (*ask*) | Colloquial (*wanna know*) |
 
-### Email Closings
+#### Email Closings
 
 | Register | Examples |
 |----------|----------|
@@ -1060,7 +1060,7 @@
 
 ---
 
-## Hedges and Softening Language
+### Hedges and Softening Language
 
 | Type | Examples |
 |------|----------|
@@ -1073,15 +1073,15 @@
 | **Introductory phrases** | *I think, In my opinion, As far as I know, It seems to me* |
 | **Tag questions** | *isn't it?, don't you?, shouldn't we?* |
 
-### Hedging Strength Scale (Weakest -> Strongest)
+#### Hedging Strength Scale (Weakest -> Strongest)
 
 *might / possibly / maybe* -> *could / perhaps* -> *may / likely* -> *probably / should* -> *certainly / definitely*
 
 ---
 
-## Academic Grammar
+### Academic Grammar
 
-### Nominalisation (Making Nouns from Verbs/Adjectives)
+#### Nominalisation (Making Nouns from Verbs/Adjectives)
 
 | Verb | Noun | Adjective | Noun |
 |------|------|-----------|------|
@@ -1091,7 +1091,7 @@
 
 > *The number decreased rapidly* -> *a rapid decrease* (more academic)
 
-### Complex Prepositions
+#### Complex Prepositions
 
 | Preposition | Meaning | Example |
 |-------------|---------|---------|
@@ -1103,7 +1103,7 @@
 | *by means of* | using | *...by means of statistical analysis* |
 | *in light of* | considering | *...in light of recent evidence* |
 
-### Expressing Opinions Impersonally (It-Clauses)
+#### Expressing Opinions Impersonally (It-Clauses)
 
 | Pattern | Structure | Example |
 |---------|-----------|---------|
@@ -1112,11 +1112,11 @@
 | **Reporting others** | *It + passive verb + that* | *It has been reported that...* |
 | **Distancing** | *It + passive + that... but/however...* | *It has been claimed that X... but recent studies show Y...* |
 
-### Disagreeing Politely (Acknowledge -> Refute)
+#### Disagreeing Politely (Acknowledge -> Refute)
 
 > *It is sometimes argued that... **While it is quite correct that**..., **it must also be noted that**...*
 
-### Linking Ideas in Academic Writing
+#### Linking Ideas in Academic Writing
 
 | Device | Function | Examples |
 |--------|----------|----------|
@@ -1124,7 +1124,7 @@
 | **Conjunctions** | Link clauses | *in that, given that, whereas, albeit* |
 | **Pro-forms** | Refer back | *the former, the latter, as such, these* |
 
-### Referring to Other Work
+#### Referring to Other Work
 
 | Pattern | Example |
 |---------|---------|
@@ -1134,7 +1134,7 @@
 | Referring to sections (written) | ***As discussed above**...* |
 | Referring to sections (spoken) | ***As I said before**... / **Coming back to**...* |
 
-### Lead-In Phrases for Academic Discussion
+#### Lead-In Phrases for Academic Discussion
 
 | Function | Phrases |
 |----------|---------|
@@ -1148,7 +1148,7 @@
 
 ---
 
-## Troubleshooting: Common Errors
+### Troubleshooting: Common Errors
 
 | Error | Correction |
 |-------|------------|
