@@ -1,4 +1,4 @@
-# English Forge — Complete Index
+# English Forge - Detailed Index
 
 ## Basic Concepts
 
@@ -32,7 +32,7 @@
   - [4. Adverb-Forming Suffixes (making adverbs)](./prefixes-suffixes.md#4-adverb-forming-suffixes-making-adverbs)
 - [C. Combining Prefixes and Suffixes](./prefixes-suffixes.md#c-combining-prefixes-and-suffixes)
 
-### 1.2 [Punctuation](./punctuation.md)
+### [1.2 Punctuation](./punctuation.md)
 - [A. End Marks (Sentence Endings)](./punctuation.md#a-end-marks-sentence-endings)
 - [B. Commas (,)](./punctuation.md#b-commas-)
   - [1. Lists (Series)](./punctuation.md#1-lists-series)
@@ -164,7 +164,7 @@
 - [D. Negative Short Forms](./short-forms-contractions.md#d-negative-short-forms)
 - [E. Two Ways with *is* and *are*](./short-forms-contractions.md#e-two-ways-to-form-negative-contractions-with-is-and-are)
 
-### [4. pelling Rules](./spelling-rules.md)
+### [4. Spelling Rules](./spelling-rules.md)
 - [A. Adding `-s` / `-es` (Nouns: plurals / Verbs: third-person singular)](./spelling-rules.md#a-adding--s---es-nouns-plurals--verbs-third-person-singular)
 - [B. Words Ending in `-y`](./spelling-rules.md#b-words-ending-in--y)
   - [Rule 1: Consonant + `-y` → Change `y` to `i` (or `ie`)](./spelling-rules.md#rule-1-consonant---y---change-y-to-i-or-ie)
