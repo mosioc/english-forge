@@ -2,7 +2,7 @@
 
 Register refers to the level of formality or informality in language. Choosing the appropriate register is essential for effective communication. Using the wrong register can make you sound rude, awkward, or out of place.
 
-> **Related Sections:** See *[Section 3. Short Forms (Contractions)](./short-forms-contractions.md)* for informal contractions, *[Appendix A: American vs. British English](./appendix-a-american-british-english.md)* for regional variations, and *[Section 20.1 Discourse Markers](./discourse-markers.md)* for conversational markers. (Also check [Appendix E: Abbreviations](./appendix-e-abbreviations.md)). 
+> **Related Sections:** See *[Section 3. Short Forms (Contractions)](./short-forms-contractions.md)* for informal contractions, *[Appendix A: American vs. British English](./appendix-a-american-british-english.md)* for regional variations, and *[Section 20.1 Discourse Markers](./discourse-markers.md)* for conversational markers. (Also check *[Appendix E: Abbreviations](./appendix-e-abbreviations.md)*). 
 
 ---
 
