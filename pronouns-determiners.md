@@ -166,8 +166,8 @@ Dummy pronouns act as grammatical subjects or objects but do **not** refer to an
 
 | Rule | Correct | Incorrect |
 |------|---------|-----------|
-| Singular noun → *There is* | *There is a cat in the garden.* | *There are a cat...* |
-| Plural noun → *There are* | *There are two cats in the garden.* | *There is two cats...* |
+| Singular noun -> *There is* | *There is a cat in the garden.* | *There are a cat...* |
+| Plural noun -> *There are* | *There are two cats in the garden.* | *There is two cats...* |
 | First item determines verb in lists | *There is a pen, two books, and a notebook.* | (informal) *There are a pen...* |
 | Informal speech: *There's* + plural (common but non-standard) | *There's some cookies on the plate.* (informal) | *There is some cookies...* (formal: *There are*) |
 
@@ -187,10 +187,10 @@ This is one of the most common learner errors. Understand the difference:
 
 | Correct | Incorrect | Explanation |
 |---------|-----------|-------------|
-| ***There is** a park near my house.* | ***It is** a park near my house.* | Introducing the park for the first time → *there* |
-| ***It is** beautiful.* (the park already mentioned) | ***There is** beautiful.* | Referring back to a known subject → *it* |
-| ***There is** a letter for you.* | ***It is** a letter for you.* | Introducing new information → *there* |
-| ***It is** cold today.* | ***There is** cold today.* | General state (weather) → *it*, not *there* |
+| ***There is** a park near my house.* | ***It is** a park near my house.* | Introducing the park for the first time -> *there* |
+| ***It is** beautiful.* (the park already mentioned) | ***There is** beautiful.* | Referring back to a known subject -> *it* |
+| ***There is** a letter for you.* | ***It is** a letter for you.* | Introducing new information -> *there* |
+| ***It is** cold today.* | ***There is** cold today.* | General state (weather) -> *it*, not *there* |
 
 **Compare in Context:**
 
@@ -215,7 +215,7 @@ This is one of the most common learner errors. Understand the difference:
 
 | Context | Example |
 |---------|---------|
-| Reminding / listing known items | *"What can we do today?"* → *"Well, **there is the museum**, **there is the park**..."* |
+| Reminding / listing known items | *"What can we do today?"* -> *"Well, **there is the museum**, **there is the park**..."* |
 
 ---
 
@@ -224,11 +224,11 @@ This is one of the most common learner errors. Understand the difference:
 | Error | Correction | Rule |
 |-------|------------|------|
 | ***It has** a book on the table.* | ***There is** a book on the table.* | Use *there is/are* for existence, not *it has* |
-| ***There is** raining.* | ***It is** raining.* | Weather → *it*, not *there* |
-| ***It is** a meeting at 3 p.m.* | ***There is** a meeting at 3 p.m.* | Introducing new information → *there* |
-| ***There are** a cat in the room.* | ***There is** a cat in the room.* | Singular noun → singular verb |
+| ***There is** raining.* | ***It is** raining.* | Weather -> *it*, not *there* |
+| ***It is** a meeting at 3 p.m.* | ***There is** a meeting at 3 p.m.* | Introducing new information -> *there* |
+| ***There are** a cat in the room.* | ***There is** a cat in the room.* | Singular noun -> singular verb |
 | ***There is** the park near my house.* | ***There is a** park near my house.* | *There* must introduce indefinite nouns |
-| ***There is** three problems.* (wrong in formal English) | ***There are** three problems.* | Plural noun → plural verb (*There's* is informal) |
+| ***There is** three problems.* (wrong in formal English) | ***There are** three problems.* | Plural noun -> plural verb (*There's* is informal) |
 | ***There has** a problem.* | ***There is** a problem.* or ***There** has **been** a problem.* | *There* + *be*, not *there* + *have* |
 
 #### 7. Demonstrative Pronouns
@@ -363,7 +363,7 @@ Articles are the most basic determiners in English.
 | *a* / *an* | Indefinite (non-specific, singular countable) | *I need **a** pen.* / *She ate **an** apple.* |
 | *the* | Definite (specific, any noun type) | ***The** book on the table is mine.* |
 
-> **Zero article** (no article) is also important: *I like coffee.* (general - see **S[ection 15. Articles and Nouns](./articles-nouns.md)** for details.)
+> **Zero article** (no article) is also important: *I like coffee.* (general - see **[Section 15. Articles and Nouns](./articles-nouns.md)** for details.)
 
 ---
 
@@ -491,10 +491,10 @@ Both are used with plural countable nouns (*friends, books, people, ideas, days*
 
 | Correct | Incorrect | Rule |
 |---------|-----------|------|
-| *There is **less** water in the lake this year.* | *There is **fewer** water...* | *Water* is uncountable → *less* |
-| *There are **fewer** students this semester.* | *There are **less** students...* | *Students* are countable → *fewer* |
-| *I have **less** free time than before.* | *I have **fewer** free time...* | *Time* is uncountable → *less* |
-| *She made **fewer** mistakes than last time.* | *She made **less** mistakes...* | *Mistakes* are countable → *fewer* |
+| *There is **less** water in the lake this year.* | *There is **fewer** water...* | *Water* is uncountable -> *less* |
+| *There are **fewer** students this semester.* | *There are **less** students...* | *Students* are countable -> *fewer* |
+| *I have **less** free time than before.* | *I have **fewer** free time...* | *Time* is uncountable -> *less* |
+| *She made **fewer** mistakes than last time.* | *She made **less** mistakes...* | *Mistakes* are countable -> *fewer* |
 
 ---
 
@@ -541,14 +541,14 @@ In everyday spoken and informal written English, ***less*** is often used with c
 
 Is the noun countable (can you count it: books, people, cars)?
 ├── YES (countable)
-│ ├── Positive meaning ("some, enough")? → a few
-│ ├── Negative meaning ("not many, almost none")? → few
-│ └── Comparing quantities? → fewer (... than)
+│ ├── Positive meaning ("some, enough")? -> a few
+│ ├── Negative meaning ("not many, almost none")? -> few
+│ └── Comparing quantities? -> fewer (... than)
 │
 └── NO (uncountable: water, time, money, information)
-├── Positive meaning ("some, enough")? → a little
-├── Negative meaning ("not much, almost none")? → little
-└── Comparing quantities? → less (... than)
+├── Positive meaning ("some, enough")? -> a little
+├── Negative meaning ("not much, almost none")? -> little
+└── Comparing quantities? -> less (... than)
 
 ```
 ---
@@ -557,14 +557,14 @@ Is the noun countable (can you count it: books, people, cars)?
 
 | Error | Correction | Rule |
 |-------|------------|------|
-| *I have **few** time.* | *I have **little** time.* | *Time* is uncountable → *little*, not *few* |
-| *She has **little** friends.* | *She has **few** friends.* | *Friends* are countable → *few*, not *little* |
-| *There are **less** cars today.* (formal) | *There are **fewer** cars today.* | Countable noun → *fewer* (formal) |
-| *I drink **fewer** coffee now.* | *I drink **less** coffee now.* | Uncountable noun → *less* |
-| *We have **a few** hope.* | *We have **a little** hope.* | *Hope* is uncountable → *a little* |
-| *He gave me **a little** suggestions.* | *He gave me **a few** suggestions.* | *Suggestions* are countable → *a few* |
-| *I have **a little** money, so I can't buy anything.* | *I have **little** money, so I can't buy anything.* | Negative meaning ("not enough") → *little*, not *a little* |
-| *I have **few** ideas. Want to hear them?* | *I have **a few** ideas. Want to hear them?* | Positive meaning ("some") → *a few*, not *few* |
+| *I have **few** time.* | *I have **little** time.* | *Time* is uncountable -> *little*, not *few* |
+| *She has **little** friends.* | *She has **few** friends.* | *Friends* are countable -> *few*, not *little* |
+| *There are **less** cars today.* (formal) | *There are **fewer** cars today.* | Countable noun -> *fewer* (formal) |
+| *I drink **fewer** coffee now.* | *I drink **less** coffee now.* | Uncountable noun -> *less* |
+| *We have **a few** hope.* | *We have **a little** hope.* | *Hope* is uncountable -> *a little* |
+| *He gave me **a little** suggestions.* | *He gave me **a few** suggestions.* | *Suggestions* are countable -> *a few* |
+| *I have **a little** money, so I can't buy anything.* | *I have **little** money, so I can't buy anything.* | Negative meaning ("not enough") -> *little*, not *a little* |
+| *I have **few** ideas. Want to hear them?* | *I have **a few** ideas. Want to hear them?* | Positive meaning ("some") -> *a few*, not *few* |
 
 ---
 
@@ -651,8 +651,8 @@ Interrogative determiners ask questions and come **before a noun**.
 | *"Will she come?" - "I hope **so**."* (correct) | - | Affirmative substitute uses *so* |
 | *"Is it raining?" - "I don't hope **so**."* | *I hope **not**.* | Negative substitute for *hope* is *not*, not *don't hope so* |
 | *Which **one** do you want?* (correct) | - | *One* can follow *which* |
-| *There are **less** people here.* (formal) | *There are **fewer** people here.* | Countable noun → *fewer* (formal); *less* is common informally |
-| *I have **fewer** patience than you.* | *I have **less** patience than you.* | *Patience* is uncountable → *less* |
-| *I have **a little** coins in my pocket.* | *I have **a few** coins in my pocket.* | *Coins* are countable → *a few* |
-| *She feels lonely because she has **a few** friends.* | *She feels lonely because she has **few** friends.* | Negative meaning ("not many") → *few*, not *a few* |
+| *There are **less** people here.* (formal) | *There are **fewer** people here.* | Countable noun -> *fewer* (formal); *less* is common informally |
+| *I have **fewer** patience than you.* | *I have **less** patience than you.* | *Patience* is uncountable -> *less* |
+| *I have **a little** coins in my pocket.* | *I have **a few** coins in my pocket.* | *Coins* are countable -> *a few* |
+| *She feels lonely because she has **a few** friends.* | *She feels lonely because she has **few** friends.* | Negative meaning ("not many") -> *few*, not *a few* |
 | *I have **few** friends.* (negative meaning) | *I have **a few** friends.* (positive meaning) | *Few* = not many; *a few* = some |
