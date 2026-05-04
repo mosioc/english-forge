@@ -2,7 +2,7 @@
 
 Negative structures are used to deny, contradict, or express the opposite of a positive statement. English forms negatives primarily by adding **not** after an auxiliary verb, but there are several other ways to express negation.
 
-> **Related Sections:** See *Section 13. Questions* for question formation and *Section 3. Short Forms* for negative contractions.
+> **Related Sections:** See *[Section 13. Questions](./questions.md)* for question formation and *[Section 3. Short Forms](./short-forms-contractions.md)* for negative contractions.
 
 ---
 
@@ -267,7 +267,7 @@ These are **semi-negative adverbs**. They have a negative meaning but are not fo
 | *rarely* | not often | *He **rarely** goes out.* |
 | *seldom* | not often | *They **seldom** complain.* |
 
-> **Important:** Because these words are negative, they are not used with another negative word. Also, when they begin a sentence, **inversion** is required (see *Section 10. Inversion*).
+> **Important:** Because these words are negative, they are not used with another negative word. Also, when they begin a sentence, **inversion** is required (see *[Section 11. Inversion](./inversion.md)*).
 
 | Correct | Incorrect (Double Negative) |
 |---------|----------------------------|
