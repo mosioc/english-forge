@@ -137,7 +137,7 @@ Time can come first when it is **the main focus**, especially in shorter sentenc
 
 | Standard (P -> T) | Time-First (T -> P) | When to use T -> P |
 |-------------------|---------------------|---------------------|
-| *I was in London **in June**.* | *I was in London in June.* | (same length — both fine) |
+| *I was **in London** **in June**.* | ***In June**, I was in London.* | (Same length — both fine; emphasizing the month) |
 | *She was born **in this hospital** **in 1990**.* | ***In 1990**, she was born in this hospital.* | Emphasizing the year |
 | *We went to the beach **last summer**.* | ***Last summer** we went to the beach.* | Short time phrase — more natural |
 
