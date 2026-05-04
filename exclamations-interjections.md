@@ -2,7 +2,7 @@
 
 Exclamations and interjections express strong emotions, sudden reactions, or emphasis. While they are related, they serve different grammatical functions.
 
-> **Related Sections:** See *Section 13. Questions* for other sentence types and *Section 1.2 Punctuation* for exclamation mark usage.
+> **Related Sections:** See *[Section 13. Questions](./questions.md)* for other sentence types and *[Section 1.2 Punctuation](./punctuation.md)* for exclamation mark usage.
 
 ---
 
