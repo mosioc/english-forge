@@ -78,7 +78,8 @@ This section covers the correct ways to write and express numbers, dates, and ti
 | **Be consistent within a sentence** | *She bought 5 apples and 12 oranges.* (Not mixing: *five apples and 12 oranges*) |
 | **Use digits for ages, dates, time, percentages, decimals, measurements** | *He is **8** years old.* / *It costs **50%** more.* / ***2.5** kilometers* |
 | **Large numbers** (use commas as thousands separators) | *1,000,000* (one million) / *10,500* (ten thousand five hundred) |
-| **Decimals** (use a period, not a comma) | *3.14* / *0.5* (not *3,14* or *0,5*) |
+| **Decimals** (use a period, not a comma) | *3.14* / *0.5* (not *3,14* or *0,5*); (three point one four, or three and fourteen hundredths) / (zero point five, or one half, or five tenths)
+ |
 | **Percentages** | *25%* (or *25 percent* in formal writing) |
 
 #### 4. Fractions
@@ -96,21 +97,35 @@ This section covers the correct ways to write and express numbers, dates, and ti
 
 #### 5. Roman Numerals
 
+Here is your expanded section on **Roman Numerals**, with the missing values filled in and common uses added as requested.
+
+---
+
+## 5. Roman Numerals
+
 | Roman | Number | Common Use |
-|-------|--------|-------------|
+| :--- | :--- | :--- |
 | I | 1 | Clock faces, outlines, movie sequels (Rocky II) |
-| V | 5 | |
-| X | 10 | |
-| L | 50 | |
-| C | 100 | Centuries (21st century = XXI) |
-| D | 500 | |
-| M | 1,000 | |
-| IV | 4 | |
-| IX | 9 | |
-| XL | 40 | |
-| XC | 90 | |
-| CD | 400 | |
-| CM | 900 | |
+| IV | 4 | Clock faces (IIII is also common), movie sequels (Rocky IV) |
+| V | 5 | Clock faces, outlines, Super Bowl numbers (Super Bowl V) |
+| IX | 9 | Movie sequels (e.g., Star Wars Episode IX), outlines |
+| X | 10 | Clock faces, outlines, X-ray (named for X-shaped rays) |
+| XL | 40 | Historical dates (e.g., 1940 = MCMXL) |
+| L | 50 | Outlines, historical dates (e.g., Louis XIV) |
+| XC | 90 | Years (e.g., 1990 = MCMXC) |
+| C | 100 | Centuries (21st century = XXI), years (e.g., 1900 = MCM) |
+| CD | 400 | Historical dates (e.g., 400 AD = CD) |
+| D | 500 | Historical dates, formal outlines |
+| CM | 900 | Years (e.g., 1900 = MCM, 900 = CM) |
+| M | 1,000 | Years (e.g., 2000 = MM), book chapters, movie copyright dates |
+
+> **Notes:**   
+    - **No zero:** Roman numerals have no symbol for zero.  
+    - **Additive principle:** III = 3 (I + I + I), VI = 6 (5 + 1).  
+    - **Subtractive principle:** IV = 4 (5 − 1), IX = 9 (10 − 1).  
+    - **Only subtract powers of ten (I, X, C)** before the next two higher numerals:    
+    ✓ IV (4), IX (9), XL (40), XC (90), CD (400), CM (900)    
+    ✗ IL (49 — incorrect; should be XLIX). 
 
 ---
 
@@ -230,6 +245,33 @@ In spoken English, dates use ordinal numbers (1st, 2nd, 3rd, 4th, etc.). In writ
 | 9:50 | *ten to ten* / *nine fifty* |
 | 9:55 | *five to ten* / *nine fifty-five* |
 
+##### 2.1 24-hour clock
+
+In everyday conversation, **24-hour time** is usually converted to 12-hour time. However, in **military, aviation, public transit, and formal schedules**, you may hear it spoken as follows:
+
+| Written | Spoken (Formal/Military) | Spoken (Casual Conversion) |
+| :--- | :--- | :--- |
+| 15:00 | fifteen hundred hours | 3:00 / three o'clock (PM) |
+| 15:05 | fifteen zero five hours | five past three (UK) / three oh-five (US) |
+| 15:10 | fifteen ten hours | ten past three / three ten |
+| 15:15 | fifteen fifteen hours | quarter past three / three fifteen |
+| 15:20 | fifteen twenty hours | twenty past three / three twenty |
+| 15:25 | fifteen twenty-five hours | twenty-five past three / three twenty-five |
+| 15:30 | fifteen thirty hours | half past three / three thirty |
+| 15:35 | fifteen thirty-five hours | twenty-five to four (UK) / three thirty-five (US) |
+| 15:40 | fifteen forty hours | twenty to four (UK) / three forty (US) |
+| 15:45 | fifteen forty-five hours | quarter to four / three forty-five |
+| 15:50 | fifteen fifty hours | ten to four (UK) / three fifty (US) |
+| 15:55 | fifteen fifty-five hours | five to four (UK) / three fifty-five (US) |
+
+| Rule | Example |
+| :--- | :--- |
+| **Add "hundred" for exact hours** | 15:00 = "fifteen hundred hours" |
+| **Say each digit after the hour** | 15:25 = "fifteen twenty-five hours" |
+| **Use "zero" for 0–9 minutes** | 15:05 = "fifteen zero five hours" |
+| **Midnight** | 00:00 = "zero hundred hours" |
+| **Noon** | 12:00 = "twelve hundred hours" |
+
 #### 3. AM and PM
 
 | Abbreviation | Meaning | Time Range |
@@ -238,6 +280,17 @@ In spoken English, dates use ordinal numbers (1st, 2nd, 3rd, 4th, etc.). In writ
 | **PM** | *Post Meridiem* (after noon) | Noon (12:00) to Midnight (11:59) |
 
 > **Note:** *12:00 AM* = midnight. *12:00 PM* = noon. To avoid confusion, use *midnight* or *noon* instead of *12:00 AM/PM*.
+
+| 24-Hour | 12-Hour | Spoken (Casual) |
+| :--- | :--- | :--- |
+| 00:00 | 12:00 AM | midnight |
+| 01:00 | 1:00 AM | one in the morning |
+| 12:00 | 12:00 PM | noon / twelve o'clock |
+| 13:00 | 1:00 PM | one o'clock |
+| 15:00 | 3:00 PM | three o'clock |
+| 18:30 | 6:30 PM | half past six |
+| 21:45 | 9:45 PM | quarter to ten |
+| 23:59 | 11:59 PM | one minute to midnight |
 
 #### 4. Prepositions with Time
 
