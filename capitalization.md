@@ -2,7 +2,7 @@
 
 Capitalization is the practice of writing a word with its first letter in uppercase (A, B, C) and the remaining letters in lowercase (a, b, c). Correct capitalization is essential for clear and professional writing. It signals the beginning of sentences, identifies proper nouns, and provides visual cues for readers.
 
-> **Related Sections:** See *Section 1.2 Punctuation* for sentence endings and *Section 15. Articles and Nouns* for proper nouns.
+> **Related Sections:** See *[Section 1.2 Punctuation](./punctuation.md)* for sentence endings and *[Section 15. Articles and Nouns](./articles-nouns.md)* for proper nouns.
 
 ---
 
