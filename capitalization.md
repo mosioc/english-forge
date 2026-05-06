@@ -103,7 +103,7 @@ Many style guides (APA, Chicago) use **sentence case** for headings: capitalize 
 |------------|-------------------|---------|
 | Days of the week | Seasons | *I have class on **Monday** in the **fall**.* |
 | Months | Centuries (as words) | *My birthday is **December** 25th in the **twenty-first century**.* |
-| Holidays | Decades (as words) | *We celebrate **Thanksgiving** in the **nineties**.* |
+| Holidays | Decades (as words) | *We celebrated **Thanksgiving** in the **nineties**.* |
 | Historical periods/events | | *The **Renaissance** was a cultural movement.* |
 
 **Examples:**
@@ -213,7 +213,7 @@ Traditional poetry capitalizes the first word of every line, regardless of punct
 | *We live in **the** South.* | *We live in **the** South.* (capitalize region) / *We live **south** of town.* (direction lowercase) | Compass directions as regions are capitalized; as directions are not |
 | *I saw **President** Biden.* (acceptable) | *I saw **President** Biden.* or *I saw **president** Biden.* (both seen) | Title before name is usually capitalized |
 | *The **Earth** is round.* | *The **earth** is round.* or ***Earth*** (varies) | *Earth* as planet is capitalized; as soil is not |
-| *I go to **church** every Sunday.* (no capitalization) | *I go to **church** every Sunday.* | *Church* is not capitalized unless part of a name (*St. Mary's Church*) |
+| *I go to **Church** every Sunday.* (no capitalization) | *I go to **church** every Sunday.* | *Church* is not capitalized unless part of a name (*St. Mary's Church*) |
 
 ---
 
