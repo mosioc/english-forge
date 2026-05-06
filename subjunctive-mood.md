@@ -148,7 +148,7 @@ The past subjunctive is used for hypothetical, unreal, or contrary-to-fact situa
 | *I would rather you **were** quiet.* | (You are not quiet) |
 | *She would rather he **were** here.* | (He is not here) |
 
-> **Note:** In informal English, especially in British English, *was* is sometimes used instead of *were* in these contexts (*If I was rich...*). However, **were** is considered more formal and correct, especially in American English and in writing.
+> **Note:** In informal British English, *was* is sometimes used instead of *were* in these contexts (*If I was rich...*). However, **were** is the standard form in American English, even in informal speech. Using *was* in American English for hypotheticals (*If I was you*) is generally considered an error, not just informal. For formal writing and all American English contexts, **were** is preferred.
 
 ---
 
@@ -176,7 +176,7 @@ In British English, the subjunctive is often replaced by **should + base verb**,
 | *It is essential that she **arrive**.* | *It is essential that she **should arrive**.* |
 | *They demanded that he **resign**.* | *They demanded that he **should resign**.* |
 
-> **Note:** In American English, the subjunctive is preferred over the *should* alternative. In British English, both are acceptable, but the *should* form is more common in everyday speech.
+> **Note:** In American English, the subjunctive is preferred over the *should* alternative. The *should* form is **not standard** in American English for these structures (except in very formal legal documents). In British English, both are acceptable, but the *should* form is more common in everyday speech.
 
 ---
 
@@ -259,11 +259,11 @@ The passive subjunctive is formed with **be + past participle (V3)**.
 | Register | Present Subjunctive | Past Subjunctive (*were*) |
 |----------|--------------------|--------------------------|
 | **Formal (US)** | *I insist that he be there.* | *If I were you...* |
-| **Formal (UK)** | *I insist that he should be there.* | *If I were/was you...* |
-| **Informal (US)** | *I insist that he is there.* (rare) | *If I was you...* |
-| **Informal (UK)** | *I insist that he is there.* (common) | *If I was you...* (common) |
+| **Formal (UK)** | *I insist that he should be there.* | *If I were you...* |
+| **Informal (US)** | *I insist that he be there.* (still common) or rephrased: *He needs to be there.* | *If I were you...* (standard; *was* is considered incorrect) |
+| **Informal (UK)** | *I insist that he is there.* (common) or *I insist that he should be there.* | *If I was you...* (common) |
 
-> **Key Takeaway:** The subjunctive is most alive in **formal American English**. In informal speech and British English, alternate constructions are often used.
+> **Key Takeaway:** The subjunctive is most alive in **formal American English**. In informal American English, the subjunctive is often avoided through rephrasing (e.g., *"He needs to be there"* instead of *"I insist that he be there"*). In British English, alternate constructions (*should* + infinitive or indicative forms) are much more common in both formal and informal contexts.
 
 ---
 
