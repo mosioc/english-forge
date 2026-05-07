@@ -223,7 +223,7 @@ Add `'s` to singular nouns (including proper nouns ending in `s`).
 
 #### 3. Possession (Plural Nouns)
 
-- Add `'` to plural nouns ending in `s`
+- Add `'` (-s') to plural nouns ending in `s`
 - Add `'s` to plural nouns not ending in `s`
 
 | Example |
@@ -327,7 +327,7 @@ The em dash is the longest dash (width of a capital **M**). It adds emphasis or 
 | **Parenthetical (stronger than parentheses)** | *Three people—John, Mary, and Tom—were chosen.* |
 | **Interruption in dialogue** | *"But I thought—" "You thought wrong."* |
 
-> **Typing:** On Windows: `Alt + 0151`; on Mac: `Shift + Option + -`; or type two hyphens `--` and auto-convert.
+> **Typing:** On Windows: `Alt + 0151`; on Mac: `Shift + Option + -`; on Linux: `Compose + - + - + -`; or type two hyphens `--` and auto-convert.
 
 #### 2. En Dash (–)
 
@@ -340,7 +340,7 @@ The en dash is medium length (width of a capital **N**). It indicates ranges, co
 | **Connections between equal elements** | *The New York–London flight* / *The mother–daughter relationship* |
 | **Compound adjectives with proper nouns** | *The post–World War II era* |
 
-> **Typing:** On Windows: `Alt + 0150`; on Mac: `Option + -`.
+> **Typing:** On Windows: `Alt + 0150`; on Mac: `Option + -`; on Linux: `Compose + - + - + .`.
 
 > **Important:** Do not mix *from... to...* with en dash: *She worked from 1990–2000.* ❌ -> *She worked from 1990 to 2000.* ✓ or *She worked 1990–2000.* ✓
 
@@ -380,14 +380,14 @@ The slash (also called forward slash or virgule) has several specific uses.
 
 ---
 
-### L. Backslash (\)
+### L. Backslash (\\)
 
 The backslash is **not** a punctuation mark for ordinary writing. It is used only in computing and programming.
 
 | Use | Example |
 |-----|---------|
-| **File paths (Windows)** | *C:\Users\Documents\file.txt* |
-| **Escape characters in programming** | *\n (new line), \t (tab)* |
+| **File paths (Windows)** | C:\Users\Documents\file.txt |
+| **Escape characters in programming** | \n (new line), \t (tab) |
 
 > **Important:** Do not use the backslash in place of the forward slash in regular writing.
 
@@ -399,10 +399,10 @@ The asterisk has several specialized uses.
 
 | Use | Example |
 |-----|---------|
-| **Footnote marker** | *This is a fact.* *See page 10 for details.* |
-| **Correction or omission** | *She went to the store.* (Original: "She went to the market") |
-| **Wildcard in searches** | *Search for "gramm*" to find grammar, grammarian, etc.* |
-| **Emphasis (informal)** | *That was **awesome**!* |
+| **Footnote marker** | \*This is a fact.\* \*See page 10 for details.\* |
+| **Correction or omission** | \*She went to the store.\* (Original: "She went to the market") |
+| **Wildcard in searches** | \*Search for "gramm\*" to find grammar, grammarian, etc.\* |
+| **Emphasis (informal)** | \*That was \*\*awesome\*\*!\* |
 
 ---
 
@@ -428,7 +428,7 @@ The at symbol is used primarily in digital contexts.
 |-----|---------|
 | **Email addresses** | *username@example.com* |
 | **Social media mentions** | *@username* |
-| **Informal quantity** (price per unit) | *Apples @ $1.50/lb* |
+| **Informal quantity** (price per unit) | *Apples @ $1.50/lb* (lb: libra pondo) |
 
 ---
 
@@ -517,7 +517,7 @@ These symbols are commonly used in note-taking, lectures, and informal writing t
 | **#** | Number | ***#** 1 priority* |
 | **%** | Percent | *Sales up 10 **%** .* |
 | **$** | Money / cost | *Budget **$** 1,000* |
-| ***** | Important / key point | **** Key concept*** |
+| \*\*\* | Important / key point | \*\*\* Key concept |
 | **???** | Question / uncertain | *This point is **???** .* |
 | **!!!** | Urgent / essential | ***!!!** Remember!* |
 | **w/** | With | *Meeting **w/** the client* |
@@ -529,7 +529,7 @@ These symbols are commonly used in note-taking, lectures, and informal writing t
 | **i.e.** | That is / in other words | *He is a polyglot, **i.e.**, speaks many languages.* |
 | **vs.** | Against / versus | *Law **vs.** morality* |
 | **c.** | Approximately (circa) | *The building was built **c.** 1900.* |
-| **cf.** | Compare to | *See **cf.** Figure 2* |
+| **cf.** | Compare to / Compare with | *See **cf.** Figure 2* |
 | **N.B.** | Note well / take note | ***N.B.** The deadline is Friday.* |
 | **QED** | Thus proved (used in mathematics) | *Therefore, the theorem is proven. **QED** .* |
 | **i.e.** | Repetition mark (to avoid writing a word twice) | *the same **i.e.** reason* |
@@ -538,7 +538,7 @@ These symbols are commonly used in note-taking, lectures, and informal writing t
 
 ### U. Typing and Keyboard Symbols (Complete List)
 
-| Symbol | Name | Common Use | How to Type (Windows/Mac) |
+| Symbol | Name | Common Use | How to Type (Windows/Mac/Linux) |
 |--------|------|------------|---------------------------|
 | **`** | Backtick / Grave accent | Code blocks (Markdown), diacritics | Shift + \` (US keyboard) |
 | **~** | Tilde | Approximately, home directory (Unix), diacritics | Shift + \` (US keyboard) |
@@ -549,7 +549,7 @@ These symbols are commonly used in note-taking, lectures, and informal writing t
 | **%** | Percent sign | Percentages, modulo operation in programming | Shift + 5 |
 | **^** | Caret | Exponentiation (e.g., 2^3), superscript, XOR in programming | Shift + 6 |
 | **&** | Ampersand | "And" (company names, informal). Logical AND | Shift + 7 |
-| ***** | Asterisk | Multiplication, footnote marker, multiplication in code | Shift + 8 |
+| **\*** | Asterisk | Multiplication, footnote marker, multiplication in code | Shift + 8 |
 | **( )** | Parentheses | Grouping, function calls in programming, parenthetical | Shift + 9 / Shift + 0 |
 | **-** | Hyphen / Minus | Compound words, subtraction, hyphenation | Key next to 0 |
 | **_ (Underscore)** | Underscore | Spaces in file names (space replacement), internal variable names | Shift + Hyphen |
@@ -558,7 +558,7 @@ These symbols are commonly used in note-taking, lectures, and informal writing t
 | **[ ]** | Square brackets | Lists in programming, clarifying information | [ and ] keys |
 | **{ }** | Curly braces / Braces | Code blocks, sets in mathematics, object literals | Shift + [ and Shift + ] |
 | **\|** | Vertical bar / Pipe | Logical OR (in programming), command piping (Unix) | Shift + Backslash |
-| **\** | Backslash | File paths (Windows), escape characters in programming | Backslash key (above Enter) |
+| **\\** | Backslash | File paths (Windows), escape characters in programming | Backslash key (above Enter) |
 | **;** | Semicolon | Separating independent clauses, end of statement (in many coding languages) | ; key (right of L) |
 | **:** | Colon | Introducing lists, explanations, time, ternary operator (in code) | Shift + ; |
 | **'** | Apostrophe / Single quote | Contractions, possessives, string delimiter in code | ' key (right of L, left of Enter) |
@@ -624,7 +624,7 @@ These symbols are commonly used in note-taking, lectures, and informal writing t
 | **Comma before 'that'** | *She said, that she was tired.* | *She said that she was tired.* (No comma) |
 | **Hyphen vs. en dash vs. em dash** | *The years 1990-2000* (should be en dash) | *The years 1990–2000* |
 | **Space around slashes** | *Yes / No* (spaces unnecessary) | *Yes/No* |
-| **Using backslash instead of slash** | *C:/Users/* (should be forward slash or backslash depending on OS) | *C:\Users\* (Windows) or *C:/Users/* (Unix/Mac) |
+| **Using backslash instead of slash** | *C:/Users/* (should be forward slash or backslash depending on OS) | *C:\Users\* (Windows) or *C:/Users/* (Unix/Mac/Linux) |
 | **Period with parentheses** | *He arrived late (around 8 PM.).* | *He arrived late (around 8 PM).* |
 
 ---
