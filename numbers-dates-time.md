@@ -97,12 +97,6 @@ This section covers the correct ways to write and express numbers, dates, and ti
 
 #### 5. Roman Numerals
 
-Here is your expanded section on **Roman Numerals**, with the missing values filled in and common uses added as requested.
-
----
-
-## 5. Roman Numerals
-
 | Roman | Number | Common Use |
 | :--- | :--- | :--- |
 | I | 1 | Clock faces, outlines, movie sequels (Rocky II) |
