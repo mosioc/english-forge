@@ -1,7 +1,5 @@
 ## Summary; Reminder and Quick Reference Cheatsheet
 
-## Summary; Reminder and Quick Reference Cheatsheet
-
 - [Word Building: Prefixes and Suffixes](#word-building-prefixes-and-suffixes)
 - [Key Spelling Rules](#key-spelling-rules)
 - [Capitalization](#capitalization)
