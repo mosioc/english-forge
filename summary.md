@@ -239,9 +239,11 @@
 |---------|-----------|---------|
 | **Intransitive** (no object) | S + V | *The baby cried.* |
 | **Transitive** (direct object) | S + V + DO | *She bought a car.* |
+| **Adverbial** (obligatory adverbial) | S + V + A | *She lives in London.* |
 | **Ditransitive** (two objects) | S + V + IO + DO | *He gave me a gift.* |
-| **Linking** (subject complement) | S + V + SC | *She is happy.* |
+| **Linking** (subject complement) | S + V + SC | *She is happy. / He became a doctor.* |
 | **Object complement** | S + V + O + OC | *They painted the room blue.* |
+| **Object + obligatory adverbial** | S + V + O + A | *She put the book on the table.* |
 
 #### Two Objects: Both Patterns
 
