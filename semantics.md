@@ -1,4 +1,4 @@
-## 28. Semantics: Word and Sentence Meaning
+## 27. Semantics: Word and Sentence Meaning
 
 **Semantics** is the study of **meaning** in language - both at the word level (lexical semantics) and the sentence level (compositional semantics). While grammar tells you what is *correct*, semantics tells you what is *meant*.
 
