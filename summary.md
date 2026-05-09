@@ -1,9 +1,14 @@
 ## Summary; Reminder and Quick Reference Cheatsheet
 
+## Summary; Reminder and Quick Reference Cheatsheet
+
 - [Word Building: Prefixes and Suffixes](#word-building-prefixes-and-suffixes)
 - [Key Spelling Rules](#key-spelling-rules)
 - [Capitalization](#capitalization)
 - [Numbers, Dates & Time](#numbers-dates--time)
+  - [Numbers](#numbers)
+  - [Dates](#dates)
+  - [Time](#time)
 - [Tenses](#tenses)
   - [Active Voice](#active-voice)
   - [Passive Voice](#passive-voice)
@@ -12,9 +17,12 @@
 - [Word Order (SVO)](#word-order-svo)
   - [Basic Patterns](#basic-patterns)
   - [Two Objects: Both Patterns](#two-objects-both-patterns)
+  - [When to Use the *to/for* Pattern](#when-to-use-the-tofor-pattern)
   - [Place Before Time Rule](#place-before-time-rule)
   - [Manner + Place + Time](#manner--place--time)
+  - [Exceptions: Time First](#exceptions-time-first)
   - [Adverb Placement Summary](#adverb-placement-summary)
+- [Sentence Types by Function](#sentence-types-by-function)
 - [Advanced Future Forms](#advanced-future-forms)
 - [Modals](#modals)
   - [Past Modals (Speculation & Regret)](#past-modals-speculation--regret)
@@ -29,29 +37,91 @@
 - [Passive Voice – Key Patterns](#passive-voice--key-patterns)
 - [Reported Speech](#reported-speech)
   - [Tense Backshift](#tense-backshift)
+  - [No Backshift](#no-backshift)
+  - [Changes Beyond Tenses](#changes-beyond-tenses)
   - [Reporting Patterns](#reporting-patterns)
+  - [Reporting with Nouns and Adjectives](#reporting-with-nouns-and-adjectives)
 - [Auxiliary Verbs – Quick Reference](#auxiliary-verbs--quick-reference)
+  - [Short Responses](#short-responses)
+  - [Emphatic *Do*](#emphatic-do)
 - [Inversion – Triggers](#inversion--triggers)
+  - [After Negative/Emphatic Adverbs (Verb-Subject)](#after-negativeemphatic-adverbs-verb-subject)
+  - [After Place Adverbs](#after-place-adverbs)
+  - [In Conditionals (Formal – Omit *If*)](#in-conditionals-formal--omit-if)
+  - [Agreement (*So / Neither / Nor*)](#agreement-so--neither--nor)
+  - [Concession (*As / Though*)](#concession-as--though)
+  - [Wishes with *May*](#wishes-with-may)
 - [Emphatic Structures](#emphatic-structures)
 - [Questions](#questions)
 - [Negative Structures](#negative-structures)
 - [Exclamations and Interjections](#exclamations-and-interjections)
+  - [Exclamations (full structures)](#exclamations-full-structures)
+  - [Interjections (stand-alone)](#interjections-stand-alone)
 - [-ing and *to* (Gerunds & Infinitives)](#-ing-and-to-gerunds--infinitives)
+  - [Quick Decision Table](#quick-decision-table)
+  - [Meaning Change: *-ing* vs. *to*](#meaning-change--ing-vs-to)
+  - [Other Key Patterns](#other-key-patterns)
 - [Ellipsis (Omitting Words)](#ellipsis-omitting-words)
+- [Catenative Verbs (Verb + Verb Patterns)](#catenative-verbs-verb--verb-patterns)
+  - [Causative Verbs](#causative-verbs)
 - [Articles and Nouns](#articles-and-nouns)
+  - [Articles](#articles)
+  - [Nouns](#nouns)
+  - [Key Article/Noun Rules](#key-articlenoun-rules)
 - [Pronouns and Determiners](#pronouns-and-determiners)
+  - [Pronouns](#pronouns)
+  - [Determiners](#determiners)
+  - [Little / Few / Less / Fewer – Quick Guide](#little--few--less--fewer--quick-guide)
 - [Clause Concepts](#clause-concepts)
 - [Relative Clauses](#relative-clauses)
+  - [Reduced Forms](#reduced-forms)
+  - [Special Cases](#special-cases)
 - [Adjectives and Adverbs](#adjectives-and-adverbs)
+  - [Adjective Order – OSASCOMP](#adjective-order--osascomp)
+  - [Degrees of Adjectives](#degrees-of-adjectives)
+  - [Key Adjective Rules](#key-adjective-rules)
+  - [Adverb Types – Quick List](#adverb-types--quick-list)
+  - [Too / Enough – Quick Rules](#too--enough--quick-rules)
+  - [Still / Yet / Already / Any More](#still--yet--already--any-more)
+  - [Even – Position = Meaning](#even--position--meaning)
+  - [So / Such – Quick Decision](#so--such--quick-decision)
+  - [Order of Multiple Adverbs](#order-of-multiple-adverbs)
+    - [Multiple Adverbs of Same Type](#multiple-adverbs-of-same-type)
+    - [Exceptions](#exceptions)
 - [Comparative Structures](#comparative-structures)
+  - [Modifying Comparatives](#modifying-comparatives)
+  - [Special Patterns](#special-patterns)
 - [Conjunctions](#conjunctions)
+  - [Although / Despite / In Spite Of – Quick Rule](#although--despite--in-spite-of--quick-rule)
 - [Discourse Markers – Functions](#discourse-markers--functions)
+- [Correlative Conjunctions](#correlative-conjunctions)
+  - [Key Rules](#key-rules)
 - [Prepositions – Quick Reference](#prepositions--quick-reference)
+  - [Time](#time)
+  - [Place](#place)
+  - [*By* – All Uses](#by--all-uses)
+  - [Key Verb + Preposition Collocations](#key-verb--preposition-collocations)
+  - [Exceptions & Stranded Prepositions](#exceptions--stranded-prepositions)
 - [Phrasal Verbs – Key Points](#phrasal-verbs--key-points)
+  - [Common by Particle](#common-by-particle)
 - [Parallel Structure](#parallel-structure)
 - [Register and Formality](#register-and-formality)
+  - [Email Closings](#email-closings)
 - [Hedges and Softening Language](#hedges-and-softening-language)
+  - [Hedging Strength Scale (Weakest -> Strongest)](#hedging-strength-scale-weakest---strongest)
 - [Academic Grammar](#academic-grammar)
+  - [Nominalisation (Making Nouns from Verbs/Adjectives)](#nominalisation-making-nouns-from-verbsadjectives)
+  - [Complex Prepositions](#complex-prepositions)
+  - [Expressing Opinions Impersonally (It-Clauses)](#expressing-opinions-impersonally-it-clauses)
+  - [Disagreeing Politely (Acknowledge -> Refute)](#disagreeing-politely-acknowledge---refute)
+  - [Linking Ideas in Academic Writing](#linking-ideas-in-academic-writing)
+  - [Referring to Other Work](#referring-to-other-work)
+  - [Lead-In Phrases for Academic Discussion](#lead-in-phrases-for-academic-discussion)
+- [Semantics](#semantics)
+  - [Lexical Relations](#lexical-relations)
+  - [Thematic Roles](#thematic-roles)
+  - [Denotation vs. Connotation](#denotation-vs-connotation)
+  - [Entailment vs. Presupposition](#entailment-vs-presupposition)
 - [Troubleshooting: Common Errors](#troubleshooting-common-errors)
 
 ---
@@ -233,6 +303,17 @@
 | **Time** (*yesterday*) | End (or front for emphasis) | *I'll call you tomorrow.* |
 | **Certainty** (*probably*) | Mid (before main verb, after aux) | *She will definitely come.* |
 | **Viewpoint** (*personally*) | Beginning of clause | *Personally, I disagree.* |
+
+---
+
+### Sentence Types by Function
+
+| Type | Function | Punctuation | Example |
+|------|----------|-------------|---------|
+| **Declarative** | Give information | . | *She works at a hospital.* |
+| **Interrogative** | Ask for information | ? | *Where does she live?* |
+| **Imperative** | Give command/request | . or ! | *Sit down. / Don't touch that.* |
+| **Exclamative** | Express emotion | ! | *What a beautiful day!* |
 
 ---
 
@@ -697,6 +778,32 @@
 
 ---
 
+### Catenative Verbs (Verb + Verb Patterns)
+
+| Pattern | Key Verbs | Example |
+|---------|-----------|---------|
+| **Verb + Bare Infinitive** | Modals, *make, let, have, help* | *Let me **go**.* |
+| **Verb + To-Infinitive** | *want, decide, agree, expect, seem* | *I want **to leave**.* |
+| **Verb + Object + To-Infinitive** | *tell, ask, advise, force, allow* | *She told me **to wait**.* |
+| **Verb + Gerund** | *enjoy, avoid, finish, admit, mind* | *I enjoy **swimming**.* |
+| **Verb + Preposition + Gerund** | *insist on, succeed in, apologize for* | *He insisted **on paying**.* |
+| **Either - Same Meaning** | *begin, start, continue, love, hate* | *I began **to cry / crying**.* |
+| **Either - Different Meaning** | *remember, forget, regret, stop, try, mean* | *I stopped **to smoke / smoking**.* |
+
+#### Causative Verbs
+
+| Verb | Meaning | Structure | Example |
+|------|---------|-----------|---------|
+| **make** | Force | *make + obj + V1* | *She made him cry.* |
+| **have** | Delegate | *have + obj + V1* / *have + obj + V3* | *I had the plumber fix it. / I had my hair cut.* |
+| **get** | Persuade | *get + obj + to + V1* / *get + obj + V3* | *I got him to help. / I got my car fixed.* |
+| **let** | Allow | *let + obj + V1* | *She let me go.* |
+| **help** | Assist | *help + obj + V1 / to + V1* | *She helped me move.* |
+
+> **Passive *make*:** *He was made **to** work late.* (uses *to*!)
+
+---
+
 ### Articles and Nouns
 
 #### Articles
@@ -911,6 +1018,26 @@
 | *a/an* + (adj) + singular noun | **such** – *such a good idea* |
 | Plural/uncountable noun | **such** – *such wonderful people, such patience* |
 
+#### Order of Multiple Adverbs
+
+> **MPT Rule:** Manner -> Place -> Time
+
+| Example |
+|---------|
+| *She worked **carefully** (M) **in the lab** (P) **yesterday** (T).* |
+| *They arrived **safely** (M) **in Paris** (P) **last night** (T).* |
+
+##### Multiple Adverbs of Same Type
+
+| Type | Order |
+|------|-------|
+| **Time** | Specific -> General (*at 3:00 on Monday in July*) |
+| **Place** | Small -> Large (*in a flat in Marylebone, London*) |
+
+##### Exceptions
+- **Time first:** For emphasis or contrast. *Yesterday I met an old friend.*
+- **Place first:** With movement verbs. *She went to London by train.*
+
 ---
 
 ### Comparative Structures
@@ -982,6 +1109,29 @@
 | Examples | *for example, for instance, such as, e.g.* |
 | Summarizing | *in conclusion, to sum up, overall, in short* |
 | Conversation | *well, so, anyway, actually, honestly, you know, I mean, look, listen* |
+
+---
+
+### Correlative Conjunctions
+
+| Pair | Function | Verb Agreement |
+|------|----------|----------------|
+| *both... and...* | Inclusion | Always plural |
+| *either... or...* | Choice | Closest subject |
+| *neither... nor...* | Negative choice | Closest subject |
+| *not only... but also...* | Emphatic addition | Closest subject |
+| *whether... or...* | Alternatives | Depends on subject |
+| *rather... than...* | Preference | Depends on subject |
+| *no sooner... than...* | Immediate sequence | Depends on subject |
+| *the more... the more...* | Proportional | Two clauses |
+| *as... as...* | Equality | Depends on subject |
+| *such/so... that...* | Result | Depends on subject |
+
+#### Key Rules
+- **Parallel structure:** Both sides must match. *She is both **smart** and **kind**.*
+- **Either/neither position:** Place directly before the first contrasted element.
+- **Verb agreement:** With *either/or* and *neither/nor*, verb agrees with closest subject. *Neither the manager nor the employees **were** informed.*
+- **Inversion:** *Not only* at the start requires inversion. *Not only **did she win**, but she also broke the record.*
 
 ---
 
@@ -1202,6 +1352,49 @@
 
 ---
 
+## Semantics 
+
+### Lexical Relations
+
+| Relation | Definition | Example |
+|----------|------------|---------|
+| **Synonymy** | Same meaning | *big/large* |
+| **Antonymy** | Opposite meaning | *hot/cold* (gradable), *alive/dead* (complementary) |
+| **Hyponymy** | "Is a type of" | *poodle -> dog -> animal* |
+| **Meronymy** | "Is a part of" | *engine -> car* |
+| **Polysemy** | One word, related meanings | *head* (body/leader/top) |
+| **Homonymy** | Different words, same form | *bank* (financial/river) |
+
+### Thematic Roles
+
+| Role | Definition | Example |
+|------|------------|---------|
+| **Agent** | Deliberate doer | ***She** opened the door.* |
+| **Patient** | Entity acted upon | *She opened **the door**.* |
+| **Experiencer** | Feels/perceives | ***I** felt happy.* |
+| **Instrument** | Tool/means | *He cut it **with a knife**.* |
+| **Goal** | Endpoint | *She walked **to the store**.* |
+| **Source** | Origin | *She came **from Paris**.* |
+| **Beneficiary** | Benefits | *He baked it **for her**.* |
+
+### Denotation vs. Connotation
+
+| Denotation | Connotation |
+|------------|-------------|
+| *slender* | Positive |
+| *thin* | Neutral |
+| *skinny* | Negative |
+
+### Entailment vs. Presupposition
+
+| Feature | Entailment | Presupposition |
+|---------|------------|----------------|
+| Survives negation? | ✗ No | ✓ Yes |
+| *She stopped smoking.* | She doesn't smoke now | She used to smoke |
+| *She didn't stop smoking.* | She smokes now | She used to smoke |
+
+---
+
 ### Troubleshooting: Common Errors
 
 | Error | Correction |
@@ -1226,4 +1419,3 @@
 | *Discuss about the problem* | *Discuss the problem* (no preposition) |
 | *I gave to her a book* | *I gave her a book* / *I gave a book to her* |
 
----
