@@ -1,4 +1,4 @@
-## 19.3 Order of Adverbs
+## 19.2 Order of Adverbs
 
 ### A. The Basic Rule: MPT Rule (Manner - Place - Time)
 
