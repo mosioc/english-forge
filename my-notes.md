@@ -1,5 +1,51 @@
 # My Notes - mosioc
 
+- [prefixes and suffixes](#prefixes-and-suffixes)
+- [spelling rules](#spelling-rules)
+- [capitalization](#capitalization)
+- [numbers, dates & time](#numbers-dates--time)
+- [tenses](#tenses)
+- [tenses advanced (future)](#tenses-advanced-future)
+- [modals](#modals)
+- [past modals (speculation & regret)](#past-modals-speculation--regret)
+- [word order (SVO)](#word-order-svo)
+- [adverb placement](#adverb-placement)
+- [sentence types by function](#sentence-types-by-function)
+- [if-wish clauses and conditionals](#if-wish-clauses-and-conditionals)
+- [unreal time (hypothetical situations)](#unreal-time-hypothetical-situations)
+- [subjunctive mood](#subjunctive-mood)
+- [passive voice](#passive-voice)
+- [reported speech](#reported-speech)
+- [auxiliary verbs](#auxiliary-verbs)
+- [inversion](#inversion)
+- [emphatic structures](#emphatic-structures)
+- [questions](#questions)
+- [negative structures](#negative-structures)
+- [exclamations and interjections](#exclamations-and-interjections)
+- [-ing and to](#-ing-and-to)
+- [ellipsis (omitting words)](#ellipsis-omitting-words)
+- [catenative verbs](#catenative-verbs)
+- [causative verbs](#causative-verbs)
+- [articles and nouns](#articles-and-nouns)
+- [pronouns and determiners](#pronouns-and-determiners)
+- [clause concepts](#clause-concepts)
+- [relative clauses](#relative-clauses)
+- [adjectives and adverbs](#adjectives-and-adverbs)
+- [order of adjectives](#order-of-adjectives)
+- [comparative structures](#comparative-structures)
+- [order of adverbs](#order-of-adverbs)
+- [conjunctions](#conjunctions)
+- [discourse markers](#discourse-markers)
+- [correlative conjunctions](#correlative-conjunctions)
+- [prepositions](#prepositions)
+- [phrasal verbs (idiomatic expressions)](#phrasal-verbs-idiomatic-expressions)
+- [parallelism](#parallelism)
+- [register and formality](#register-and-formality)
+- [hedges and softening language](#hedges-and-softening-language)
+- [academic grammar](#academic-grammar)
+- [semantics](#semantics)
+- [common errors](#common-errors)
+
 ## prefixes and suffixes 
 
 - noun-forming
@@ -228,6 +274,25 @@
 - viewpoint (*personally*)
     - beginning of clause
         - *Personally, I disagree.*
+
+## sentence types by function
+
+- declarative
+    - give information
+        - `.` (period)
+        - *She works at a hospital.*
+- interrogative
+    - ask for information
+        - `?` (question mark)
+        - *Where does she live?*
+- imperative
+    - give command/request
+        - `.` or `!`
+        - *Sit down. / Don't touch that.*
+- exclamative
+    - express emotion
+        - `!`
+        - *What a beautiful day!*
 
 ## if-wish clauses and conditionals 
 
@@ -913,6 +978,48 @@
     - in instructions and headlines 
     - in informal speech
 
+## catenative verbs
+
+- verb + bare infinitive
+    - modals, *make, let, have, help*
+        - *Let me **go**.*
+- verb + to-infinitive
+    - *want, decide, agree, expect, seem*
+        - *I want **to leave**.*
+- verb + object + to-infinitive
+    - *tell, ask, advise, force, allow*
+        - *She told me **to wait**.*
+- verb + gerund
+    - *enjoy, avoid, finish, admit, mind*
+        - *I enjoy **swimming**.*
+- verb + preposition + gerund
+    - *insist on, succeed in, apologize for*
+        - *He insisted **on paying**.*
+- either - same meaning
+    - *begin, start, continue, love, hate*
+        - *I began **to cry / crying**.*
+- either - different meaning
+    - *remember, forget, regret, stop, try, mean*
+
+## causative verbs
+
+- *make* (force)
+    - *make + obj + V1*
+        - *She made him cry.*
+    - passive: *He was made **to** work late.* (uses *to*!)
+- *have* (delegate)
+    - *have + obj + V1* / *have + obj + V3*
+        - *I had the plumber fix it. / I had my hair cut.*
+- *get* (persuade)
+    - *get + obj + to + V1* / *get + obj + V3*
+        - *I got him to help. / I got my car fixed.*
+- *let* (allow)
+    - *let + obj + V1*
+        - *She let me go.*
+- *help* (assist)
+    - *help + obj + V1 / to + V1*
+        - *She helped me move.*
+
 ## articles and nouns 
 
 - articles  
@@ -1283,6 +1390,34 @@
     - *like/unlike + noun* (similarity and contrast)
         - *Like his father, he is a doctor. / Unlike her sister, she loves coffee.*
 
+## order of adverbs
+
+- multiple adverbs: MPT rule
+    - manner (How?) -> place (Where?) -> time (When?)
+        - *She worked **carefully** (M) **in the lab** (P) **yesterday** (T).*
+        - *They arrived **safely** (M) **in Paris** (P) **last night** (T).*
+
+- multiple adverbs of same type
+    - time: specific -> general
+        - *at 3:00 on Monday in July*
+    - place: small -> large
+        - *in a flat in Marylebone, London*
+
+- exceptions to MPT
+    - time first:
+        - for emphasis or contrast
+            - ***Yesterday** I met an old friend.*
+        - time contrasts with another time
+            - ***Last year** we went to France; **this year** we're going to Italy.*
+    - place first:
+        - with movement verbs (place often comes before manner/means)
+            - *She went **to London** by train.*
+
+- key rule
+    - don't separate the verb from its object
+        - ✓ *I read **the book** yesterday.*
+        - ✗ *I read yesterday **the book**.*
+
 ## conjunctions 
 
 - **Coordinating Conjunctions (FANBOYS)**: Connect equal elements
@@ -1393,6 +1528,28 @@
     - *in conclusion, to summarize* [vs.] *anyway, so, basically* 
     - *however* [vs.] *but, though*
     - *in my opinion* [vs.] *I think, honestly*
+
+## correlative conjunctions
+
+- pairs
+    - *both... and...* --> inclusion, always plural verb
+    - *either... or...* --> choice, verb agrees with closest subject
+    - *neither... nor...* --> negative choice, verb agrees with closest subject
+    - *not only... but also...* --> emphatic addition, verb agrees with closest subject
+    - *whether... or...* --> alternatives
+    - *rather... than...* --> preference
+    - *no sooner... than...* --> immediate sequence
+    - *the more... the more...* --> proportional, two clauses
+    - *as... as...* --> equality
+    - *such/so... that...* --> result
+- key rules
+    - parallel structure: both sides must match
+        - *She is both **smart** and **kind**.*
+    - either/neither position: place directly before the first contrasted element
+    - verb agreement: with *either/or* and *neither/nor*, verb agrees with closest subject
+        - *Neither the manager nor the employees **were** informed.*
+    - inversion: *not only* at the start requires inversion
+        - *Not only **did she win**, but she also broke the record.*
 
 ## prepositions 
 
@@ -1693,6 +1850,46 @@
     - speculating: *I'd have thought..., I imagine...*
     - introducing a problem: *The problem is that..., For one thing...*
     - asking for confirmation: *So you mean that...?, So what you're saying is...?*
+
+## semantics
+
+- lexical relations
+    - synonymy: same meaning
+        - *big/large*
+    - antonymy: opposite meaning
+        - *hot/cold* (gradable), *alive/dead* (complementary)
+    - hyponymy: "is a type of"
+        - *poodle -> dog -> animal*
+    - meronymy: "is a part of"
+        - *engine -> car*
+    - polysemy: one word, related meanings
+        - *head* (body/leader/top)
+    - homonymy: different words, same form
+        - *bank* (financial/river)
+- thematic roles
+    - agent: deliberate doer
+        - ***She** opened the door.*
+    - patient: entity acted upon
+        - *She opened **the door**.*
+    - experiencer: feels/perceives
+        - ***I** felt happy.*
+    - instrument: tool/means
+        - *He cut it **with a knife**.*
+    - goal: endpoint
+        - *She walked **to the store**.*
+    - source: origin
+        - *She came **from Paris**.*
+    - beneficiary: benefits
+        - *He baked it **for her**.*
+- denotation vs. connotation
+    - *slender* --> positive
+    - *thin* --> neutral
+    - *skinny* --> negative
+- entailment vs. presupposition
+    - entailment: does NOT survive negation
+    - presupposition: survives negation
+        - *She stopped smoking.* --> entails: she doesn't smoke now | presupposes: she used to smoke
+        - *She didn't stop smoking.* --> entails: she smokes now | presupposes: she used to smoke
 
 ## common errors 
 
