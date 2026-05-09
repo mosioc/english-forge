@@ -144,6 +144,22 @@
 - [E. Common Errors](./word-order-svo.md#e-common-word-order-errors-to-avoid)
 - [F. Quick Reference Summary](./word-order-svo.md#f-quick-reference-summary-table)
 
+### [1.6 Sentence Types by Function](./sentence-types-function.md)
+- [A. Declarative Sentences (Statements)](./sentence-types-function.md#a-declarative-sentences-statements)
+- [B. Interrogative Sentences (Questions)](./sentence-types-function.md#b-interrogative-sentences-questions)
+  - [1. Yes/No Questions](./sentence-types-function.md#1-yesno-questions)
+  - [2. Wh-Questions](./sentence-types-function.md#2-wh-questions)
+  - [3. Alternative Questions (Choice)](./sentence-types-function.md#3-alternative-questions-choice)
+  - [4. Tag Questions](./sentence-types-function.md#4-tag-questions)
+- [C. Imperative Sentences (Commands / Requests)](./sentence-types-function.md#c-imperative-sentences-commands--requests)
+- [D. Exclamative Sentences (Exclamations)](./sentence-types-function.md#d-exclamative-sentences-exclamations)
+  - [1. With *What* (+ Noun Phrase)](./sentence-types-function.md#1-with-what--noun-phrase)
+  - [2. With *How* (+ Adjective/Adverb)](./sentence-types-function.md#2-with-how--adjectiveadverb)
+  - [3. Other Exclamation Patterns](./sentence-types-function.md#3-other-exclamation-patterns)
+- [E. Summary Table](./sentence-types-function.md#e-summary-table)
+- [F. Quick Reference: Identifying Sentence Types](./sentence-types-function.md#f-quick-reference-identifying-sentence-types)
+- [G. Common Errors to Avoid](./sentence-types-function.md#g-common-errors-to-avoid)
+
 ---
 
 ## Verbs and Tenses
@@ -635,6 +651,32 @@
 - [F. Quick Reference Summary Table](./ellipsis-omitting-words.md#f-quick-reference-summary-table)
 - [G. Common Errors to Avoid](./ellipsis-omitting-words.md#g-common-errors-to-avoid)
 
+### [14.2 Catenative Verbs](./catenative-verbs.md)
+- [A. What Are Catenative Verbs?](./catenative-verbs.md#a-what-are-catenative-verbs)
+- [B. Pattern 1: Verb + Bare Infinitive](./catenative-verbs.md#b-pattern-1-verb--bare-infinitive)
+  - [1. Modal Auxiliary Verbs](./catenative-verbs.md#1-modal-auxiliary-verbs)
+  - [2. Causative Verbs](./catenative-verbs.md#2-causative-verbs)
+  - [3. Verbs of Perception](./catenative-verbs.md#3-verbs-of-perception)
+  - [4. *Had Better* and *Would Rather*](./catenative-verbs.md#4-had-better-and-would-rather)
+- [C. Pattern 2: Verb + To-Infinitive](./catenative-verbs.md#c-pattern-2-verb--to-infinitive)
+  - [Common Verbs Followed by To-Infinitive](./catenative-verbs.md#common-verbs-followed-by-to-infinitive)
+  - [Verb + Object + To-Infinitive](./catenative-verbs.md#verb--object--to-infinitive)
+- [D. Pattern 3: Verb + Gerund (-ing)](./catenative-verbs.md#d-pattern-3-verb--gerund--ing)
+  - [Common Verbs Followed by Gerund](./catenative-verbs.md#common-verbs-followed-by-gerund)
+  - [Verb + Preposition + Gerund](./catenative-verbs.md#verb--preposition--gerund)
+- [E. Pattern 4: Verb + Either Gerund or To-Infinitive (Same Meaning)](./catenative-verbs.md#e-pattern-4-verb--either-gerund-or-to-infinitive-same-meaning)
+- [F. Pattern 5: Verb + Either Gerund or To-Infinitive (Different Meaning)](./catenative-verbs.md#f-pattern-5-verb--either-gerund-or-to-infinitive-different-meaning)
+  - [1. *Remember* / *Forget* / *Regret*](./catenative-verbs.md#1-remember--forget--regret)
+  - [2. *Stop*](./catenative-verbs.md#2-stop)
+  - [3. *Try*](./catenative-verbs.md#3-try)
+  - [4. *Mean*](./catenative-verbs.md#4-mean)
+  - [5. *Go on*](./catenative-verbs.md#5-go-on)
+  - [6. *Need / Want / Require / Deserve*](./catenative-verbs.md#6-need--want--require--deserve)
+- [G. Catenative Verb Chains (Multiple Verbs)](./catenative-verbs.md#g-catenative-verb-chains-multiple-verbs)
+- [H. Full Classification Summary](./catenative-verbs.md#h-full-classification-summary)
+- [I. Quick Reference: Which Form Follows?](./catenative-verbs.md#i-quick-reference-which-form-follows)
+- [J. Common Errors to Avoid](./catenative-verbs.md#j-common-errors-to-avoid)
+
 ---
 
 ## Nouns, Pronouns, and Determiners
@@ -902,6 +944,29 @@
 - [L. Comparison of Adjectives: Full Chart](./comparative-structures.md#l-comparison-of-adjectives-full-chart)
 - [M. Comparison of Adverbs: Full Chart](./comparative-structures.md#m-comparison-of-adverbs-full-chart)
 
+### [19.3 Order of Adverbs](./order-of-adverbs.md)
+- [A. The Basic Rule: MPT Rule (Manner – Place – Time)](./order-of-adverbs.md#a-the-basic-rule-mpt-rule-manner--place--time)
+- [B. The Expanded Rule: SMEPT (Sentence – Manner – Evaluation – Place – Time)](./order-of-adverbs.md#b-the-expanded-rule-smempt-sentence--manner--evaluation--place--time)
+- [C. Multiple Adverbs of the Same Type](./order-of-adverbs.md#c-multiple-adverbs-of-the-same-type)
+  - [1. Multiple Time Adverbs: Specific Before General](./order-of-adverbs.md#1-multiple-time-adverbs-specific-before-general)
+  - [2. Multiple Place Adverbs: Small Before Large](./order-of-adverbs.md#2-multiple-place-adverbs-small-before-large)
+  - [3. Multiple Manner Adverbs: More Objective Before Subjective](./order-of-adverbs.md#3-multiple-manner-adverbs-more-objective-before-subjective)
+- [D. Adverb Position Within the Clause](./order-of-adverbs.md#d-adverb-position-within-the-clause)
+  - [1. Front Position (Beginning of Clause)](./order-of-adverbs.md#1-front-position-beginning-of-clause)
+  - [2. Mid Position (Before Main Verb / After First Auxiliary)](./order-of-adverbs.md#2-mid-position-before-main-verb--after-first-auxiliary)
+  - [3. End Position (After Verb/Object — Most Common for MPT)](./order-of-adverbs.md#3-end-position-after-verbobject--most-common-for-mpt)
+- [E. Exceptions and Variations](./order-of-adverbs.md#e-exceptions-and-variations)
+  - [1. Time Before Place for Emphasis](./order-of-adverbs.md#1-time-before-place-for-emphasis)
+  - [2. Place Before Manner with Movement Verbs](./order-of-adverbs.md#2-place-before-manner-with-movement-verbs)
+  - [3. Short Adverbs Before Longer Phrases](./order-of-adverbs.md#3-short-adverbs-before-longer-phrases)
+  - [4. Time adverbs *before* place when place is very long](./order-of-adverbs.md#4-time-adverbs-before-place-when-place-is-very-long)
+- [F. Order of Adverbs vs. Order of Adverbials (Phrases and Clauses)](./order-of-adverbs.md#f-order-of-adverbs-vs-order-of-adverbials-phrases-and-clauses)
+- [G. Negative Adverbials: Inversion Changes Everything](./order-of-adverbs.md#g-negative-adverbials-inversion-changes-everything)
+- [H. Adverb Order Quick Reference Decision Chart](./order-of-adverbs.md#h-adverb-order-quick-reference-decision-chart)
+- [I. Common Errors and Corrections](./order-of-adverbs.md#i-common-errors-and-corrections)
+- [J. Practice: Put the Adverbials in the Correct Order](./order-of-adverbs.md#j-practice-put-the-adverbials-in-the-correct-order)
+- [K. Quick Reference Summary Table](./order-of-adverbs.md#k-quick-reference-summary-table)
+
 ---
 
 ## Conjunctions and Linking
@@ -953,6 +1018,28 @@
 - [E. Common Mistakes to Avoid](./discourse-markers.md#e-common-mistakes-to-avoid)
 - [F. Quick Reference Summary Table](./discourse-markers.md#f-quick-reference-summary-table)
 - [G. Example Paragraph (Markers Highlighted)](./discourse-markers.md#g-example-paragraph-markers-highlighted)
+
+### [20.2 Correlative Conjunctions (Paired Conjunctions)](./correlative-conjunctions.md)
+- [1. Both... And...](./correlative-conjunctions.md#1-both-and)
+- [2. Either... Or...](./correlative-conjunctions.md#2-either-or)
+- [3. Neither... Nor...](./correlative-conjunctions.md#3-neither-nor)
+  - [Subject-Verb Agreement](./correlative-conjunctions.md#subject-verb-agreement)
+  - [No Double Negative](./correlative-conjunctions.md#no-double-negative)
+  - [Parallel Structure](./correlative-conjunctions.md#parallel-structure)
+  - [Formal Inversion with Clauses](./correlative-conjunctions.md#formal-inversion-with-clauses)
+- [4. Not Only... But Also...](./correlative-conjunctions.md#4-not-only-but-also)
+  - [Inversion Rule (Formal/Emphatic)](./correlative-conjunctions.md#inversion-rule-formalemphatic)
+- [5. Whether... Or...](./correlative-conjunctions.md#5-whether-or)
+- [6. Rather... Than...](./correlative-conjunctions.md#6-rather-than)
+- [7. No Sooner... Than...](./correlative-conjunctions.md#7-no-sooner-than)
+- [8. Scarcely... When... / Hardly... When... / Barely... When...](./correlative-conjunctions.md#8-scarcely-when--hardly-when--barely-when)
+- [9. The More... The More... (Proportional Comparison)](./correlative-conjunctions.md#9-the-more-the-more-proportional-comparison)
+- [10. As... As... (Equality)](./correlative-conjunctions.md#10-as-as-equality)
+- [11. Such... That... / So... That... (Result)](./correlative-conjunctions.md#11-such-that--so-that-result)
+  - [Such... That...](./correlative-conjunctions.md#such-that)
+  - [So... That...](./correlative-conjunctions.md#so-that)
+- [Common Errors](./correlative-conjunctions.md#common-errors)
+- [Quick Reference Summary Table](./correlative-conjunctions.md#quick-reference-summary-table)
 
 ---
 
@@ -1119,6 +1206,34 @@
   - [3. Other Lead-In Phrases by Function](./grammar-in-academic-contexts.md#3-other-lead-in-phrases-by-function)
   - [Examples](./grammar-in-academic-contexts.md#examples)
 - [H. Quick Reference Summary Table](./grammar-in-academic-contexts.md#h-quick-reference-summary-table)
+
+---
+
+## Semantics
+
+### [27. Semantics: Word and Sentence Meaning](./semantics.md)
+- [Introduction: What Is Semantics?](./semantics.md#introduction-what-is-semantics)
+- [A. Lexical Relations: How Words Relate to Each Other](./semantics.md#a-lexical-relations-how-words-relate-to-each-other)
+  - [1. Synonymy (Same Meaning)](./semantics.md#1-synonymy-same-meaning)
+  - [2. Antonymy (Opposite Meaning)](./semantics.md#2-antonymy-opposite-meaning)
+  - [3. Hyponymy and Hypernymy (Hierarchy of Meaning)](./semantics.md#3-hyponymy-and-hypernymy-hierarchy-of-meaning)
+  - [4. Meronymy (Part-Whole Relationships)](./semantics.md#4-meronymy-part-whole-relationships)
+  - [5. Polysemy vs. Homonymy](./semantics.md#5-polysemy-vs-homonymy)
+- [B. Thematic Roles (Theta Roles)](./semantics.md#b-thematic-roles-theta-roles)
+  - [1. What Are Thematic Roles?](./semantics.md#1-what-are-thematic-roles)
+  - [2. Core Thematic Roles](./semantics.md#2-core-thematic-roles)
+  - [3. Thematic Roles in Active and Passive Sentences](./semantics.md#3-thematic-roles-in-active-and-passive-sentences)
+  - [4. How Thematic Roles Explain Verb Patterns](./semantics.md#4-how-thematic-roles-explain-verb-patterns)
+  - [5. The Theta Criterion (Why Some Sentences Are Ungrammatical)](./semantics.md#5-the-theta-criterion-why-some-sentences-are-ungrammatical)
+  - [6. Common Verb Patterns Mapped to Thematic Roles](./semantics.md#6-common-verb-patterns-mapped-to-thematic-roles)
+- [C. Sense and Reference](./semantics.md#c-sense-and-reference)
+  - [1. Denotation and Connotation](./semantics.md#1-denotation-and-connotation)
+  - [2. Sense vs. Reference (Intension vs. Extension)](./semantics.md#2-sense-vs-reference-intension-vs-extension)
+  - [3. Definite vs. Indefinite Reference](./semantics.md#3-definite-vs-indefinite-reference)
+- [D. Entailment and Presupposition](./semantics.md#d-entailment-and-presupposition)
+  - [1. Entailment](./semantics.md#1-entailment)
+  - [2. Entailment vs. Presupposition](./semantics.md#2-entailment-vs-presupposition)
+- [E. Quick Reference Summary](./semantics.md#e-quick-reference-summary)
 
 ---
 
