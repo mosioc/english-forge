@@ -484,65 +484,69 @@
 
 #### Tense Backshift
 
-| Direct | Reported |
-|--------|----------|
-| Present Simple -> | Past Simple |
-| Present Continuous -> | Past Continuous |
-| Past Simple -> | Past Perfect |
-| Present Perfect -> | Past Perfect |
-| Past Perfect -> | Past Perfect (no change) |
-| *will* -> | *would* |
-| *can* -> | *could* |
-| *may* -> | *might* |
-| *must* -> | *had to* |
+| Direct Speech -> Reported Speech | Example |
+|---------------|-----------------|
+| Present Simple -> Past Simple | "I **like** coffee." -> He said he **liked** coffee. |
+| Present Continuous -> Past Continuous | "I **am working**." -> She said she **was working**. |
+| Past Simple -> Past Perfect | "I **saw** the film." -> He said he **had seen** the film. |
+| Present Perfect -> Past Perfect | "I **have finished**." -> She said she **had finished**. |
+| Past Perfect -> Past Perfect (no change) | "I **had left** already." -> He said he **had left** already. |
+| *will* -> *would* | "I **will** call." -> She said she **would** call. |
+| *can* -> *could* | "I **can** swim." -> He said he **could** swim. |
+| *may* -> *might* | "I **may** attend." -> She said she **might** attend. |
+| *must* (obligation) -> *had to* | "I **must** go." -> He said he **had to** go. |
+| *must* (deduction) -> *must* (no change) | "You **must** be tired." -> He said I **must** be tired. |
 
 #### No Backshift
 
-| Condition |
-|-----------|
-| Statement is still true |
-| Reporting verb is present tense |
-| Reporting a very recent conversation |
-| General truths / timeless facts |
-| Modals: *could, would, should, might, ought to, had better* |
+| Condition | Example |
+|-----------|---------|
+| Statement is still true | "I **am** a teacher." -> She said she **is** a teacher. (still true now) |
+| Reporting verb is present tense | "I'm tired." -> She **says** she **is** tired. |
+| Reporting a very recent conversation | (Just now) "I'm hungry." -> She said she **is** hungry. |
+| General truths / timeless facts | "Water **boils** at 100°C." -> He said water **boils** at 100°C. |
+| Modals: *could, would, should, might, ought to, had better* | "I **could** help." -> She said she **could** help. (no change) |
 
-#### Changes Beyond Tenses
+#### Changes Beyond Tenses 
 
-| Direct | Reported |
-|--------|----------|
-| *now* -> | *then / at that time* |
-| *today* -> | *that day* |
-| *yesterday* -> | *the day before* |
-| *tomorrow* -> | *the next day* / *the following day* |
-| *last week/month* -> | *the previous week/month* |
-| *next week/month* -> | *the following week/month* |
-| *this/these* -> | *that/those* |
-| *here* -> | *there* |
-| *ago* -> | *before* |
+-> (Beyond tenses: time and place words)
+
+| Word in Direct Speech | Word in Reported Speech | Example |
+|-----------------------|-------------------------|---------|
+| *now* | *then / at that time* | "I'm busy **now**." -> She said she was busy **then**. |
+| *today* | *that day* | "I'll do it **today**." -> He said he would do it **that day**. |
+| *yesterday* | *the day before* | "I saw her **yesterday**." -> She said she had seen her **the day before**. |
+| *tomorrow* | *the next day / the following day* | "I'll call **tomorrow**." -> He said he would call **the next day**. |
+| *last week/month* | *the previous week/month* | "I visited **last week**." -> She said she had visited **the previous week**. |
+| *next week/month* | *the following week/month* | "I'll travel **next month**." -> He said he would travel **the following month**. |
+| *this/these* | *that/those* | "I like **this** book." -> She said she liked **that** book. |
+| *here* | *there* | "I'll wait **here**." -> He said he would wait **there**. |
+| *ago* | *before* | "I left two days **ago**." -> She said she had left two days **before**. |
 
 #### Reporting Patterns
 
 | Type | Pattern | Example |
 |------|---------|---------|
-| Statement | *say/tell + (that) + clause* | *He said (that) he was tired.* |
-| Yes/No Question | *ask + if/whether + clause* | *She asked if I was tired.* |
-| Wh-Question | *ask + wh-word + clause* | *She asked where I lived.* |
-| Command | *tell + object + to + V1* | *He told me to sit down.* |
-| Negative Command | *tell + object + not to + V1* | *She told me not to go.* |
-| Suggestion | *suggest + -ing / that-clause* | *She suggested going.* / *She suggested that we go.* |
-| Offer | *offer + to + V1* | *He offered to help.* |
-| Promise | *promise + to + V1* | *She promised to call.* |
-| Refusal | *refuse + to + V1* | *He refused to go.* |
+| Statement | *say/tell + (that) + clause* | "I'm tired." -> He **said (that) he was** tired. |
+| Yes/No Question | *ask + if/whether + clause* | "Are you tired?" -> She **asked if I was** tired. |
+| Wh-Question | *ask + wh-word + clause* | "Where do you live?" -> She **asked where I lived**. |
+| Command | *tell + object + to + V1* | "Sit down." -> He **told me to sit** down. |
+| Negative Command | *tell + object + not to + V1* | "Don't go." -> She **told me not to go**. |
+| Suggestion | *suggest + -ing / that-clause* | "Let's go." -> She **suggested going**. / She **suggested that we go**. |
+| Offer | *offer + to + V1* | "I'll help you." -> He **offered to help**. |
+| Promise | *promise + to + V1* | "I'll call you." -> She **promised to call**. |
+| Refusal | *refuse + to + V1* | "I won't go." -> He **refused to go**. |
 
 #### Reporting with Nouns and Adjectives
 
 | Pattern | Example |
 |---------|---------|
-| Noun + that-clause | *His claim that he was innocent was false.* |
-| Adj + that-clause | *It is clear that he made a mistake.* |
-| Adj + to-infinitive | *It is important to note that sales increased.* |
+| Noun + that-clause | "I'm innocent." -> **His claim that he was innocent** was false. |
+| Adj + that-clause | "He made a mistake." -> **It is clear that he made** a mistake. |
+| Adj + to-infinitive | "She helped." -> **She was happy to help**. |
 
-> ***Should* in that-clauses (BrE):** *She suggested that he **should go**.* (AmE: *She suggested that he **go**.*)
+> ***Should* in that-clauses (BrE):** "You should go." -> She suggested that he **should go**.  
+> (AmE, subjunctive): She suggested that he **go**.
 
 ---
 
