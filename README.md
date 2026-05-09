@@ -42,6 +42,7 @@ A journey toward fluency.
     - [19.3 Order of Adverbs](./order-of-adverbs.md)
 - [20. Conjunctions](./conjunctions.md)
     - [20.1 Discourse Markers](./discourse-markers.md)
+    - [20.2 Correlative Conjunctions (Paired Conjunctions)](./correlative-conjunctions.md)
 - [21. Prepositions](./prepositions.md)
 - [22. Phrasal Verbs (Idiomatic Expressions)](./phrasal-verbs.md)
 - [23. Parallel Structure (Parallelism)](./parallel-structure.md)
