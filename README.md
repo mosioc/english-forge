@@ -48,7 +48,7 @@ A journey toward fluency.
 - [24. Register and Formality](./register-formality.md)  
 - [25. Hedges and Softening Language](./hedges-softening-language.md)
 - [26. Grammar in Academic Contexts](./grammar-in-academic-contexts.md)
-- [27. Semantics: Word and Sentence Meaning](./semantics.md‎)
+- [27. Semantics: Word and Sentence Meaning](./semantics.md)
 - Appendices
     - [Appendix A: American vs. British English](./appendix-a-american-british-english.md)
     - [Appendix B: Pronunciation](./appendix-b-pronunciation.md)
