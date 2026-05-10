@@ -1359,9 +1359,9 @@
 
 ---
 
-## Semantics 
+### Semantics 
 
-### Lexical Relations
+#### Lexical Relations
 
 | Relation | Definition | Example |
 |----------|------------|---------|
@@ -1372,7 +1372,7 @@
 | **Polysemy** | One word, related meanings | *head* (body/leader/top) |
 | **Homonymy** | Different words, same form | *bank* (financial/river) |
 
-### Thematic Roles
+#### Thematic Roles
 
 | Role | Definition | Example |
 |------|------------|---------|
@@ -1384,7 +1384,7 @@
 | **Source** | Origin | *She came **from Paris**.* |
 | **Beneficiary** | Benefits | *He baked it **for her**.* |
 
-### Denotation vs. Connotation
+#### Denotation vs. Connotation
 
 | Denotation | Connotation |
 |------------|-------------|
@@ -1392,7 +1392,7 @@
 | *thin* | Neutral |
 | *skinny* | Negative |
 
-### Entailment vs. Presupposition
+#### Entailment vs. Presupposition
 
 | Feature | Entailment | Presupposition |
 |---------|------------|----------------|
@@ -1425,4 +1425,5 @@
 | *I didn't do nothing* | *I didn't do anything* / *I did nothing* |
 | *Discuss about the problem* | *Discuss the problem* (no preposition) |
 | *I gave to her a book* | *I gave her a book* / *I gave a book to her* |
+
 
