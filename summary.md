@@ -417,6 +417,10 @@
 
 ### Modals
 
+Modal verbs have meanings relating to ideas such as possibility, likelihood, prediction, necessity, permission and obligation. They do not have **to-infinitive**, **-s**, **-ing** or past participle forms. They are often followed by the **bare infinitive** of another verb (e.g. *She might go*) but can also be used on their own (e.g. *Yes, I can*). They cannot be followed directly by a **to-infinitive**, an **-ing** form, a **past participle**, or another **modal verb**. In questions they come before the subject (e.g. *Could you help?*) and before **not** in negatives (e.g. *He won't [= will not] help*).
+
+The semi-modals are: **ought to, used to, need, dare, had better, have (got) to, be able to**. These have meanings like modal verbs but not the same formal features: for example, some can be marked for tense (e.g. *have / had [got] to*); some have non-modal uses (e.g. *She needs a rest*).
+
 > **Structure:** *Subject + modal + base verb (V1)*
 > No *to*, no *-s*, no *do/does/did* for questions or negatives.
 
@@ -497,6 +501,10 @@
 ---
 
 ### If, Wish, and Conditionals
+
+Some conditional clauses beginning with **if** suggest that a situation is **real** – that is, the situation is or was true, or may have been or may become true (e.g. *If anyone phones, tell them I'll be back at eleven; If you really want to learn Italian, you need to spend some time in Italy*). Others suggest that a situation is **unreal** – that is, the situation is imaginary or untrue (e.g. *What would you do if you won the lottery?; If you had started out earlier, you wouldn't have been so late*).
+
+Compare: *If I go to Berlin, I'll travel by train.* (= **real** conditional) and *If I went to Berlin, I'd travel by train.* (= **unreal** conditional). In the first, the speaker is thinking of going to Berlin (it is a real future possibility), but in the second, the speaker is not thinking of doing so. The second might be giving someone advice.
 
 #### If-Clauses
 
@@ -605,6 +613,11 @@
 
 ### Passive Voice
 
+Passive verb forms have one of the tenses of the verb **to be** and a **past participle**. The choice between an active and passive sentence allows us to present the same information in two different orders. Compare:
+
+- **Active:** The storm damaged the roof. (This sentence is about **the storm**, and says what it did. The subject is the 'agent' and the object is the 'done to'.)
+- **Passive:** The roof was damaged by the storm. (This sentence is about **the roof** and says what happened to it. The subject is the 'done to'. If it is mentioned, the agent goes in a prepositional phrase with **by** after the verb.)
+
 | Pattern | Structure | Example |
 |---------|-----------|---------|
 | **Simple Passive** | *be + V3* | *It is done.* |
@@ -626,6 +639,10 @@
 ---
 
 ### Reported Speech
+
+When we report speech in a different context from the one in which it was originally produced, we sometimes need to make changes to the original words. Of course, differences between the original speech context and the one in which it is reported will influence whether changes are needed and what they should be.
+
+The tense we choose for a report is one that is appropriate at the time that we are reporting what was said or thought. This means that we sometimes use a different tense in the report from the one that was used in the original statement and change pronouns, references to time and place, and words such as this, that, and these.
 
 #### Tense Backshift
 
@@ -826,6 +843,14 @@
 - *Which* or *what* can sometimes be used with little difference in meaning. Example: *What / Which towns do we go through on the way?*
 - Don't confuse *whose* with *who's* (short for either *who is* or *who has*), which are pronounced the same.
 
+| Rule | Example |
+|------|---------|
+| If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the subject. | *Are they leaving soon? / Where will you stay?* |
+| If a verb phrase includes more than one auxiliary verb, only the first comes before the subject. | *Has she been doing her homework? / What should we have told Nina?* |
+| In present and past simple tenses of verbs (apart from *be*), we use *do* or *did*. | *Does he enjoy school? / Where did you go on holiday?* |
+| If *be* is used in a verb phrase without another verb, the form of *be* comes before the subject. | *Are you happy at work? / Where was Lars today?* |
+| If we use *what, which, who* or *whose* as the subject, we use the same word order as in a statement; i.e. the subject goes before the verb phrase. | *What made that noise? / Who can tell me the answer to question 5?* |
+
 #### Negative Questions
 
 - Formed with an auxiliary verb (*have, did, would, etc.*) + *-n't*. Example: *Haven't you finished your homework yet? / Why didn't she pay for the meal? / Who wouldn't like to own an expensive sports car?*
@@ -937,8 +962,9 @@
 
 ### Verb Complementation
 
-A good dictionary will list the meanings of verbs and tell you whether each meaning is intransitive, transitive and, if transitive, whether it is followed by one or by two objects. Many verbs can be followed by another verb. When *to* comes after a verb it can be part of a *to-infinitive* or a preposition followed by a noun phrase or by an *-ing* form. An *-ing* form often behaves like an object.
+Some verbs (e.g. *describe*) are followed by an object. These are called **transitive verbs**. Some verbs (e.g. *arrive*) are not usually followed by an object. These are called **intransitive verbs**. If a verb can't be followed by an object, it can't be made passive. Some verbs (e.g. *give*) are commonly followed by two objects.
 
+A good dictionary will list the meanings of verbs and tell you whether each meaning is intransitive, transitive and, if transitive, whether it is followed by one or by two objects. Many verbs can be followed by another verb in the form of a **to-infinitive** (e.g. *refuse to eat*), **-ing** (e.g. *avoid working*), **bare infinitive** (e.g. *help carry*). Note that when *to* comes after a verb it can be part of a **to-infinitive** (= to + the base form of a verb; e.g. *He wants to go, She hopes to win*) or it can be a **preposition** followed by a noun phrase (e.g. *He went to the theatre*) or by an **-ing** form (e.g. *He admitted to having a gun*). An **-ing** form often behaves like an object (e.g. *I regret leaving*).
 **Common transitive verbs:** *arrest, avoid, do, enjoy, find, force, get, grab, hit, like, pull, report, shock, take, touch, want, warn*
 
 **Common intransitive verbs:** *appear, come, fall, go, happen, matter, sleep, swim, wait*
@@ -1079,6 +1105,8 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 
 #### Pronouns
 
+
+
 | Type | Examples |
 |------|----------|
 | **Subject** | *I, you, he, she, it, we, they* |
@@ -1099,6 +1127,10 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 - Used for emphasis: after an intransitive verb to emphasise the subject, after a transitive verb to emphasise that something is done without help, or after a noun to emphasise that noun. Examples: *We phoned the plumber and he came himself. / My sister drew the picture herself. / I was given this book by the author herself.*
 
 #### Determiners
+
+**Determiners** are words such as **this**, **her**, and **your** which determine or specify what a noun or noun phrase refers to. They come before the noun and at the front of the noun phrase. **Quantifiers** are words such as **some**, **much**, and **few** which identify the quantity of something. Some words can be both determiners and quantifiers (e.g. 'I sent out invitations to a few friends' [few = determiner] and 'A few of my friends came to the party' [few = quantifier]) while some are determiners only (e.g. 'This is my friend Andrew' [my = determiner]). Many determiners and quantifiers can be pronouns, taking the place of a noun phrase (e.g. 'I've invited all my friends and most are coming' [most = pronoun]).
+
+**Articles (a / an and the)** are determiners. They also specify what the noun refers to and come at the beginning of the noun phrase. However, they cannot be quantifiers or pronouns.
 
 | Type | Examples |
 |------|----------|
@@ -1202,6 +1234,8 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 
 ### Relative Clauses
 
+Relative clauses have a similar function to adjectives in that they give more information about someone or something referred to in a main clause. Participle clauses (**-ing** and **-ed** clauses) can be used like relative clauses, but can also have an adverbial function, giving information about time, cause, etc.
+
 | Type | Features | Example |
 |------|----------|---------|
 | **Defining (Restrictive)** | No commas, *that* OK, can omit object pronoun | *The book (that) I read was great.* |
@@ -1243,6 +1277,10 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 ---
 
 ### Adjectives and Adverbs
+
+We use an **adverb**, not an **adjective**, to say how something happened or was done, or to modify adjectives. Examples: *The staff in the shop always speak politely to customers. / It was strangely quiet as we went into the room.*
+
+We usually add the ending **-er** to one-syllable adjectives and adverbs to make their comparative forms and **-est** to make their superlative forms. With three or more syllables we usually add **more / less** and **most / least**. With two syllables we can usually use either.
 
 #### Adjective Order (OSASCOMP)
 
