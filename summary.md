@@ -812,13 +812,16 @@
 
 #### Articles
 
-| Article | Type | When |
-|---------|------|------|
-| *the* | Definite | Specific, unique, previously mentioned, superlatives |
-| *a/an* | Indefinite | Non-specific singular countable (*a* before consonant SOUND, *an* before vowel SOUND) |
-| *Ø* | Zero article | General statements, proper nouns, meals, transport, sports, languages |
-| *some* | Indefinite quantity | Positive statements, offers/requests |
-| *any* | Indefinite quantity | Negatives, questions; also "no matter which" |
+| Article/Determiner | Type | Use | Example |
+|--------------------|------|-----|---------|
+| *the* | Definite | Specific, unique, previously mentioned nouns, superlatives | *The sun* is bright. |
+| *a / an* | Indefinite | Non-specific singular countable (*a* before consonant SOUND, *an* before vowel SOUND) | *A dog* barked. / *An apple* fell. |
+| *zero article* (*Ø*) | No article | General statements (plural/uncountable), proper nouns, meals, transport, sports, languages | *Life* is beautiful. / *English* is hard. |
+| *some* | Indefinite quantity | Positive statements with plural/uncountable nouns, offers/requests | *Some water* / *Some books* |
+| *any* | Indefinite quantity | Negative statements, questions; also "no matter which" | *Any money?* / *Not any left* |
+| *my, your, his, etc.* | Possessive determiners | Show possession (replace articles) | *My car* |
+| *-'s* | Possessive | Possession (people, animals) | *John's book* |
+| *of* | Possessive/quantifier | Possession (objects), quantity, description | *The cover of the book* |
 
 #### Nouns
 
