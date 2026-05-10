@@ -38,6 +38,8 @@ All modal verbs are followed by the bare infinitive.
 
 ### 2. Causative Verbs
 
+**Causative verbs** show that the subject causes someone else to do an action (or causes something to be done), rather than doing it themselves.
+
 | Verb | Structure | Example | Meaning |
 |------|-----------|---------|---------|
 | *make* | make + object + bare infinitive | *She **made him cry**.* | Force |
@@ -46,6 +48,19 @@ All modal verbs are followed by the bare infinitive.
 | *help* | help + object + bare infinitive / to-infinitive | *She **helped me (to) move**.* | Assist |
 
 > **Important:** *Get* is also causative but takes *to*-infinitive: *I got him **to help**.*
+
+| Causative Verb | Is it Catenative? | Why |
+|----------------|-------------------|-----|
+| **make** + object + V1 | **No** | Requires an object between the main verb and the second verb (*make **him** cry*), so it's not directly catenative. |
+| **have** + object + V1 | **No** | Same reason: object required (*have **the plumber** fix*). |
+| **have** + object + V3 | **No** | Takes a past participle with an object, not a direct verb chain. |
+| **get** + object + to + V1 | **No** | Object required (*get **him** to help*). |
+| **get** + object + V3 | **No** | Past participle with object. |
+| **let** + object + V1 | **No** | Object required (*let **her** go*). |
+| **help** + object + V1 / to + V1 | **Yes** (without object) | *help (to) carry* - can directly chain verbs. |
+| **help** + object + V1 / to + V1 | **No** (with object) | *help **me** move* - object in between. |
+
+Causative verbs are **not** directly catenative because they require an **object** between the main verb and the second verb. Catenative verbs chain directly (e.g., *I want **to go***, *She enjoys **swimming***). **Help** is the only causative that can function catenatively when used without an object.
 
 ### 3. Verbs of Perception
 
