@@ -417,12 +417,12 @@
 
 ### Modals
 
-Modal verbs have meanings relating to ideas such as possibility, likelihood, prediction, necessity, permission and obligation. They do not have **to-infinitive**, **-s**, **-ing** or past participle forms. They are often followed by the **bare infinitive** of another verb (e.g. *She might go*) but can also be used on their own (e.g. *Yes, I can*). They cannot be followed directly by a **to-infinitive**, an **-ing** form, a **past participle**, or another **modal verb**. In questions they come before the subject (e.g. *Could you help?*) and before **not** in negatives (e.g. *He won't [= will not] help*).
+Modal verbs have meanings relating to ideas such as possibility, likelihood, prediction, necessity, permission and obligation. They do not have **to-infinitive**, **-s**, **-ing** or past participle forms. They are often followed by the **bare infinitive** of another verb (e.g. *She might go*) but can also be used on their own (e.g. *Yes, I can*). They cannot be followed directly by a **to-infinitive**, an **-ing** form, a **past participle**, or another **modal verb**. In questions they come before the subject (e.g. *Could you help?*) and before **not** in negatives (e.g. *He won't [= will not] help*).  
 
-The semi-modals are: **ought to, used to, need, dare, had better, have (got) to, be able to**. These have meanings like modal verbs but not the same formal features: for example, some can be marked for tense (e.g. *have / had [got] to*); some have non-modal uses (e.g. *She needs a rest*).
+The semi-modals are: **ought to, used to, need, dare, had better, have (got) to, be able to**. These have meanings like modal verbs but not the same formal features: for example, some can be marked for tense (e.g. *have / had [got] to*); some have non-modal uses (e.g. *She needs a rest*).  
 
-> **Structure:** *Subject + modal + base verb (V1)*
-> No *to*, no *-s*, no *do/does/did* for questions or negatives.
+> **Structure:** *Subject + modal + base verb (V1)*  
+> No *to*, no *-s*, no *do/does/did* for questions or negatives.  
 
 | Modal | Primary Uses |
 |-------|-------------|
@@ -731,6 +731,8 @@ To quote what a person thinks, we use the conventions shown in the examples abov
 
 ### Auxiliary Verbs
 
+**Auxiliary** verbs (also called helping verbs) are used together with a main verb to form tenses, questions, negatives, and the passive voice.  
+
 | Auxiliary | Functions |
 |-----------|-----------|
 | **be** (*am/is/are, was/were, be, been*) | Continuous tenses, passive voice |
@@ -916,8 +918,8 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 
 ### -ing and *to* (Gerunds & Infinitives)
 
-> **Gerund (-ing):** Functions as a noun.
-> **Infinitive (to + V1):** Expresses purpose or follows certain verbs.
+> **Gerund (-ing):** Functions as a noun.  
+> **Infinitive (to + V1):** Expresses purpose or follows certain verbs.  
 
 #### Quick Decision Table
 
@@ -970,10 +972,11 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 
 Some verbs (e.g. *describe*) are followed by an object. These are called **transitive verbs**. Some verbs (e.g. *arrive*) are not usually followed by an object. These are called **intransitive verbs**. If a verb can't be followed by an object, it can't be made passive. Some verbs (e.g. *give*) are commonly followed by two objects.
 
-A good dictionary will list the meanings of verbs and tell you whether each meaning is intransitive, transitive and, if transitive, whether it is followed by one or by two objects. Many verbs can be followed by another verb in the form of a **to-infinitive** (e.g. *refuse to eat*), **-ing** (e.g. *avoid working*), **bare infinitive** (e.g. *help carry*). Note that when *to* comes after a verb it can be part of a **to-infinitive** (= to + the base form of a verb; e.g. *He wants to go, She hopes to win*) or it can be a **preposition** followed by a noun phrase (e.g. *He went to the theatre*) or by an **-ing** form (e.g. *He admitted to having a gun*). An **-ing** form often behaves like an object (e.g. *I regret leaving*).
-**Common transitive verbs:** *arrest, avoid, do, enjoy, find, force, get, grab, hit, like, pull, report, shock, take, touch, want, warn*
+A good dictionary will list the meanings of verbs and tell you whether each meaning is intransitive, transitive and, if transitive, whether it is followed by one or by two objects. Many verbs can be followed by another verb in the form of a **to-infinitive** (e.g. *refuse to eat*), **-ing** (e.g. *avoid working*), **bare infinitive** (e.g. *help carry*). Note that when *to* comes after a verb it can be part of a **to-infinitive** (= to + the base form of a verb; e.g. *He wants to go, She hopes to win*) or it can be a **preposition** followed by a noun phrase (e.g. *He went to the theatre*) or by an **-ing** form (e.g. *He admitted to having a gun*). An **-ing** form often behaves like an object (e.g. *I regret leaving*).  
 
-**Common intransitive verbs:** *appear, come, fall, go, happen, matter, sleep, swim, wait*
+**Common transitive verbs:** *arrest, avoid, do, enjoy, find, force, get, grab, hit, like, pull, report, shock, take, touch, want, warn*  
+
+**Common intransitive verbs:** *appear, come, fall, go, happen, matter, sleep, swim, wait*  
 
 | Pattern | Verbs | Example |
 |---------|-------|---------|
