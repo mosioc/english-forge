@@ -223,7 +223,7 @@ Participial phrases act like adjectives, modifying nouns or pronouns.
 
 Some verbs can take **two objects**: a **direct object** (the thing) and an **indirect object** (the person). These objects can be ordered in two ways.
 
-> **Pattern 1:** *Verb + Indirect Object (person) + Direct Object (thing)*
+> **Pattern 1:** *Verb + Indirect Object (person) + Direct Object (thing)*  
 > **Pattern 2:** *Verb + Direct Object (thing) + to/for + Indirect Object (person)*
 
 #### Common Ditransitive Verbs
