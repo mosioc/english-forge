@@ -59,6 +59,7 @@ A journey toward fluency.
     - [Appendix F: Irregular Verbs](./appendix-f-irregular-verbs.md)
     - [Appendix G: Common Errors and Troubleshooting](./appendix-g-common-errors-troubleshooting.md)
 - [Glossary](./glossary.md)
+- [Explanations](./explanations.md)
 - [Summary; Reminder and Cheatsheet](./summary.md)
 
 ## DETAILED INDEX 
