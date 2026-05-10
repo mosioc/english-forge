@@ -12,6 +12,8 @@
   - [Passive Voice Overview](#passive-voice-overview)
   - [More Passive Patterns](#more-passive-patterns)
   - [Key Tense Rules](#key-tense-rules)
+  - [State Verbs](#state-verbs)
+  - [Advaced Tenses](#advanced-tenses)
 - [Word Order (SVO)](#word-order-svo)
   - [Basic Patterns](#basic-patterns)
   - [Two Objects: Both Patterns](#two-objects-both-patterns)
@@ -87,6 +89,8 @@
 - [Relative Clauses](#relative-clauses)
   - [Reduced Forms](#reduced-forms)
   - [Special Cases](#special-cases)
+  - [Defining vs. Non-Defining](#defining-vs-non-defining)
+  - [-ing and -ed Clauses (Participle Clauses)](#-ing-and--ed-clauses-participle-clauses)
 - [Adjectives and Adverbs](#adjectives-and-adverbs)
   - [Adjective Order (OSASCOMP)](#adjective-order-osascomp)
   - [Degrees of Adjectives](#degrees-of-adjectives)
@@ -247,45 +251,35 @@
 | **Have / Have got** (possession) | *I have a car. = I've got a car.* (BrE) |
 | **Future from the past** | *was going to / was about to / was to* |
 
-**Present Continuous:**
-- Used for particular events or activities that have begun but not ended at the time of speaking. The activity is in progress at the present time, but not necessarily at the moment of speaking. Example: *'Who are you phoning?' 'I'm trying to get through to Misaki.'*
-- Used to suggest that an event or activity is or may be temporary. Example: *She's doing voluntary work with young children until she starts her university course.*
+#### State Verbs 
 
-**Present Simple:**
-- Used with verbs describing states or situations that are always true or continue indefinitely. Example: *Trees grow more quickly in summer than in winter.*
-- Used with states or situations (thoughts, feelings) that exist at the present moment. Example: *This cake tastes wonderful. Where did you buy it?*
-- Used to talk about habits or regular events or actions. Example: *Do you go to Turkey every year for your holidays?*
-- **Common state verbs include:**
-  - Emotions, attitudes, and preferences: *agree, appreciate, attract, desire, doubt, expect, hate, hope, like, love, prefer, regret*
-  - Mental states: *anticipate, assume, believe, consider, expect, feel, find, imagine, know, realise, think, understand*
-  - Senses and perception: *ache, hear, notice, see, smell, sound, taste*
-  - 'Being', 'having', etc.: *belong to, consist of, constitute, contain, cost, differ from, have, look, mean, measure, own, possess, resemble, seem, weigh*
-- The verbs marked * are rarely used with continuous tenses (but can be if we mean actions rather than states).
+| Category | Verbs |
+|----------|-------|
+| **Emotions, attitudes, and preferences** | *agree, appreciate, attract, desire, doubt, expect, hate, hope, like, love, prefer, regret* |
+| **Mental states** | *anticipate, assume, believe, consider, expect, feel, find, imagine, know, realise, think, understand* |
+| **Senses and perception** | *ache, hear, notice, see, smell, sound, taste* |
+| **'Being', 'having', etc.** | *belong to, consist of, constitute, contain, cost, differ from, have, look, mean, measure, own, possess, resemble, seem, weigh* |
 
-**Past Simple:**
-- Used to refer to a completed action or event in the past or to talk about situations that existed over a period of time in the past, but not now. Example: *Aisha left a few minutes ago.*
-- We can either say when something happened, using a time adverbial (e.g., *a few minutes ago*), or assume that the listener or reader already knows when it happened or can understand this from the context. Example: *Mikhail continued the course even though it was proving very difficult.*
-- Used to talk about repeated past actions. Example: *I saw my grandparents every week as a child.*
+#### Advanced Tenses 
 
-**Present Perfect:**
-- Used to talk about a past action, event or state, when there is some kind of connection between what happened in the past, and the present time. Often we are interested in the way something that happened in the past affects or is relevant to the situation that exists now. Example: *We can't have a meeting, because so few people have shown any interest.*
-- The connection with the present may also be that:
-  - The action happened recently with a consequence for the present. Example: *My ceiling has fallen in and the kitchen is flooded. Come quickly!*
-  - It continues until the present time. Example: *We have belonged to the tennis club since we moved here.*
-  - A repeated event in the past may (or may not) happen again. Example: *Lee has represented his country on many occasions, and hopes to go on to compete in the next Olympics.*
-
-**Past Continuous:**
-- Used to talk about a situation that started before a particular point in the past and was still in progress at that point. Example: *When he realised I was looking at him, he turned away.*
-
-**Past Perfect:**
-- Used to talk about a past event that took place before another past event. Example: *When I went into the bathroom, I found that the bath had overflowed.*
-- Also used before or up to a particular time in the past. Example: *By 10 o'clock most people had gone home.*
-
-**Present Perfect Continuous:**
-- Used to talk about an activity in progress in the past for a period until now, which is still in progress or has recently finished. Examples: *Since the operation two months ago, Samuel has been learning to walk again. He can already take one or two steps unaided.* / *Your eyes are red - have you been crying?*
-
-**Past Perfect Continuous:**
-- Used to talk about a situation or activity that was in progress over a period up to a particular past point in time. Example: *When I saw the vase on the website, I knew it was exactly what I had been looking for.*
+| Tense | Use | Examples |
+|-------|-----|----------|
+| **Present Continuous** | Particular events/activities that have begun but not ended at the time of speaking; the activity is in progress at the present time, but not necessarily at the moment of speaking | *'Who are you phoning?' 'I'm trying to get through to Misaki.'* |
+| | To suggest that an event or activity is or may be temporary | *She's doing voluntary work with young children until she starts her university course.* |
+| **Present Simple** | States or situations that are always true or continue indefinitely | *Trees grow more quickly in summer than in winter.* |
+| | States or situations (thoughts, feelings) that exist at the present moment | *This cake tastes wonderful. Where did you buy it?* |
+| | Habits or regular events or actions | *Do you go to Turkey every year for your holidays?* |
+| **Past Simple** | Completed action or event in the past, or situations that existed over a period of time in the past, but not now | *Aisha left a few minutes ago. / Mikhail continued the course even though it was proving very difficult.* |
+| | Repeated past actions | *I saw my grandparents every week as a child.* |
+| **Present Perfect** | Past action, event or state with a connection between past and present; often affecting or relevant to the present situation | *We can't have a meeting, because so few people have shown any interest.* |
+| | Action happened recently with a consequence for the present | *My ceiling has fallen in and the kitchen is flooded. Come quickly!* |
+| | Continues until the present time | *We have belonged to the tennis club since we moved here.* |
+| | Repeated event in the past may (or may not) happen again | *Lee has represented his country on many occasions...* |
+| **Past Continuous** | Situation that started before a particular point in the past and was still in progress at that point | *When he realised I was looking at him, he turned away.* |
+| **Past Perfect** | Past event that took place before another past event | *When I went into the bathroom, I found that the bath had overflowed.* |
+| | Before or up to a particular time in the past | *By 10 o'clock most people had gone home.* |
+| **Present Perfect Continuous** | Activity in progress in the past for a period until now, still in progress or recently finished | *Since the operation two months ago, Samuel has been learning to walk again. / Your eyes are red -- have you been crying?* |
+| **Past Perfect Continuous** | Situation or activity in progress over a period up to a particular past point in time | *When I saw the vase on the website, I knew it was exactly what I had been looking for.* |
 
 ---
 
@@ -377,47 +371,25 @@
 
 ### Advanced Future Forms
 
-| Structure | Use | Example |
-|-----------|-----|---------|
-| *Present Simple* | Timetables, schedules; official arrangements | *The train leaves at 6.* (A time expression is usually used) |
-| *Present Continuous* | Arrangements; intended or already arranged future activities | *I'm meeting her tomorrow.* (Usually a personal pronoun is used and a future time is mentioned) |
-| *(be) going to* | Plans, intentions, evidence-based predictions; decisions made some time before reported | *I'm going to study. Look - it's going to rain.* (Often preferred in informal spoken English; pronounced /ˈɡɒnə/) |
-| *will* | Spontaneous decisions, promises, predictions; willingness/won't for unwillingness; decisions made at the moment of speaking | *I'll help. It will rain. I think I'll go to bed now.* |
-| *will be + V-ing* | Action in progress at a future time; polite inquiries | *This time tomorrow I'll be flying. After the operation you won't be doing any sport for a while.* |
-| *will have + V3* | Completed before a future time | *I'll have finished by Friday.* |
-| *be to + infinitive* | Formal plans, commands | *The president is to visit.* |
-| *be about to + infinitive* | Immediate future | *The movie is about to start.* |
-| *be due to / be set to / be bound to* | Scheduled, expected, almost certain | *The train is due at 6. It's bound to rain.* |
+| Structure | Use | Examples |
+|-----------|-----|----------|
+| **Present Simple** | Timetables, schedules, official arrangements (future events part of a programme); a time expression is usually used | *The next train to Dublin leaves at 3.45.* (station announcement) |
+| **Present Continuous** | Arrangements; intended or already arranged future activities; usually a personal pronoun and future time are mentioned | *We're having a party next Saturday. Can you come?* |
+| **(be) going to + infinitive** | Plans, intentions, evidence-based predictions; decisions made some time before reported; often preferred in informal spoken English (pronounced /ˈɡɒnə/) | *I'm going to study. Look — it's going to rain. 'Has anybody offered to look after the children?' 'Sophia's going to do it.'* |
+| **will + infinitive** | Spontaneous decisions, predictions, promises, offers, invitations, requests; willingness (*will*) / unwillingness (*won't* for reluctance/refusal); decisions made at the moment of speaking; thinking something is likely in the future | *I'll help. It will rain. I think I'll go to bed now. I think you'll enjoy the film. I'll make one of my special desserts for dinner, if you like. I've asked her to join us, but she won't.* |
+| **Future Continuous** (*will be + V-ing*) | Action in progress at a particular future time or over a future period; polite inquiries; a future time is usually mentioned | *This time tomorrow I'll be flying. After the operation you won't be doing any sport for a while.* |
+| **Future Perfect** (*will have + V3*) | Completed before a future time | *I'll have finished by Friday.* |
+| **be to + infinitive** | Formal plans, commands | *The president is to visit.* |
+| **be about to + infinitive** | Immediate future | *The movie is about to start.* |
+| **be due to / be set to / be bound to** | Scheduled, expected, almost certain | *The train is due at 6. It's bound to rain.* |
 
 > **Rule:** No *will* in future time clauses. *I'll call you when I **arrive**.* (NOT *when I will arrive*)
-
-**Will + Infinitive:**
-- Used when we state a decision made at the moment of speaking. Example: *It's late. I think I'll go to bed now.*
-- Used when we say that we think something is likely to happen in the future. Example: *I think you'll enjoy the film.*
-- Used to talk about willingness to do something in the future (e.g., in offers, invitations, requests, and orders). Example: *I'll make one of my special desserts for dinner, if you like.*
-- *Will not* (or *won't*) is used to talk about unwillingness to do something in the future (e.g., reluctance, refusal). Example: *I've asked her to join us this evening, but she won't.*
-
-**Be Going To + Infinitive:**
-- Used when we state a decision made some time before we report it. Example: *'Has anybody offered to look after the children?' 'Sophia's going to do it.'*
-- *Going to* is often preferred in informal spoken English (where it is often pronounced /ˈɡɒnə/), and *will* is preferred in more formal contexts.
-
-**Present Simple for the Future:**
-- Used to talk about future events that are part of some official arrangement such as a timetable or programme. Example: *The next train to Dublin leaves at 3.45.* (station announcement)
-- A time expression is usually used with the present simple for the future (... at 3.45) unless the time referred to is already clear from the context.
-
-**Present Continuous for the Future:**
-- Used to talk about future activities and events that are intended or have already been arranged. Example: *We're having a party next Saturday. Can you come?*
-- Usually a personal pronoun is used (*We ...*) and a future time is mentioned (... *next Saturday*) or already understood.
-
-**Future Continuous:**
-- Used to talk about an activity or event happening at a particular time or over a particular period in the future. Example: *After the operation you won't be doing any sport for a while.*
-- We usually mention the future time (*After the operation ...*).
 
 ---
 
 ### Modals
 
-Modal verbs have meanings relating to ideas such as possibility, likelihood, prediction, necessity, permission and obligation. They do not have **to-infinitive**, **-s**, **-ing** or past participle forms. They are often followed by the **bare infinitive** of another verb (e.g. *She might go*) but can also be used on their own (e.g. *Yes, I can*). They cannot be followed directly by a **to-infinitive**, an **-ing** form, a **past participle**, or another **modal verb**. In questions they come before the subject (e.g. *Could you help?*) and before **not** in negatives (e.g. *He won't [= will not] help*).  
+Modal verbs have meanings relating to ideas such as possibility, likelihood, prediction, necessity, permission and obligation. They do not have **to-infinitive**, **-s**, **-ing** or past participle forms. 
 
 The semi-modals are: **ought to, used to, need, dare, had better, have (got) to, be able to**. These have meanings like modal verbs but not the same formal features: for example, some can be marked for tense (e.g. *have / had [got] to*); some have non-modal uses (e.g. *She needs a rest*).  
 
@@ -444,45 +416,36 @@ The semi-modals are: **ought to, used to, need, dare, had better, have (got) to,
 
 > ***Mustn't* vs. *Don't have to*:** *You mustn't smoke here.* (prohibition) / *You don't have to come.* (no obligation)
 
-**Can, Could and Be Able To:**
-- *Can* (present) / *couldn't* (past) for general ability. Examples: *A polyglot is someone who can speak several different languages. / Anita could speak three languages before she was six. / Olivia couldn't swim until she was ten.*
-- *Could* (not *can*) to say there is a possibility of something happening or being true. Example: *'Why isn't Ben here yet?' 'It could be because his mother's ill again.'*
-- *Be able to* can be used instead of *can* or *could* to talk about ability. Preferred when talking about a specific achievement (particularly if it is difficult, requiring some effort) rather than a general ability. Example: *Despite yesterday's snowfalls, we were able to drive home in less than an hour.*
-- *Will be able to* (not *can*) to say that something is possible in the future on condition that something is done first. Example: *After the trees have been cut back, we will be able to see more of the garden from the sitting room.*
-- *Can* for the present or future and *could* for the past to report permission. *Be allowed to* can also be used. Example: *We can / are allowed to stay up late on Fridays and Saturdays.*
-
-**Will, Would and Used To:**
-- *Will* / *will not* (*won't*) used to talk about (un)willingness, offers, requests, refusals, and to give instructions. Examples: *Will / Won't you have another biscuit?* (polite offer) / *'Luka wants to borrow the car.' 'He will not.'* (firm refusal) / *You will now put your pens down and pay attention.* (firm instruction)
-- *Would* to make a prediction about an imaginary situation. Example: *You should apply for the job. You would have a good chance of getting it.*
-- *Would you like...* when making an offer (not 'Will you like...'). In requests, *I would like...* (not 'I will like...'). *Should* (with *I* or *we*) can be used instead of *would* in requests, but this is formal.
-- *Would* / *used to* for things that happened repeatedly in the past, but don't happen now. *Used to* is more common in informal English. Example: *We would / used to lend him money when he was unemployed.*
-- *Used to* (but not *would*) to talk about permanent past states. Example: *I used to live in a flat in Paris.*
-- Questions and negatives with *use to* in spoken English: *'Did your children use to sleep well?'* / *'I didn't use to like visiting the dentist.'*
-
-**May, Might, Can and Could:**
-- In affirmative sentences, *may, might,* or *could* to say that there is a possibility of something happening or being true. *Can* is not used in this way. *Could* is sometimes preferred to show uncertainty. Example: *If the drought goes on much longer, there may / might / could be a hosepipe ban.*
-- *May / might / could + have + past participle* to say it is possible that something happened in the past. Example: *Her parents may / might / could have influenced her decision.*
-- In negative sentences, *may not* or *might not* to say it is possible that something is not true. *Can't* or *couldn't* to say that it is not possible that something is true. Examples: *She may not / might not remember us. / I definitely saw her go out, so she can't / couldn't be at home.*
-- *May* (not 'might') in formal contexts to say that something is allowed. *May not* to say that things are not allowed. Example: *Coats may be left in the cloakroom. / Calculators may not be used in the examination.*
-
-**Must and Have (Got) To:**
-- *Must* or *have (got) to* when it is necessary to do something. *Have got to* is less formal than *must* or *have to* and is particularly common in spoken English.
-- *Must* when the speaker decides that something is necessary. Example: *That's really good news. I must tell Marco straight away.*
-- *Have (got) to* to suggest that someone else or some outside circumstances or authority makes something necessary. Example: *'Can we meet on Thursday morning?' 'Sorry, no. I have to go to the dentist at eleven.'*
-- *Must* (not *have (got) to*) when concluding that something (has) happened or that something is true. Example: *She was bruised quite badly in the accident. It must hurt a lot.*
-- For negative conclusions, use *can't (cannot)* or *couldn't* (rarely *must not* or *have (got) to*). Example: *'I'm seeing Dr Evans next week.' 'That can't be right. He's on holiday then.'*
-- *Had to* (not *must*) to say that something was necessary in the past. Example: *When my father went to school he had to learn Latin.*
-
-**Need(n't), Don't Have To and Mustn't:**
-- *Needn't* (or *don't need to*) or *don't have to* to say that something is not necessary. Example: *He didn't cook the meal himself so you needn't / don't have to eat it all.*
-- *Mustn't* to say that something is not allowed. Example: *You mustn't put anything on the shelves until the glue has set hard.*
-- *Didn't need to* or *didn't have to* when it was not necessary to do something in the past, and it wasn't done. Example: *I didn't need to / didn't have to have an interview because I'd worked there before.*
-- *Need not (needn't) have* to show that we think something that was done was not in fact necessary. Example: *I needn't have cooked dinner. Just as it was ready, Pablo and Daniela phoned to say that they couldn't come to eat.*
-
-**Should, Ought To and Be Supposed To:**
-- *Should* or *ought to* with little difference in meaning for obligation (advice, recommendations, responsibility) and the probability of something happening or being true. Examples: *You should / ought to take a hat. / I enjoyed her first novel, so the new one should / ought to be good.*
-- *(Be) supposed to* can be used instead of *should / ought to* to express a less strong obligation than *should*. Example: *The work was supposed to start / should have started / ought to have started last week.*
-- *(Be) supposed to* also used to report what many people think is true, but *should / ought to* are not used in this way. Example: *Walking under a ladder is supposed to be unlucky.*
+| Modal Group | Rule | Examples |
+|-------------|------|----------|
+| **Can, Could, Be Able To** | *Can* (present) / *couldn't* (past) for general ability | *A polyglot is someone who can speak several different languages. / Anita could speak three languages before she was six. / Olivia couldn't swim until she was ten.* |
+| | *Could* (not *can*) to say there is a possibility | *'Why isn't Ben here yet?' 'It could be because his mother's ill again.'* |
+| | *Be able to* preferred for specific achievement (difficult, requiring effort) | *Despite yesterday's snowfalls, we were able to drive home in less than an hour.* |
+| | *Will be able to* (not *can*) for future possibility on condition | *After the trees have been cut back, we will be able to see more of the garden.* |
+| | *Can* for present/future and *could* for past to report permission; *be allowed to* also possible | *We can / are allowed to stay up late on Fridays and Saturdays.* |
+| **Will, Would, Used To** | *Will/won't* for (un)willingness, offers, requests, refusals, instructions | *Will / Won't you have another biscuit?* (polite offer) / *'Luka wants to borrow the car.' 'He will not.'* (firm refusal) / *You will now put your pens down and pay attention.* (firm instruction) |
+| | *Would* for prediction about an imaginary situation | *You should apply for the job. You would have a good chance of getting it.* |
+| | *Would you like...* for offers (not 'Will you like...'); *I would like...* for requests (not 'I will like...'); *should* (with *I/we*) is formal | |
+| | *Would/used to* for repeated past actions that don't happen now; *used to* is more common informally | *We would / used to lend him money when he was unemployed.* |
+| | *Used to* (NOT *would*) for permanent past states | *I used to live in a flat in Paris.* |
+| | Questions/negatives with *use to* in spoken English | *'Did your children use to sleep well?' / 'I didn't use to like visiting the dentist.'* |
+| **May, Might, Can, Could** | *May/might/could* for possibility in affirmative sentences; *can* is not used this way; *could* shows uncertainty | *If the drought goes on much longer, there may / might / could be a hosepipe ban.* |
+| | *May/might/could + have + past participle* for possible past event | *Her parents may / might / could have influenced her decision.* |
+| | *May not/might not* for possible that something is not true; *can't/couldn't* for impossible | *She may not / might not remember us. / I definitely saw her go out, so she can't / couldn't be at home.* |
+| | *May* (not 'might') in formal contexts for permission; *may not* for prohibition | *Coats may be left in the cloakroom. / Calculators may not be used in the examination.* |
+| **Must, Have (Got) To** | *Must/have (got) to* for necessity; *have got to* is less formal, common in spoken English | |
+| | *Must* when the speaker decides something is necessary | *That's really good news. I must tell Marco straight away.* |
+| | *Have (got) to* when someone else or outside circumstances make something necessary | *'Can we meet on Thursday morning?' 'Sorry, no. I have to go to the dentist at eleven.'* |
+| | *Must* (not *have to*) when concluding something is true | *She was bruised quite badly in the accident. It must hurt a lot.* |
+| | *Can't/couldn't* for negative conclusions (rarely *must not* or *have to*) | *'I'm seeing Dr Evans next week.' 'That can't be right. He's on holiday then.'* |
+| | *Had to* (not *must*) for past necessity | *When my father went to school he had to learn Latin.* |
+| **Need(n't), Don't Have To, Mustn't** | *Needn't/don't need to/don't have to* for lack of necessity | *He didn't cook the meal himself so you needn't / don't have to eat it all.* |
+| | *Mustn't* for prohibition | *You mustn't put anything on the shelves until the glue has set hard.* |
+| | *Didn't need to/didn't have to* when something was not necessary and was not done | *I didn't need to / didn't have to have an interview because I'd worked there before.* |
+| | *Need not (needn't) have* when something was done but was not necessary | *I needn't have cooked dinner. Just as it was ready, Pablo and Daniela phoned...* |
+| **Should, Ought To, Be Supposed To** | *Should/ought to* with little difference for obligation (advice, recommendations, responsibility) and probability | *You should / ought to take a hat. / I enjoyed her first novel, so the new one should / ought to be good.* |
+| | *(Be) supposed to* for less strong obligation than *should* | *The work was supposed to start / should have started / ought to have started last week.* |
+| | *(Be) supposed to* to report what many people think is true (NOT *should/ought to*) | *Walking under a ladder is supposed to be unlucky.* |
 
 #### Past Modals (Speculation & Regret)
 
@@ -501,9 +464,7 @@ The semi-modals are: **ought to, used to, need, dare, had better, have (got) to,
 
 ### If, Wish, and Conditionals
 
-Some conditional clauses beginning with **if** suggest that a situation is **real** – that is, the situation is or was true, or may have been or may become true (e.g. *If anyone phones, tell them I'll be back at eleven; If you really want to learn Italian, you need to spend some time in Italy*). Others suggest that a situation is **unreal** – that is, the situation is imaginary or untrue (e.g. *What would you do if you won the lottery?; If you had started out earlier, you wouldn't have been so late*).
-
-Compare: *If I go to Berlin, I'll travel by train.* (= **real** conditional) and *If I went to Berlin, I'd travel by train.* (= **unreal** conditional). In the first, the speaker is thinking of going to Berlin (it is a real future possibility), but in the second, the speaker is not thinking of doing so. The second might be giving someone advice.
+Some conditional clauses beginning with **if** suggest that a situation is **real** - that is, the situation is or was true, or may have been or may become true (e.g. *If anyone phones, tell them I'll be back at eleven; If you really want to learn Italian, you need to spend some time in Italy*). Others suggest that a situation is **unreal** - that is, the situation is imaginary or untrue (e.g. *What would you do if you won the lottery?; If you had started out earlier, you wouldn't have been so late*).
 
 #### If-Clauses
 
@@ -548,19 +509,43 @@ Compare: *If I go to Berlin, I'll travel by train.* (= **real** conditional) and
 
 #### Real vs. Unreal Conditionals: Detailed Notes
 
-**Real Conditionals:**
-- Suggest that a situation is or was true, or may have been or may become true. Example: *If anyone phones, tell them I'll be back at eleven.*
-- In real conditionals, use a present tense to talk about the future, the present, or unchanging relationships, and past tenses to talk about the past. Examples: *I'll give you a lift if it rains. / If you leave now, you'll be home in two hours. / If water freezes, it expands. / If I made the wrong decision then I apologise.*
+| Conditional Type | Description | Example |
+|-----------------|-------------|---------|
+| **Real** | Suggests a situation is or was true, or may have been or may become true | *If anyone phones, tell them I'll be back at eleven.* |
+| **Unreal** | Suggests a situation is imaginary or untrue | *What would you do if you won the lottery?* |
 
-**Unreal Conditionals:**
-- Suggest that a situation is imaginary or untrue. Example: *What would you do if you won the lottery?*
-- Compare: *If I go to Berlin, I'll travel by train.* (= real conditional: the speaker is thinking of going) vs. *If I went to Berlin, I'd travel by train.* (= unreal conditional: the speaker is not thinking of going)
-- To talk about present or future situations in unreal conditionals, use a past tense in the *if-clause* and *would + bare infinitive* in the main clause. *If ... were* is sometimes used instead of *if ... was.* Example: *If my grandfather was / were still alive, he would be a hundred today.*
-- *Could / might (have)* can be used instead of *would (have)* in unreal conditionals. Example: *If my grandfather was / were still alive, he might have enjoyed looking after our garden.*
-- When talking about something that might have happened in the past, but didn't, use *if + past perfect* and *would have + past participle* in the main clause. Example: *If I had known how difficult the job was, I wouldn't have taken it.*
-- Mixed tenses in unreal conditionals: A past tense in the *if-clause* and *would have + past participle* in the main clause, OR a past perfect in the *if-clause* and *would + infinitive* in the main clause. Used to talk about possible consequences if situations were or had been different. Examples: *If Bruno wasn't so lazy, he would have passed the exam easily. / If the doctor had been called earlier, Paula would still be alive today.*
-- *Could have + past participle* to express disapproval of something not done in the past. Example: *You could have let me know you were going to be late.*
-- Do not normally use *would* in an *if-clause.*
+**Comparison:**
+
+| Type | Example | Meaning |
+|------|---------|---------|
+| **Real conditional** | *If I go to Berlin, I'll travel by train.* | The speaker is thinking of going to Berlin (it is a real future possibility). |
+| **Unreal conditional** | *If I went to Berlin, I'd travel by train.* | The speaker is not thinking of going. The second might be giving someone advice. |
+
+**Real Conditionals: Tenses**
+
+| Time Reference | Tense in If-Clause | Example |
+|----------------|-------------------|---------|
+| Future | Present tense | *I'll give you a lift if it rains.* |
+| Present | Present tense | *If you leave now, you'll be home in two hours.* |
+| Unchanging relationships | Present tense | *If water freezes, it expands.* |
+| Past | Past tense | *If I made the wrong decision then I apologise.* |
+
+**Unreal Conditionals: Tenses**
+
+| Time Reference | If-Clause | Main Clause | Example |
+|----------------|-----------|-------------|---------|
+| Present/Future | Past tense (*if ... were* sometimes used instead of *if ... was*) | *would + bare infinitive* | *If my grandfather was / were still alive, he would be a hundred today.* |
+| Past (didn't happen) | Past perfect | *would have + past participle* | *If I had known how difficult the job was, I wouldn't have taken it.* |
+| Mixed (past condition, present result) | Past perfect | *would + infinitive* | *If the doctor had been called earlier, Paula would still be alive today.* |
+| Mixed (present condition, past result) | Past tense | *would have + past participle* | *If Bruno wasn't so lazy, he would have passed the exam easily.* |
+
+**Unreal Conditionals: Key Notes**
+
+| Rule | Example |
+|------|---------|
+| *Could / might (have)* can be used instead of *would (have)* | *If my grandfather was / were still alive, he might have enjoyed looking after our garden. / If I lived out of town, I could take up horse riding.* |
+| *Could have + past participle* expresses disapproval of something not done in the past | *You could have let me know you were going to be late.* |
+| Do not normally use *would* in an *if-clause* | *If I had a more reliable car, I'd drive to Spain rather than fly.* (NOT *If I would have...*) |
 
 ---
 
@@ -629,20 +614,17 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 | **Personal (He is said to...)** | *Subject + passive + to-infinitive* | *He is said to be rich.* |
 | **Passive in Conditionals** | *if... be + V3* | *If it is broken, it will be replaced.* |
 
-**Additional Passive Notes:**
-
-- The choice between an active and passive sentence allows us to present the same information in two different orders. In active sentences, the subject is the 'agent' and the object is the 'done to'. In passive sentences, the subject is the 'done to', and if mentioned, the agent goes in a prepositional phrase with *by* after the verb.
-- Verbs which take an object (transitive verbs) can have a passive form. Verbs which do not take an object (intransitive verbs) do not have passive forms.
-- Many verbs can be both transitive and intransitive. Compare: *'Are they meeting him at the airport?'* (transitive) and *'Is he being met at the airport?'* (passive); *'When shall we meet?'* (intransitive; no passive possible).
-- In spoken language, *get + past participle* is often used instead of a passive form to talk about actions or events that we see as negative (but can also be used for positive actions). Example: *I'm really disappointed. I didn't get picked / wasn't picked for the team again.* Not normally used to describe states. Example: *The house was owned by an elderly couple before I bought it.* (not *got owned*)
+| Rule | Details | Examples |
+|------|---------|----------|
+| **Active vs. Passive** | In active: subject is 'agent', object is 'done to'. In passive: subject is 'done to', agent goes with *by* | Active: *The storm damaged the roof.* / Passive: *The roof was damaged by the storm.* |
+| **Transitive verbs** | Verbs taking an object can have passive forms | *was destroyed* |
+| **Intransitive verbs** | Verbs not taking an object cannot have passive forms | *The child vanished...* (NOT *The child was vanished...*) |
+| **Both transitive and intransitive** | Many verbs can be both; only transitive use can be passive | Compare: *'Are they meeting him at the airport?'* (transitive) / *'Is he being met at the airport?'* (passive) / *'When shall we meet?'* (intransitive; no passive) |
+| ***Get* + past participle** | Often used in spoken language for actions/events seen as negative (also positive); NOT used for states | *I didn't get picked / wasn't picked for the team again.* (action) / *The house was owned by an elderly couple...* (state, NOT *got owned*) |
 
 ---
 
 ### Reported Speech
-
-When we report speech in a different context from the one in which it was originally produced, we sometimes need to make changes to the original words. Of course, differences between the original speech context and the one in which it is reported will influence whether changes are needed and what they should be.
-
-The tense we choose for a report is one that is appropriate at the time that we are reporting what was said or thought. This means that we sometimes use a different tense in the report from the one that was used in the original statement and change pronouns, references to time and place, and words such as this, that, and these.
 
 **Say and tell** are the verbs most commonly used to report statements. We use an **object after tell** (... me ...), but not after say. Note, however, that we can use to + object after say (... to Ivan ...), but not after tell, and that we can report what topic was talked about using **tell + object + about**.
 
@@ -714,18 +696,18 @@ The tense we choose for a report is one that is appropriate at the time that we 
 
 #### Direct Speech Punctuation
 
-When we quote what people think or what they have said, we put single ('...') or double ("...") quotation marks at the beginning and end of a report of their exact spoken or written words. This is often referred to as direct speech.
-
-Here are examples of direct speech. Note the punctuation used:
-- *'I think we should go to India while we have the opportunity,' argued Oliver.*
-- *'Can I make an appointment to see the doctor?' asked Maxim.*
-- *'You must be mad!' yelled her brother.*
-- *'It tastes horrible,' said Anna, 'but it's supposed to be very good for you.'*
-- *'You should go home,' Maria advised. 'You're looking really ill.'*
-- *Daniel said, 'Put them all on the top shelf.'*
-- *She stood up and shouted to the children: 'It's time to go home!'*
-
-To quote what a person thinks, we use the conventions shown in the examples above, or separate the quotation from the reporting clause with a comma (or colon) and leave out quotation marks. Examples: *'Why did she look at me like that?' wondered Julia. / Perhaps the door is open, thought Omar. / Suddenly she thought: Could they be trying to trick me?*
+| Rule | Example |
+|------|---------|
+| Statement with reporting clause after | *'I think we should go to India while we have the opportunity,' argued Oliver.* |
+| Question with reporting clause after | *'Can I make an appointment to see the doctor?' asked Maxim.* |
+| Exclamation with reporting clause after | *'You must be mad!' yelled her brother.* |
+| Split quote with reporting clause in middle | *'It tastes horrible,' said Anna, 'but it's supposed to be very good for you.'* |
+| Two sentences with reporting clause in middle | *'You should go home,' Maria advised. 'You're looking really ill.'* |
+| Reporting clause before quote | *Daniel said, 'Put them all on the top shelf.'* |
+| Reporting clause before quote with colon | *She stood up and shouted to the children: 'It's time to go home!'* |
+| Quoting thoughts (with quotation marks) | *'Why did she look at me like that?' wondered Julia.* |
+| Quoting thoughts (comma, no quotation marks) | *Perhaps the door is open, thought Omar.* |
+| Quoting thoughts (colon, no quotation marks) | *Suddenly she thought: Could they be trying to trick me?* |
 
 ---
 
@@ -861,10 +843,12 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 
 #### Negative Questions
 
-- Formed with an auxiliary verb (*have, did, would, etc.*) + *-n't*. Example: *Haven't you finished your homework yet? / Why didn't she pay for the meal? / Who wouldn't like to own an expensive sports car?*
-- Used to make a suggestion, to persuade someone, to criticise, or to show that we are surprised.
-- Can also be formed using a negative statement and a positive 'tag' at the end. Example: *We don't have to leave just yet, do we?*
-- Can be used to sound polite when giving an opinion. Example: *Shouldn't we offer her a lift?*
+| Aspect | Explanation | Examples |
+|--------|-------------|----------|
+| **Formation** | Auxiliary verb (*have, did, would, etc.*) + *-n't* | *Haven't you finished your homework yet? / Why didn't she pay for the meal? / Who wouldn't like to own an expensive sports car?* |
+| **Alternative formation** | Negative statement + positive tag at the end | *We don't have to leave just yet, do we?* |
+| **Uses** | To make a suggestion, to persuade someone, to criticise, or to show surprise | |
+| **Politeness** | Can be used to sound polite when giving an opinion | *Shouldn't we offer her a lift?* |
 
 ---
 
@@ -972,11 +956,10 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 
 Some verbs (e.g. *describe*) are followed by an object. These are called **transitive verbs**. Some verbs (e.g. *arrive*) are not usually followed by an object. These are called **intransitive verbs**. If a verb can't be followed by an object, it can't be made passive. Some verbs (e.g. *give*) are commonly followed by two objects.
 
-A good dictionary will list the meanings of verbs and tell you whether each meaning is intransitive, transitive and, if transitive, whether it is followed by one or by two objects. Many verbs can be followed by another verb in the form of a **to-infinitive** (e.g. *refuse to eat*), **-ing** (e.g. *avoid working*), **bare infinitive** (e.g. *help carry*). Note that when *to* comes after a verb it can be part of a **to-infinitive** (= to + the base form of a verb; e.g. *He wants to go, She hopes to win*) or it can be a **preposition** followed by a noun phrase (e.g. *He went to the theatre*) or by an **-ing** form (e.g. *He admitted to having a gun*). An **-ing** form often behaves like an object (e.g. *I regret leaving*).  
-
-**Common transitive verbs:** *arrest, avoid, do, enjoy, find, force, get, grab, hit, like, pull, report, shock, take, touch, want, warn*  
-
-**Common intransitive verbs:** *appear, come, fall, go, happen, matter, sleep, swim, wait*  
+| Verb Type | Definition | Examples |
+|-----------|------------|----------|
+| **Transitive verbs** | Followed by an object | *arrest, avoid, do, enjoy, find, force, get, grab, hit, like, pull, report, shock, take, touch, want, warn* |
+| **Intransitive verbs** | Not usually followed by an object | *appear, come, fall, go, happen, matter, sleep, swim, wait* |
 
 | Pattern | Verbs | Example |
 |---------|-------|---------|
@@ -1006,12 +989,19 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 | **Sluicing** | *Wh-word + Ø* | *Someone called, but I don't know who __.* |
 
 **Substitution to Avoid Repetition:**
-- *So + auxiliary verb + subject* to say that a second person does the same things as the person already mentioned. Examples: *I had a racing bike when I was young, and so did my brother. / 'Emma loves ice cream.' 'So do I.'*
-- The corresponding negative form uses *neither*, *nor* ('Nor did I'), or *not ... either* ('I didn't either'). Example: *'I didn't think much of the restaurant.' 'Neither did I.'*
+
+| Form | Structure | Use | Example |
+|------|-----------|-----|---------|
+| **Affirmative** | *So + auxiliary verb + subject* | To say that a second person does the same things as the person already mentioned | *I had a racing bike when I was young, and so did my brother. / 'Emma loves ice cream.' 'So do I.'* |
+| **Negative** | *Neither + auxiliary verb + subject* | The corresponding negative form | *'I didn't think much of the restaurant.' 'Neither did I.'* |
+| **Negative (alternative)** | *Nor + auxiliary verb + subject* | Alternative negative form | *'Nor did I.'* |
+| **Negative (alternative)** | *Not ... either* | Alternative negative form | *'I didn't either.'* |
 
 ---
 
 ### Catenative Verbs (Verb + Verb Patterns)
+
+A **catenative verb** (from Latin *catena* = "chain") is a verb that can be followed directly by another verb in a chain. The second verb appears in one of four forms:
 
 | Pattern | Key Verbs | Example |
 |---------|-----------|---------|
@@ -1024,6 +1014,8 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 | **Either - Different Meaning** | *remember, forget, regret, stop, try, mean* | *I stopped **to smoke / smoking**.* |
 
 #### Causative Verbs
+
+**Causative verbs** show that the subject causes someone else to do an action (or causes something to be done), rather than doing it themselves.
 
 | Verb | Meaning | Structure | Example |
 |------|---------|-----------|---------|
@@ -1054,13 +1046,16 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 | *-'s* | Possessive | Possession (people, animals) | *John's book* |
 | *of* | Possessive/quantifier | Possession (objects), quantity, description | *The cover of the book* |
 
-**Article Usage Details:**
-
-We use **the** with singular, plural or uncountable nouns when we expect the listener or reader to be able to identify the thing or person we are referring to in the following noun. It may be that the thing has already been mentioned; that it is clear from the situation which person or thing we mean; that it is in some other way understandable from the context which thing or person we mean; that the thing or person is identified in what is said after the noun; or that there is only one of a particular thing (and also, for example, *the Great Wall of China, the North Pole, the USA, the world*). Examples: *Lisa took a cake and some biscuits to the party, but only the biscuits were eaten. / Can you shut the door after you, please? / We had a good time on holiday. The beaches were all beautifully clean.* ('the beaches' = 'the beaches we went to') */ Give it to the man wearing the red coat. / Look at the moon. It's very bright tonight.*
-
-We use **a / an** with singular nouns when we don't expect the listener or reader to be able to identify the thing or person we are referring to in the following noun. We often use **a / an** to introduce a new specific person or thing; or when the noun refers to a class of people or things generally (for example, when we describe someone or something or say what type of thing someone or something is). Examples: *Helen's just bought a house on Wilson Street. / Sydney is a beautiful city.*
-
-We use **zero article** with uncountable and plural nouns when we talk generally about people or things rather than about specific people or things. We might talk about a whole class of things in a general way or about an indefinite number or amount. Examples: *[-] Water has got into my camera and damaged it. *
+| Article | When to Use | Examples |
+|---------|-------------|----------|
+| **the** | Thing already mentioned | *Lisa took a cake and some biscuits to the party, but only the biscuits were eaten.* |
+| | Clear from the situation which person/thing we mean | *Can you shut the door after you, please?* |
+| | Understandable from context | *We had a good time on holiday. The beaches were all beautifully clean.* ('the beaches we went to') |
+| | Identified in what is said after the noun | *Give it to the man wearing the red coat.* |
+| | Only one of a particular thing | *Look at the moon. It's very bright tonight.* (also: *the Great Wall of China, the North Pole, the USA, the world*) |
+| **a/an** | Introduce a new specific person or thing | *Helen's just bought a house on Wilson Street.* |
+| | Noun refers to a class of people/things generally (describing or saying what type) | *Sydney is a beautiful city.* |
+| **Zero article** | Uncountable and plural nouns talking generally about people/things (whole class or indefinite number/amount) | *[-] Water has got into my camera and damaged it. / There are [-] examples of the present continuous tense on page 32.* |
 
 #### Nouns
 
@@ -1086,28 +1081,46 @@ We use **zero article** with uncountable and plural nouns when we talk generally
 #### Countable and Uncountable Nouns
 
 Nouns can be either **countable** or **uncountable**. Countable nouns are those which can have the word **a / an** before them or be used in the plural. Uncountable nouns are not used with **a / an** or in the plural.
-- Some nouns in English are normally uncountable, while in many other languages they are countable. Examples: *accommodation, advice, applause, assistance, baggage, camping, cash, chaos, chess, clothing, conduct, courage, cutlery, dancing, dirt, employment, evidence, fun, furniture, harm, health, homework, housing, housework, information, jewellery, leisure, litter, luck, luggage, machinery, money, mud, music, news, nonsense, parking, pay, permission, photography, poetry, pollution, produce, progress, publicity, research, rubbish, safety, scenery, shopping, sightseeing, sunshine, transport, underwear, violence, weather, work*
-- Sometimes a noun is used uncountably when talking about the whole substance or idea, but countably when talking about units or different kinds. Examples: *beer, coffee, water; fruit, toothpaste, washing powder; cake, chicken, land, paint, space, stone; abuse, (dis)agreement, difficulty, fear, improvement, language, life, pain, protest, responsibility, success, thought, war*
-- Compare: *Three coffees and a lemonade, please.* vs. *Brazil is a major producer of coffee. / The chickens have escaped.* vs. *I don't eat chicken. / I have a fear of spiders.* vs. *He was trembling with fear.*
-- Some nouns usually have different meanings when used countably and uncountably. Examples: *competition, glass, grammar, iron, jam, lace, property, room, sight, speech, time, tin, work*
+
+| Concept | Detail |
+|---------|--------|
+| **Countable nouns** | Can have *a/an* before them or be used in the plural. |
+| **Uncountable nouns** | Not used with *a/an* or in the plural. |
+| **Normally uncountable in English** | *accommodation, advice, applause, assistance, baggage, camping, cash, chaos, chess, clothing, conduct, courage, cutlery, dancing, dirt, employment, evidence, fun, furniture, harm, health, homework, housing, housework, information, jewellery, leisure, litter, luck, luggage, machinery, money, mud, music, news, nonsense, parking, pay, permission, photography, poetry, pollution, produce, progress, publicity, research, rubbish, safety, scenery, shopping, sightseeing, sunshine, transport, underwear, violence, weather, work* |
+| **Can be both** | *beer, coffee, water; fruit, toothpaste, washing powder; cake, chicken, land, paint, space, stone; abuse, (dis)agreement, difficulty, fear, improvement, language, life, pain, protest, responsibility, success, thought, war* |
+| **Different meanings (countable vs. uncountable)** | *competition, glass, grammar, iron, jam, lace, property, room, sight, speech, time, tin, work* |
+
+| Noun | Uncountable Use | Countable Use |
+|------|-----------------|---------------|
+| **coffee** | *Brazil is a major producer of coffee.* | *Three coffees and a lemonade, please.* |
+| **chicken** | *I don't eat chicken.* | *The chickens have escaped.* |
+| **fear** | *He was trembling with fear.* | *I have a fear of spiders.* |
+| **grammar** | *I just don't understand grammar.* | *I looked the answer up in a grammar* (= a reference book). |
+| **jam** | *This jam is really sweet.* | *I got held up in a jam* (= traffic jam). |
+| **speech** | *His speech has been affected by the illness.* | *She made a wonderful speech at the wedding.* |
+| **toothpaste** | *Don't forget to buy some toothpaste.* | *Most toothpastes contain colourings.* |
 
 #### Compound Nouns
 
-- A compound noun is an expression made up of more than one word, which functions as a noun in a sentence. We can use a noun + noun combination to say what something is made of, where something is, when something happens, or what someone does. Examples: *rice pudding, a glasshouse, the kitchen cupboard, hill fog, a night flight, a morning call, a language teacher, a window-cleaner*
-- Some compounds consist of more than two nouns. Examples: *a milk chocolate bar, an air-traffic controller, a dinner-party conversation*
-- Some compound nouns are written as one word (*a tablecloth*), some as separate words (*waste paper*), and others with a hyphen (*a house-sitter*). Some can be written in more than one way (*a golf course* or *a golf-course*).
-- ***-ing* + noun** compound nouns: the *-ing* form usually says what purpose the following noun has. Examples: *chewing gum, a living room, drinking water, playing cards, a dressing gown, a turning-point, a working party*
-- **Noun + *-ing*** compound nouns: usually refer to actions or processes. Examples: *fly-fishing, film-making, sunbathing, risk-taking, life-saving*
+| Type | Structure | Examples |
+|------|-----------|----------|
+| **Noun + noun** | Say what something is made of, where, when, or what someone does | *rice pudding, a glasshouse, the kitchen cupboard, hill fog, a night flight, a morning call, a language teacher, a window-cleaner* |
+| **Multi-noun compounds** | More than two nouns | *a milk chocolate bar, an air-traffic controller, a dinner-party conversation* |
+| ***-ing* + noun** | *-ing* form says what purpose the following noun has | *chewing gum, a living room, drinking water, playing cards, a dressing gown, a turning-point, a working party* |
+| **Noun + *-ing*** | Usually refer to actions or processes | *fly-fishing, film-making, sunbathing, risk-taking, life-saving* |
 
 #### Possessive Form of Nouns
 
-- To make the possessive form of nouns referring to people or groups of people, other living things, places, times, etc., add *'s* to singular nouns and irregular plurals that don't end in *-s* (e.g., *Leon's car; the college's administrators; women's issues*). Add an apostrophe to regular plurals (e.g., *the girls' shoes; the companies' difficulties*).
-- For names ending in *-s* pronounced /z/, add either *'* or *'s* (e.g., *It's Leon Jones' [or Leon Jones's] new sports car*).
-- The pattern *noun + of + 's* or a possessive pronoun can be used to talk about something that someone owns, or about a relationship. Examples: *That old car of Zara's is falling apart. / It belongs to a friend of his.* (Note: for relationships, we can also say *an uncle of Emil's* or *an uncle of Emil*).
-- The noun following a possessive form can be left out when talking about someone's house. Examples: *We're going to Mona's (house) for the evening. / the newsagent's / the chemist's* (but not *the sweet's shop*).
-- Often we can use the possessive *'s* or *… of + noun …* with very little difference in meaning. In general:
-  - More likely to use the possessive form when the noun refers to a particular person or group of people, and when talking about time. Examples: *David's guitar playing has improved enormously. / next year's holiday prices*
-  - More likely to use the *… of + noun …* form with an inanimate noun, when talking about a process or a change over time, and when the noun is a long noun phrase. Examples: *The construction of the office block was opposed by protestors. / the establishment of the committee / She is the sister of someone I used to go to school with.*
+| Rule | Example |
+|------|---------|
+| Singular nouns: add *'s* | *Leon's car; the college's administrators* |
+| Irregular plurals not ending in *-s*: add *'s* | *women's issues* |
+| Regular plurals: add apostrophe only | *the girls' shoes; the companies' difficulties* |
+| Names ending in *-s* pronounced /z/: add *'* or *'s* | *It's Leon Jones' [or Leon Jones's] new sports car.* |
+| Pattern *noun + of + 's* or possessive pronoun for ownership/relationship | *That old car of Zara's is falling apart. / It belongs to a friend of his.* |
+| Noun following possessive can be left out for someone's house | *We're going to Mona's (house) for the evening.* |
+| Possessive form preferred for particular people/groups and time | *David's guitar playing has improved enormously. / next year's holiday prices* |
+| *...of + noun...* form preferred for inanimate nouns, processes, changes over time, and long noun phrases | *The construction of the office block was opposed by protestors. / the establishment of the committee / She is the sister of someone I used to go to school with.* |
 
 ---
 
@@ -1132,15 +1145,9 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 | **Substitute** | *one, ones* - *I need a pen. Do you have **one**?* |
 | **Clause substitute** | *so, not* - *I think **so**. / I hope **not**.* |
 
-**Reflexive Pronouns Usage:**
-- When the subject and object of a sentence refer to the same person or thing, use a reflexive pronoun as the object. Example: *'What did you do to your hand?' 'I cut myself when I was chopping vegetables.'*
-- Used for emphasis: after an intransitive verb to emphasise the subject, after a transitive verb to emphasise that something is done without help, or after a noun to emphasise that noun. Examples: *We phoned the plumber and he came himself. / My sister drew the picture herself. / I was given this book by the author herself.*
-
 #### Determiners
 
-**Determiners** are words such as **this**, **her**, and **your** which determine or specify what a noun or noun phrase refers to. They come before the noun and at the front of the noun phrase. **Quantifiers** are words such as **some**, **much**, and **few** which identify the quantity of something. Some words can be both determiners and quantifiers (e.g. 'I sent out invitations to a few friends' [few = determiner] and 'A few of my friends came to the party' [few = quantifier]) while some are determiners only (e.g. 'This is my friend Andrew' [my = determiner]). Many determiners and quantifiers can be pronouns, taking the place of a noun phrase (e.g. 'I've invited all my friends and most are coming' [most = pronoun]).
-
-**Articles (a / an and the)** are determiners. They also specify what the noun refers to and come at the beginning of the noun phrase. However, they cannot be quantifiers or pronouns.
+**Determiners** are words placed before nouns (or noun phrases) to clarify meaning, specify quantity, or indicate possession. They signal that a noun is coming.
 
 | Type | Examples |
 |------|----------|
@@ -1162,70 +1169,76 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 
 > *Less* + countable is common informally but use *fewer* in formal writing.
 
-**Additional Usage Notes:**
-- We often use *a few* and *a little* in a 'positive' way; for example, to suggest that a small amount or quantity is enough, or to suggest that it is more than we would expect. Example: *I've got a few close friends that I meet regularly.*
-- We often use *few* and *little* in a 'negative' way; for example, to suggest that the amount or quantity is not enough, or is surprisingly low. Example: *He has few close friends and often feels lonely.*
-- Compare: *'A few of her songs were popular and she was very well known'* (= 'positive') and *'Few of her songs were very popular and eventually she gave up her musical career'* (= 'negative'). This use of *few* and *little* is often rather formal.
-
 #### Some and Any
 
-**Some:**
-- Generally used in affirmative sentences. Example: *Peter gave me some advice.*
-- Used in questions where we expect agreement or the answer 'Yes'. Example: *Hasn't some information about the proposal been sent out already?*
-- Used in offers and requests to sound positive, expecting the answer 'Yes' (pronounced with its weak form /səm/). Example: *Shall I send you some details?*
-- Used to talk about particular, but unspecified, people or things with the implication 'some, but not all' (pronounced /sʌm/). Example: *Some teachers never seem to get bored with being in the classroom.*
-- Used when meaning quite a large amount of, or a large number of something (pronounced /sʌm/). Example: *I haven't been here for some years.*
-
-**Any:**
-- Generally used in sentences with a negative meaning. Example: *We haven't got any butter left.*
-- Used in questions where we don't necessarily expect agreement or the answer 'Yes'. Example: *Do you have any better ideas?*
-- Used when meaning 'all (of them), and it's not important which'. Example: *Any student could have answered the question.*
-- Commonly used in 'if' clauses. Example: *If you see any cherries in the shop, can you buy them?*
-- Used when *any* means 'if there is / are'. Example: *Any questions should be sent to the manager.* (= If there are questions ...)
+| Word | Use | Pronunciation | Example |
+|------|-----|---------------|---------|
+| **some** | Affirmative sentences | Weak /səm/ | *Peter gave me some advice.* |
+| | Questions expecting agreement or 'Yes' | Weak /səm/ | *Hasn't some information about the proposal been sent out already?* |
+| | Offers and requests (sounding positive) | Weak /səm/ | *Shall I send you some details?* |
+| | Particular but unspecified people/things ('some, but not all') | Strong /sʌm/ | *Some teachers never seem to get bored with being in the classroom.* |
+| | Quite a large amount or number | Strong /sʌm/ | *I haven't been here for some years.* |
+| **any** | Sentences with negative meaning | | *We haven't got any butter left.* |
+| | Questions not necessarily expecting agreement | | *Do you have any better ideas?* |
+| | Meaning 'all (of them), it's not important which' | | *Any student could have answered the question.* |
+| | 'If' clauses | | *If you see any cherries in the shop, can you buy them?* |
+| | Meaning 'if there is/are' | | *Any questions should be sent to the manager.* |
 
 **Anyone, Someone, etc.:**
 The same rules generally apply to *someone / anyone, somebody / anybody, something / anything* (note that *somebody = someone*, and *anybody = anyone*), and the adverbs *somewhere / anywhere*.
 
 #### Quantifiers with and without 'of'
 
-- We usually need to put *of* after quantifiers when there is a possessive form, pronoun or determiner before a noun. Examples: *Many of Liam's closest friends are women. / Some of my jewellery is missing. / Have you seen any of these new light bulbs in the shops yet?*
-- In informal contexts after *both* and *all* we can leave out *of* before *the, these, those* (and *this* or *that* with *all*); *my, your, her, his,* etc.; and *mine, yours,* etc., but not before *them, you,* or *us* (or *it* with *all*). Examples: *Are you going to eat all (of) that cake, or can I finish it? / Both of us were exhausted after flying to Japan.*
-- We don't use *of* after a quantifier immediately before a noun. Examples: *I polished each trophy with a soft cloth. / Is there much orange juice left?*
+| Rule | Context | Examples |
+|------|---------|----------|
+| **of required** | After quantifiers when there is a possessive form, pronoun, or determiner before a noun | *Many of Liam's closest friends are women. / Some of my jewellery is missing. / Have you seen any of these new light bulbs in the shops yet?* |
+| **of optional** | After *both* and *all* in informal contexts before *the, these, those* (and *this/that* with *all*); *my, your, her, his,* etc.; and *mine, yours,* etc. | *Are you going to eat all (of) that cake, or can I finish it?* |
+| **of required** | After *both* and *all* before *them, you, us* (or *it* with *all*) | *Both of us were exhausted after flying to Japan.* |
+| **no of** | After a quantifier immediately before a noun | *I polished each trophy with a soft cloth. / Is there much orange juice left?* |
 
 #### No, None, Neither, Either
 
-| Item | Usage |
-|------|-------|
-| *no* (determiner) | Meaning 'not a' or 'not any' before a singular, uncountable, or plural noun. Examples: *There's no train until tomorrow. / No information was given. / She had no shoes on.* |
-| *none of* (quantifier) | Meaning 'not any' before *the, my, this*, etc. Example: *None of my clothes fit any more.* If clear from context, use pronoun *none*. Example: *'How many children have you got?' 'None.'* |
-| *none of* + verb | With uncountable noun, verb must be singular: *None of the furniture has arrived yet.* With plural noun, verb can be singular or plural (singular is more grammatical): *None of the parcels have / has arrived yet.* |
-| *neither of* | Instead of *none of* when talking about two people or things. Example: *Neither of his parents could drive.* |
-| *either* (determiner) | Followed by a singular countable noun; singular verb if subject. Example: *You could catch the 10:05 or the 10:32. Either train gets you there in good time.* |
-| *either of* | Used with plural nouns and pronouns. Example: *Has either of them passed their driving test yet?* |
-| *either* (adverbial) | As in *We can either take the train or go by bus* and *I had no wish to go, and Lev didn't want to go either.* |
+| Word | Function | Rule | Examples |
+|------|----------|------|----------|
+| **no** | determiner | Means 'not a' or 'not any' before a singular, uncountable, or plural noun | *There's no train until tomorrow. / No information was given. / She had no shoes on.* |
+| **none of** | quantifier | Means 'not any' before *the, my, this*, etc. | *None of my clothes fit any more.* |
+| **none** | pronoun | If clear from context | *'How many children have you got?' 'None.'* |
+| **none of + verb** | subject-verb agreement | With uncountable noun, verb must be singular. With plural noun, verb can be singular or plural (singular is more grammatical) | *None of the furniture has arrived yet. / None of the parcels have / has arrived yet.* |
+| **neither of** | quantifier | Instead of *none of* when talking about two people or things | *Neither of his parents could drive.* |
+| **either** | determiner | Followed by a singular countable noun; singular verb if subject | *You could catch the 10:05 or the 10:32. Either train gets you there in good time.* |
+| **either of** | quantifier | Used with plural nouns and pronouns | *Has either of them passed their driving test yet?* |
+| **either** | adverbial | As in *either... or...* or for adding negative agreement | *We can either take the train or go by bus. / I had no wish to go, and Lev didn't want to go either.* |to go either.* |
 
 #### Much, Many, A Lot Of
 
-- *Much* used with uncountable nouns, *many* with plural nouns. Examples: *There isn't much traffic along the street where I live. / Will you be taking many suitcases on the trip?*
-- Before *the, my, this*, etc. we use *much of / many of*. *Much of* can also be used with a singular countable noun to mean 'a large part of'. Example: *Much of the national park was destroyed in the fire.*
-- *Much* and *many* can be used without a noun if the meaning is clear. Often used after *as, how, so,* and *too*. Example: *I'd say there were twice as many women at the meeting as men.*
-- *Much (of)* and *many (of)* used in negative sentences to emphasise small quantities or amounts, and in questions to ask about quantities or amounts. Example: *She didn't show much interest in what I said.*
-- In affirmative sentences, *a lot of, lots of* or *plenty of* are often used rather than *much (of)* and *many*, particularly in conversation and informal writing. Example: *Mariam offered me a lot of money for the car.*
-- *Many of* is common in affirmative sentences in both formal and informal contexts. Example: *Many of my relatives live around Auckland.*
+| Quantifier | Use | Examples |
+|------------|-----|----------|
+| **much** | With uncountable nouns | *There isn't much traffic along the street where I live.* |
+| **many** | With plural nouns | *Will you be taking many suitcases on the trip?* |
+| **much of / many of** | Before *the, my, this*, etc. | *Much of the national park was destroyed in the fire.* |
+| **much/many** (no noun) | If meaning is clear; often after *as, how, so, too* | *I'd say there were twice as many women at the meeting as men.* |
+| **much (of) / many (of)** | In negative sentences (small quantities) and questions | *She didn't show much interest in what I said.* |
+| **a lot of / lots of / plenty of** | In affirmative sentences (informal), instead of *much/many* | *Mariam offered me a lot of money for the car.* |
+| **many of** | Common in affirmative sentences in both formal and informal contexts | *Many of my relatives live around Auckland.* |
 
 #### All, Each, Every
 
-- *All* or *all of* when talking about the total number of things or people in a group, or the total amount of something. In informal contexts we can leave out *of*. Example: *There is heating in all (of) the holiday cottages.*
-- In modern English we don't use *all* without a noun to mean 'everyone' or 'everything'. However, *all* can mean 'everything' when followed by a relative clause, and can mean 'the only thing' without a noun. Examples: *I don't agree with all that he said. (= everything that he said) / All she wants to do is help.*
-- *Each* and *every* with singular countable nouns, and *each of* with plural nouns, to mean all things or people in a group of two or more (*each (of)*) or three or more (*every*). Use a singular verb after *each (of)* and *every*. Example: *Every newspaper had the same front page story. / Following the flood, every building in the area needs major repair work.*
-- When *each* follows the noun or pronoun it refers to, the noun/pronoun and verb are plural. Example: *Every student is tested twice a year. They are each given a hundred questions to do.*
+| Word | Rule | Examples |
+|------|------|----------|
+| **all / all of** | Total number or amount; *of* can be left out informally | *There is heating in all (of) the holiday cottages.* |
+| **all** (without noun) | Can mean 'everything' when followed by a relative clause; can mean 'the only thing' | *I don't agree with all that he said. / All she wants to do is help.* |
+| **each / every** | With singular countable nouns (two or more for *each*, three or more for *every*) | *Every newspaper had the same front page story.* |
+| **each (of) / every** | Singular verb required | *Following the flood, every building in the area needs major repair work.* |
+| **each** (after noun/pronoun) | When *each* follows the noun/pronoun it refers to, the noun/pronoun and verb are plural | *Every student is tested twice a year. They are each given a hundred questions to do.* |
 
 #### Each Other / One Another
 
-- Used with verbs that describe actions in which two or more people or things do the same thing to the other(s). Example: *They tried to avoid each other / one another at the party.*
-- After some verbs (e.g., *meet, embrace, fight, kiss, marry*), *each other / one another* may be omitted when the subject is plural or has the form '... and ...'. Example: *John and Carmen first met (each other / one another) when they were working in Spain.*
-- With some verbs (e.g., *communicate, agree, coincide, collaborate, compete, contrast, co-operate, disagree, joke, look at, quarrel, talk to/with*), a preposition (often *with*) is required before *each other / one another*. Examples: *The scheme allows students from many countries to communicate with each other. / We looked at each other and started to laugh.*
-- For emphasis, we can separate *each* and *other*. Example: *The two children each blamed the other for breaking the window.*
+| Rule | Verbs | Examples |
+|------|-------|----------|
+| Used with verbs describing actions where two or more do the same thing to the other(s) | *avoid, attract, complement, face, help, repel* | *They tried to avoid each other / one another at the party.* |
+| Can be omitted when subject is plural or has '... and ...' form | *meet, embrace, fight, kiss, marry* | *John and Carmen first met (each other) when they were working in Spain.* |
+| Preposition (often *with*) required before *each other/one another* | *communicate, agree, coincide, collaborate, compete, contrast, co-operate, disagree, joke, look at, quarrel, talk to/with* | *The scheme allows students to communicate with each other. / We looked at each other and started to laugh.* |
+| Can separate *each* and *other* for emphasis | | *The two children each blamed the other for breaking the window.* |
 
 ---
 
@@ -1273,18 +1286,22 @@ Relative clauses have a similar function to adjectives in that they give more in
 
 #### Defining vs. Non-Defining
 
-- **Defining relative clauses** are used to specify which person or thing we mean, or which type of person or thing we mean. No comma between the noun and a defining relative clause. Example: *Magnus stopped the police car that was driving past.*
-- **Non-defining relative clauses** are used to add extra information about a noun, but this information is not necessary to explain which person or thing we mean. Not used often in everyday speech, but frequently in written English. A comma is often put before and after a non-defining relative clause. Example: *My mother, who is in her seventies, enjoys hill walking.*
-- After a relative clause, we don't repeat the subject with a pronoun. Example: *The house, which is to the north of the road, is owned by a rock star.* (Not '... it is owned ...'). However, this is sometimes found in informal speech. Example: *'A friend of mine who is a solicitor - she helped me.'*
-- When the relative pronoun is the subject of a defining relative clause, the word order is subject + verb + object. Example: *I have a friend who / that plays guitar.*
-- When the relative pronoun is the object, the word order is object + subject + verb. Example: *He showed me the rocks (which / that) he had collected.*
+| Rule | Explanation | Examples |
+|------|-------------|----------|
+| **Defining relative clauses** | Specify which person or thing we mean, or which type of person or thing we mean. No comma between the noun and the clause. | *Magnus stopped the police car that was driving past.* |
+| **Non-defining relative clauses** | Add extra information about a noun, but this information is not necessary to explain which person or thing we mean. Not used often in everyday speech, but frequently in written English. A comma is often put before and after the clause. | *My mother, who is in her seventies, enjoys hill walking.* |
+| **No repeated subject** | After a relative clause, do not repeat the subject with a pronoun. (Sometimes found in informal speech.) | *The house, which is to the north of the road, is owned by a rock star.* (Not '... it is owned ...') / *'A friend of mine who is a solicitor - she helped me.'* (informal) |
+| **Relative pronoun as subject** | Word order: subject + verb + object | *I have a friend who / that plays guitar.* (a friend = subject, plays = verb, guitar = object) |
+| **Relative pronoun as object** | Word order: object + subject + verb | *He showed me the rocks (which / that) he had collected.* (the rocks = object, he = subject, had collected = verb) |
 
 #### -ing and -ed Clauses (Participle Clauses)
 
-- ***-ing* clauses:** Used to talk about something that takes place at the same time as or just before an action in the main clause. Often used in written narrative after quoted speech to say what someone was doing while talking. Examples: *Glancing over his shoulder, he could see the dog chasing him. / Pushing her way through the crowds, she just managed to get on the bus. / 'Wait a minute,' said Amy, running through the door.*
-- ***-ing* clauses** can be used to talk about reasons and results. Example: *Knowing exactly what I wanted, I didn't spend much time shopping.* (= Because I knew exactly what I wanted, ...)
-- ***-ed* clauses:** Used to talk about something that happened before an action in the main clause. Often the event in the *-ed* clause causes the event in the main clause. Example: *Annoyed by the boys' behaviour, she complained to the headteacher.*
-- **Important:** The understood subject of *-ing* and *-ed* clauses should be the same as the subject of the main clause.
+| Clause Type | Use | Examples |
+|-------------|-----|----------|
+| **-ing clauses** | Something that takes place at the same time as or just before an action in the main clause; often used in written narrative after quoted speech to say what someone was doing while talking | *Glancing over his shoulder, he could see the dog chasing him. / Pushing her way through the crowds, she just managed to get on the bus. / 'Wait a minute,' said Amy, running through the door.* |
+| **-ing clauses** | Reasons and results | *Knowing exactly what I wanted, I didn't spend much time shopping.* (= Because I knew exactly what I wanted, ...) |
+| **-ed clauses** | Something that happened before an action in the main clause; often the event in the -ed clause causes the event in the main clause | *Annoyed by the boys' behaviour, she complained to the headteacher.* |
+| **-ing and -ed clauses (important rule)** | The understood subject of the clause should be the same as the subject of the main clause | In *Glancing over his shoulder, he could see the dog chasing him*, 'he' is the unstated subject of 'Glancing over his shoulder...' |
 
 ---
 
@@ -1298,8 +1315,6 @@ We usually add the ending **-er** to one-syllable adjectives and adverbs to make
 
 When we use more than one adjective before a noun, there is often a **preferred** (although not fixed) order for these adjectives depending on what type of adjective they are: **opinion + size / physical quality / shape / age + colour + participle adjectives + origin + material + type + purpose + NOUN**.
 
-To help you to learn this order, it can be useful to remember that **gradable adjectives** (describing **opinion, size, quality, shape, and age**) usually precede **ungradable adjectives** (**participle adjective** and adjectives describing **origin, material, type and purpose**).
-
 1. **O**pinion (*beautiful, nice*)
 2. **S**ize (*big, small*)
 3. **A**ge (*old, new*)
@@ -1309,10 +1324,17 @@ To help you to learn this order, it can be useful to remember that **gradable ad
 7. **M**aterial (*wooden, silk*)
 8. **P**urpose (*dining, sleeping*)
 
-> No comma between different categories. Comma between same-category adjectives.
-> To help learn this order: gradable adjectives (opinion, size, quality, shape, and age) usually precede ungradable adjectives (participle adjective and adjectives describing origin, material, type and purpose).
+> No comma between different categories. Comma between same-category adjectives.  
+> To help learn this order: gradable adjectives (opinion, size, quality, shape, and age) usually precede ungradable adjectives (participle adjective and adjectives describing origin, material, type and purpose).  
 
-**Examples:** *an old plastic container* = age + material + noun; *a hard red ball* = quality + colour + noun; *a frightening Korean mask* = opinion + origin + noun; *a round biscuit tin* = shape + purpose (for holding biscuits) + noun; *a small broken plate* = size + participle adjective + noun; *a useful digital alarm clock* = opinion + type + purpose + noun
+| Example | Order |
+|---------|-------|
+| *an old plastic container* | age + material + noun |
+| *a hard red ball* | quality + colour + noun |
+| *a frightening Korean mask* | opinion + origin + noun |
+| *a round biscuit tin* | shape + purpose (for holding biscuits) + noun |
+| *a small broken plate* | size + participle adjective + noun |
+| *a useful digital alarm clock* | opinion + type + purpose + noun |
 
 #### Degrees of Adjectives
 
@@ -1340,18 +1362,36 @@ To help you to learn this order, it can be useful to remember that **gradable ad
 
 #### Gradable and Non-Gradable Adjectives
 
-- Most adjectives are **gradable**: they describe qualities that can be measured or graded, and so can be used in comparative and superlative forms and with words such as 'very' or 'extremely'. Example: *They live in a very large house.*
-- **Non-gradable adjectives** refer to qualities that are completely present or completely absent. They are not usually used in comparative and superlative forms or with words such as 'very' or 'extremely'. They can often, however, be used with words such as 'absolutely' or 'completely'. Example: *Our teacher gave us an absolutely impossible problem to solve.*
+| Adjective Type | Description | Common Modifiers | Comparative/Superlative | Example |
+|----------------|-------------|------------------|------------------------|---------|
+| **Gradable** | Describe qualities that can be measured or graded | *very, extremely, fairly, quite* (= fairly) | Yes | *They live in a very large house.* |
+| **Non-gradable** | Refer to qualities that are completely present or completely absent | *absolutely, completely, quite* (= completely) | Not usually | *Our teacher gave us an absolutely impossible problem to solve.* |
 
 #### Easily Confused Adjectives (-ed vs. -ing)
 
-Some adjectives that are used to describe feelings about something or someone else have both an *-ed* and *-ing* form. Generally, the *-ed* form describes how the person feels, and the *-ing* form gives an evaluation of the thing or other person. Example: *I was surprised to find that the film was quite frightening.*
+Some adjectives that are used to describe feelings about something or someone else have both an *-ed* and *-ing* form. 
 
-Also: *alarmed - alarming, amazed - amazing, bored - boring, excited - exciting, interested - interesting, pleased - pleasing, tired - tiring, worried - worrying*
+| -ed Form (describes how the person feels) | -ing Form (gives an evaluation of the thing or other person) |
+|-------------------------------------------|-------------------------------------------------------------|
+| *alarmed* | *alarming* |
+| *amazed* | *amazing* |
+| *bored* | *boring* |
+| *excited* | *exciting* |
+| *interested* | *interesting* |
+| *pleased* | *pleasing* |
+| *surprised* | *frightening* |
+| *tired* | *tiring* |
+| *worried* | *worrying* |
+
+**Example:** *I was **surprised** to find that the film was quite **frightening**.*
 
 #### Quite: Two Meanings
 
-**Quite** has two meanings: to a particular degree, but not 'very' (= fairly); and to a large degree, or 'very much' (= completely). When **quite** is used with non-gradable adjectives it means 'completely'. Examples: *I was quite satisfied with the result.* (= fairly) / *No, you're quite wrong!* (= completely) / *The food here is quite superb.* (= completely, with non-gradable adjective)
+| Meaning | Use | Examples |
+|---------|-----|----------|
+| = fairly (to a particular degree, but not 'very') | With gradable adjectives | *I was quite satisfied with the result.* |
+| = completely (to a large degree, 'very much') | With gradable adjectives | *No, you're quite wrong!* |
+| = completely | With non-gradable adjectives | *The food here is quite superb.* |
 
 #### Adverb Types
 
@@ -1484,29 +1524,34 @@ Also: *alarmed - alarming, amazed - amazing, bored - boring, excited - exciting,
 | Subject + verb (clause) | **although / though / even though** |
 | Noun / gerund / *the fact that* | **despite / in spite of** |
 
-> *Despite the rain, we went out.* ✓
-> *Despite it was raining, we went out.* ✗
-> *Despite* has NO *of*. *In spite* MUST have *of*.
+> *Despite the rain, we went out.* ✓  
+> *Despite it was raining, we went out.* ✗  
+> *Despite* has NO *of*. *In spite* MUST have *of*.  
 
 #### Tenses in Adverbial and Main Clauses
 
-An adverbial clause is a type of subordinate clause, linked to a main clause. It adds extra information to the main clause about such things as time, conditions, place, contrast, cause/reason, purpose, and result. Most adverbial clauses begin with a conjunction that indicates their link with the main clause.
-
-- The verb in the adverbial clause is usually the same tense as the verb in the main clause. Examples: *Because I'm rather unfit, my doctor has put me on a new exercise regime.* (both present) / *I felt unwell when I got up this morning.* (both past)
+| Rule | Explanation | Examples |
+|------|-------------|----------|
+| **Same tense** | The verb in the adverbial clause is usually the same tense as the verb in the main clause | *Because I'm rather unfit, my doctor has put me on a new exercise regime.* (both present) / *I felt unwell when I got up this morning.* (both past) |
 
 #### Time Clauses: Tenses
 
-- To refer to the future after a time conjunction, we use present tenses. Example: *Have something to eat before you leave.*
-- To talk about an action in the adverbial clause that is completed before another action described in the main clause, we can use either simple or perfect tenses (present or past), but not *will* or *will have + -ed* (the future perfect). Examples: *As soon as you see / have seen her, come and tell me. / She wrote to me after she spoke / had spoken to Carlos.*
-- If the actions in the main clause and the adverbial clause take place at the same time, we use simple, not perfect tenses. Example: *When I saw Kim, I asked her over for dinner.*
-- *While* is mainly used with continuous tenses and also with simple tenses. Examples: *While the children were swimming, their mother kept a watchful eye on them. / I read a book while I waited.*
+| Rule | Explanation | Examples |
+|------|-------------|----------|
+| **Future time** | To refer to the future after a time conjunction, use present tenses | *Have something to eat before you leave.* |
+| **Completed action** | To talk about an action in the adverbial clause that is completed before another action in the main clause, use either simple or perfect tenses (present or past), but not *will* or *will have + -ed* | *As soon as you see / have seen her, come and tell me. / She wrote to me after she spoke / had spoken to Carlos.* |
+| **Same time** | If the actions in the main clause and the adverbial clause take place at the same time, use simple, not perfect tenses | *When I saw Kim, I asked her over for dinner.* |
+| **While** | Mainly used with continuous tenses and also with simple tenses | *While the children were swimming, their mother kept a watchful eye on them. / I read a book while I waited.* |
 
-**Other types of adverbial clause** give information about place, contrast, cause/reason, purpose, and result:
-- Place: *Can you put it back where you found it, please?*
-- Contrast: *My sister is blonde, whereas my brother has dark hair.*
-- Cause/reason: *He wasn't allowed in because he was too young.*
-- Purpose: *We got up early so that we could watch the sunrise.*
-- Result: *He played so badly that he was easily beaten.*
+**Other Types of Adverbial Clause**
+
+| Type | Conjunction/Structure | Example |
+|------|----------------------|---------|
+| **Place** | *where* | *Can you put it back where you found it, please?* |
+| **Contrast** | *whereas* | *My sister is blonde, whereas my brother has dark hair.* |
+| **Cause/Reason** | *because* | *He wasn't allowed in because he was too young.* |
+| **Purpose** | *so that* | *We got up early so that we could watch the sunrise.* |
+| **Result** | *so... that* | *He played so badly that he was easily beaten.* |
 
 ---
 
@@ -1623,8 +1668,8 @@ An adverbial clause is a type of subordinate clause, linked to a main clause. It
 
 ### Phrasal Verbs
 
-1. Meaning is often idiomatic (*give up* ≠ *give* + *up*).
-2. One phrasal verb can have multiple meanings (*take off*: remove, depart, succeed).
+1. **Meaning is often idiomatic** (*give up* ≠ *give* + *up*).
+2. **One phrasal verb can have multiple meanings** (*take off*: remove, depart, succeed).
 3. **Separable:** object can go in the middle (*turn the light off*).
 4. **Pronouns must go in the middle** (*turn it off*, NOT *turn off it*).
 5. **Three-word phrasal verbs** are always inseparable (*put up with*).
@@ -1815,24 +1860,46 @@ An adverbial clause is a type of subordinate clause, linked to a main clause. It
 
 ### Troubleshooting: Common Errors
 
-| Error | Correction |
-|-------|------------|
-| *I am knowing* | *I know* (stative verb) |
-| *If I will see* | *If I see* (no *will* in *if*-clause) |
-| *Despite it was raining* | *Although it was raining* / *Despite the rain* |
-| *more better* | *better* (no double comparative) |
-| *He is enough tall* | *He is tall enough* |
-| *I suggested to go* | *I suggested going* |
-| *She said me* | *She told me* |
-| *Can you explain me?* | *Can you explain it to me?* |
-| *I don't have no money* | *I don't have any money* / *I have no money* |
-| *I look forward to see you* | *I look forward to seeing you* |
-| *He is used to work late* | *He is used to working late* |
-| *10 items or less* (formal) | *10 items or fewer* |
-| *I wish I was rich* (formal) | *I wish I were rich* |
-| *I suggest that he goes* | *I suggest that he go* (subjunctive) |
-| *She drove careless* | *She drove carelessly* |
-| *The thing what I saw* | *The thing that/which I saw* |
-| *I didn't do nothing* | *I didn't do anything* / *I did nothing* |
-| *Discuss about the problem* | *Discuss the problem* (no preposition) |
-| *I gave to her a book* | *I gave her a book* / *I gave a book to her* |
+| Error | Correction | Area |
+|-------|------------|------|
+| *I am knowing* | *I know* | Stative verb (no continuous) |
+| *If I will see* | *If I see* | No *will* in *if*-clause |
+| *Despite it was raining* | *Although it was raining / Despite the rain* | *Despite* + noun/gerund, not clause |
+| *more better* | *better* | No double comparative |
+| *He is enough tall* | *He is tall enough* | *enough* after adj/adv |
+| *I suggested to go* | *I suggested going* | *suggest* + -ing |
+| *She said me* | *She told me* | *say* takes no indirect object without *to* |
+| *Can you explain me?* | *Can you explain it to me?* | *explain* requires *to* + IO |
+| *I don't have no money* | *I don't have any money / I have no money* | No double negatives |
+| *I look forward to see you* | *I look forward to seeing you* | *look forward to* + -ing |
+| *He is used to work late* | *He is used to working late* | *be used to* + -ing |
+| *10 items or less* (formal) | *10 items or fewer* | *fewer* for countable nouns |
+| *I wish I was rich* (formal) | *I wish I were rich* | Subjunctive *were* |
+| *I suggest that he goes* | *I suggest that he go* | Subjunctive (base form) |
+| *She drove careless* | *She drove carelessly* | Adverb, not adjective |
+| *The thing what I saw* | *The thing that/which I saw* | *what* ≠ relative pronoun after noun |
+| *I didn't do nothing* | *I didn't do anything / I did nothing* | No double negatives |
+| *Discuss about the problem* | *Discuss the problem* | No preposition with *discuss* |
+| *I gave to her a book* | *I gave her a book / I gave a book to her* | IO first or *to* + IO after DO |
+| *She must to go* | *She must go* | Modal + bare infinitive (no *to*) |
+| *He cans swim* | *He can swim* | Modal: no -s in 3rd person |
+| *They didn't used to come* | *They didn't use to come* | *use to* after *did* |
+| *She would have long hair* | *She used to have long hair* | *would* not for past states |
+| *The child was vanished* | *The child vanished* | Intransitive verbs: no passive |
+| *The house got owned by them* | *The house was owned by them* | *get* passive not for states |
+| *The house which is there it is mine* | *The house which is there is mine* | No repeated subject after relative clause |
+| *If I would have known* | *If I had known* | No *would* in *if*-clause |
+| *I'm used to wake early* | *I'm used to waking early* | *be used to* + -ing |
+| *There's no point to worry* | *There's no point in worrying* | *no point in* + -ing |
+| *The news are good* | *The news is good* | *news* is singular |
+| *She gave me an advice* | *She gave me some advice / a piece of advice* | *advice* is uncountable |
+| *Neither of them were ready* (formal) | *Neither of them was ready* | *neither* + singular verb (formal) |
+| *None of the money were found* | *None of the money was found* | Uncountable: singular verb |
+| *I entered into the room* | *I entered the room* | No preposition with *enter* |
+| *He never has seen it* | *He has never seen it* | Adverb between auxiliary and main verb |
+| *I don't hardly know her* | *I hardly know her* | No double negative with semi-negative |
+| *Not only she won, but she also...* | *Not only did she win, but she also...* | Inversion after *not only* |
+| *This is the book for which I was looking* (too formal for speech) | *This is the book I was looking for* | Stranded preposition (informal) |
+| *The rich is getting richer* | *The rich are getting richer* | *the* + adjective = plural |
+| *She is taller than me* (formal) | *She is taller than I (am)* | Subject pronoun in formal comparison |
+| *I regret to tell you about the mistake I made* (wrong meaning) | *I regret telling you about the mistake I made* | *regret* + -ing = sorry about past; *regret* + to = sorry to announce |
