@@ -9,7 +9,7 @@
   - [Time](#time)
 - [Tenses](#tenses)
   - [Active Voice](#active-voice)
-  - [Passive Voice](#passive-voice)
+  - [Passive Voice Overview](#passive-voice-overview)
   - [More Passive Patterns](#more-passive-patterns)
   - [Key Tense Rules](#key-tense-rules)
 - [Word Order (SVO)](#word-order-svo)
@@ -210,7 +210,7 @@
 | **Perfect** | *have/has/had* + V3 (past participle) | *She has/had/will have worked.* |
 | **Perfect Continuous** | *have/has/had* + been + V-ing | *She has/had/will have been working.* |
 
-#### Passive Voice
+#### Passive Voice Overview
 
 | Aspect | Structure | Example |
 |--------|-----------|---------|
@@ -444,7 +444,6 @@ The semi-modals are: **ought to, used to, need, dare, had better, have (got) to,
 
 > ***Mustn't* vs. *Don't have to*:** *You mustn't smoke here.* (prohibition) / *You don't have to come.* (no obligation)
 
-
 **Can, Could and Be Able To:**
 - *Can* (present) / *couldn't* (past) for general ability. Examples: *A polyglot is someone who can speak several different languages. / Anita could speak three languages before she was six. / Olivia couldn't swim until she was ten.*
 - *Could* (not *can*) to say there is a possibility of something happening or being true. Example: *'Why isn't Ben here yet?' 'It could be because his mother's ill again.'*
@@ -631,6 +630,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 | **Passive in Conditionals** | *if... be + V3* | *If it is broken, it will be replaced.* |
 
 **Additional Passive Notes:**
+
 - The choice between an active and passive sentence allows us to present the same information in two different orders. In active sentences, the subject is the 'agent' and the object is the 'done to'. In passive sentences, the subject is the 'done to', and if mentioned, the agent goes in a prepositional phrase with *by* after the verb.
 - Verbs which take an object (transitive verbs) can have a passive form. Verbs which do not take an object (intransitive verbs) do not have passive forms.
 - Many verbs can be both transitive and intransitive. Compare: *'Are they meeting him at the airport?'* (transitive) and *'Is he being met at the airport?'* (passive); *'When shall we meet?'* (intransitive; no passive possible).
@@ -643,6 +643,8 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 When we report speech in a different context from the one in which it was originally produced, we sometimes need to make changes to the original words. Of course, differences between the original speech context and the one in which it is reported will influence whether changes are needed and what they should be.
 
 The tense we choose for a report is one that is appropriate at the time that we are reporting what was said or thought. This means that we sometimes use a different tense in the report from the one that was used in the original statement and change pronouns, references to time and place, and words such as this, that, and these.
+
+**Say and tell** are the verbs most commonly used to report statements. We use an **object after tell** (... me ...), but not after say. Note, however, that we can use to + object after say (... to Ivan ...), but not after tell, and that we can report what topic was talked about using **tell + object + about**.
 
 #### Tense Backshift
 
@@ -712,16 +714,18 @@ The tense we choose for a report is one that is appropriate at the time that we 
 
 #### Direct Speech Punctuation
 
-- Single ('...') or double ("...") quotation marks at the beginning and end of exact spoken or written words.
-- Examples of punctuation:
-  - *'I think we should go to India while we have the opportunity,' argued Oliver.*
-  - *'Can I make an appointment to see the doctor?' asked Maxim.*
-  - *'You must be mad!' yelled her brother.*
-  - *'It tastes horrible,' said Anna, 'but it's supposed to be very good for you.'*
-  - *'You should go home,' Maria advised. 'You're looking really ill.'*
-  - *Daniel said, 'Put them all on the top shelf.'*
-  - *She stood up and shouted to the children: 'It's time to go home!'*
-- To quote what a person thinks, use the same conventions or separate the quotation from the reporting clause with a comma (or colon) and leave out quotation marks. Examples: *'Why did she look at me like that?' wondered Julia. / Perhaps the door is open, thought Omar. / Suddenly she thought: Could they be trying to trick me?*
+When we quote what people think or what they have said, we put single ('...') or double ("...") quotation marks at the beginning and end of a report of their exact spoken or written words. This is often referred to as direct speech.
+
+Here are examples of direct speech. Note the punctuation used:
+- *'I think we should go to India while we have the opportunity,' argued Oliver.*
+- *'Can I make an appointment to see the doctor?' asked Maxim.*
+- *'You must be mad!' yelled her brother.*
+- *'It tastes horrible,' said Anna, 'but it's supposed to be very good for you.'*
+- *'You should go home,' Maria advised. 'You're looking really ill.'*
+- *Daniel said, 'Put them all on the top shelf.'*
+- *She stood up and shouted to the children: 'It's time to go home!'*
+
+To quote what a person thinks, we use the conventions shown in the examples above, or separate the quotation from the reporting clause with a comma (or colon) and leave out quotation marks. Examples: *'Why did she look at me like that?' wondered Julia. / Perhaps the door is open, thought Omar. / Suddenly she thought: Could they be trying to trick me?*
 
 ---
 
@@ -820,6 +824,8 @@ The tense we choose for a report is one that is appropriate at the time that we 
 ---
 
 ### Questions
+
+If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the subject. If a verb phrase includes more than one auxiliary verb, only the first comes before the subject. In present and past simple tenses of verbs (apart from *be*), we use *do* or *did*. If *be* is used in a verb phrase without another verb, the form of *be* comes before the subject. If we use *what, which, who* or *whose* as the subject, we use the same word order as in a statement; i.e. the subject goes before the verb phrase.
 
 | Type | Structure | Example |
 |------|-----------|---------|
@@ -1032,6 +1038,8 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 
 #### Articles
 
+**Articles (a / an and the)** are determiners. They specify what the noun refers to and come at the beginning of the noun phrase. However, they cannot be quantifiers or pronouns.
+
 | Article/Determiner | Type | Use | Example |
 |--------------------|------|-----|---------|
 | *the* | Definite | Specific, unique, previously mentioned nouns, superlatives | *The sun* is bright. |
@@ -1042,6 +1050,14 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 | *my, your, his, etc.* | Possessive determiners | Show possession (replace articles) | *My car* |
 | *-'s* | Possessive | Possession (people, animals) | *John's book* |
 | *of* | Possessive/quantifier | Possession (objects), quantity, description | *The cover of the book* |
+
+**Article Usage Details:**
+
+We use **the** with singular, plural or uncountable nouns when we expect the listener or reader to be able to identify the thing or person we are referring to in the following noun. It may be that the thing has already been mentioned; that it is clear from the situation which person or thing we mean; that it is in some other way understandable from the context which thing or person we mean; that the thing or person is identified in what is said after the noun; or that there is only one of a particular thing (and also, for example, *the Great Wall of China, the North Pole, the USA, the world*). Examples: *Lisa took a cake and some biscuits to the party, but only the biscuits were eaten. / Can you shut the door after you, please? / We had a good time on holiday. The beaches were all beautifully clean.* ('the beaches' = 'the beaches we went to') */ Give it to the man wearing the red coat. / Look at the moon. It's very bright tonight.*
+
+We use **a / an** with singular nouns when we don't expect the listener or reader to be able to identify the thing or person we are referring to in the following noun. We often use **a / an** to introduce a new specific person or thing; or when the noun refers to a class of people or things generally (for example, when we describe someone or something or say what type of thing someone or something is). Examples: *Helen's just bought a house on Wilson Street. / Sydney is a beautiful city.*
+
+We use **zero article** with uncountable and plural nouns when we talk generally about people or things rather than about specific people or things. We might talk about a whole class of things in a general way or about an indefinite number or amount. Examples: *[-] Water has got into my camera and damaged it. *
 
 #### Nouns
 
@@ -1064,18 +1080,9 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 | **Collective nouns** | *team, family, government* (singular in US, singular/plural in UK) |
 | **Indefinite pronouns = singular** | *Everyone is here. Each has a book.* |
 
-**Article Usage Details:**
-- Use *the* with singular, plural or uncountable nouns when we expect the listener or reader to be able to identify the thing or person referred to. This may be because:
-  - It has already been mentioned: *Lisa took a cake and some biscuits to the party, but only the biscuits were eaten.*
-  - It is clear from the situation: *Can you shut the door after you, please?*
-  - It is understandable from the context: *We had a good time on holiday. The beaches were all beautifully clean.* ('the beaches we went to')
-  - It is identified in what is said after the noun: *Give it to the man wearing the red coat.*
-  - There is only one of a particular thing: *Look at the moon. It's very bright tonight.* (and also, e.g., *the Great Wall of China, the North Pole, the USA, the world*)
-- Use *a/an* with singular nouns when we don't expect the listener or reader to be able to identify the thing or person. Often used to introduce a new specific person or thing, or to describe or say what type of thing someone or something is. Examples: *Helen's just bought a house on Wilson Street. / Sydney is a beautiful city.*
-- Use zero article with uncountable and plural nouns when talking generally about people or things rather than about specific people or things. Examples: *[-] Water has got into my camera and damaged it. / There are [-] examples of the present continuous tense on page 32.*
-
 #### Countable and Uncountable Nouns
 
+Nouns can be either **countable** or **uncountable**. Countable nouns are those which can have the word **a / an** before them or be used in the plural. Uncountable nouns are not used with **a / an** or in the plural.
 - Some nouns in English are normally uncountable, while in many other languages they are countable. Examples: *accommodation, advice, applause, assistance, baggage, camping, cash, chaos, chess, clothing, conduct, courage, cutlery, dancing, dirt, employment, evidence, fun, furniture, harm, health, homework, housing, housework, information, jewellery, leisure, litter, luck, luggage, machinery, money, mud, music, news, nonsense, parking, pay, permission, photography, poetry, pollution, produce, progress, publicity, research, rubbish, safety, scenery, shopping, sightseeing, sunshine, transport, underwear, violence, weather, work*
 - Sometimes a noun is used uncountably when talking about the whole substance or idea, but countably when talking about units or different kinds. Examples: *beer, coffee, water; fruit, toothpaste, washing powder; cake, chicken, land, paint, space, stone; abuse, (dis)agreement, difficulty, fear, improvement, language, life, pain, protest, responsibility, success, thought, war*
 - Compare: *Three coffees and a lemonade, please.* vs. *Brazil is a major producer of coffee. / The chickens have escaped.* vs. *I don't eat chicken. / I have a fear of spiders.* vs. *He was trembling with fear.*
@@ -1105,7 +1112,7 @@ A good dictionary will list the meanings of verbs and tell you whether each mean
 
 #### Pronouns
 
-
+**Pronouns** are words that replace nouns or noun phrases.
 
 | Type | Examples |
 |------|----------|
@@ -1221,6 +1228,8 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 
 ### Clause Concepts
 
+A **clause** is a group of words containing a subject and a verb. It is the fundamental unit of a sentence that expresses either a complete thought (independent clause) or a part of a thought (dependent/subordinate clause).
+
 | Clause Type | Function | Introducers |
 |-------------|----------|-------------|
 | **Independent** | Stands alone | (none needed) |
@@ -1284,6 +1293,10 @@ We usually add the ending **-er** to one-syllable adjectives and adverbs to make
 
 #### Adjective Order (OSASCOMP)
 
+When we use more than one adjective before a noun, there is often a **preferred** (although not fixed) order for these adjectives depending on what type of adjective they are: **opinion + size / physical quality / shape / age + colour + participle adjectives + origin + material + type + purpose + NOUN**.
+
+To help you to learn this order, it can be useful to remember that **gradable adjectives** (describing **opinion, size, quality, shape, and age**) usually precede **ungradable adjectives** (**participle adjective** and adjectives describing **origin, material, type and purpose**).
+
 1. **O**pinion (*beautiful, nice*)
 2. **S**ize (*big, small*)
 3. **A**ge (*old, new*)
@@ -1296,7 +1309,7 @@ We usually add the ending **-er** to one-syllable adjectives and adverbs to make
 > No comma between different categories. Comma between same-category adjectives.
 > To help learn this order: gradable adjectives (opinion, size, quality, shape, and age) usually precede ungradable adjectives (participle adjective and adjectives describing origin, material, type and purpose).
 
-**Example with all categories:** *a useful (opinion) digital (type) alarm (purpose) clock*
+**Examples:** *an old plastic container* = age + material + noun; *a hard red ball* = quality + colour + noun; *a frightening Korean mask* = opinion + origin + noun; *a round biscuit tin* = shape + purpose (for holding biscuits) + noun; *a small broken plate* = size + participle adjective + noun; *a useful digital alarm clock* = opinion + type + purpose + noun
 
 #### Degrees of Adjectives
 
@@ -1335,9 +1348,7 @@ Also: *alarmed - alarming, amazed - amazing, bored - boring, excited - exciting,
 
 #### Quite: Two Meanings
 
-- To a particular degree, but not 'very' (= fairly). Example: *I was quite satisfied with the result.*
-- To a large degree, or 'very much' (= completely). Example: *No, you're quite wrong!*
-- When used with non-gradable adjectives, *quite* means 'completely'. Example: *The food here is quite superb.*
+**Quite** has two meanings: to a particular degree, but not 'very' (= fairly); and to a large degree, or 'very much' (= completely). When **quite** is used with non-gradable adjectives it means 'completely'. Examples: *I was quite satisfied with the result.* (= fairly) / *No, you're quite wrong!* (= completely) / *The food here is quite superb.* (= completely, with non-gradable adjective)
 
 #### Adverb Types
 
@@ -1454,6 +1465,8 @@ Also: *alarmed - alarming, amazed - amazing, bored - boring, excited - exciting,
 
 ### Conjunctions
 
+**Conjunctions** are words that link together words, phrases, clauses, or sentences. They are essential for creating complex sentences and showing the relationships between different ideas.
+
 | Type | Examples |
 |------|----------|
 | **Coordinating (FANBOYS)** | *for, and, nor, but, or, yet, so* |
@@ -1536,6 +1549,8 @@ An adverbial clause is a type of subordinate clause, linked to a main clause. It
 ---
 
 ### Prepositions
+
+**Prepositions** are words that typically precede a noun or pronoun (the object of the preposition) to show its relationship with another word in the sentence. This relationship can indicate location, time, direction, manner, cause, possession, or purpose.
 
 #### Time (Prepositions)
 
