@@ -26,12 +26,14 @@ Comparative structures are used to compare differences or similarities between t
 |----------------------|------|---------|
 | **One syllable** | Add *-er* | *tall -> taller, fast -> faster, big -> bigger* |
 | **One syllable (ending in -e)** | Add *-r* | *nice -> nicer, late -> later, large -> larger* |
-| **One syllable (CVC pattern)** | Double final consonant + *-er* | *big -> bigger, hot -> hotter, sad -> sadder* |
+| **One syllable (CVC pattern\*)** | Double final consonant + *-er* | *big -> bigger, hot -> hotter, sad -> sadder* |
 | **Two syllables ending in -y** | Change *y* to *i* + *-er* | *happy -> happier, easy -> easier, busy -> busier* |
 | **Two syllables (other)** | *more* + adjective | *peaceful -> more peaceful, careful -> more careful* |
 | **Three or more syllables** | *more* + adjective | *expensive -> more expensive, beautiful -> more beautiful* |
 | **Adverbs ending in -ly** | *more* + adverb | *quickly -> more quickly, carefully -> more carefully* |
 | **Irregular forms** | Special forms | *good/well -> better, bad/badly -> worse, far -> farther/further* |
+
+> *CVC pattern: a Consonant, then a Vowel, then a Consonant.
 
 #### 2. Using Comparatives
 
