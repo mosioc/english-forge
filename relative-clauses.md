@@ -14,8 +14,8 @@ Think of relative clauses as "add-on" pieces of information. They are dependent 
 
 These are **essential**. If you remove them, the meaning of the sentence changes drastically, or it becomes unclear which noun you're referring to. They define or restrict the noun.
 
-> **Punctuation:** No commas
-> **Relative pronouns/adverbs:** *who, whom, which, that, whose, where, when, why* (often uses *that*)
+> **Punctuation:** No commas  
+> **Relative pronouns/adverbs:** *who, whom, which, that, whose, where, when, why* (often uses *that*)  
 
 | Example | Explanation |
 |---------|-------------|
@@ -30,7 +30,7 @@ These are **essential**. If you remove them, the meaning of the sentence changes
 
 These add **extra, interesting, but non‑essential** information. The sentence would still make sense and clearly identify the noun even if you removed the clause.
 
-> **Punctuation:** Commas (or dashes/parentheses)
+> **Punctuation:** Commas (or dashes/parentheses)  
 > **Relative pronouns:** Typically *who* (people) or *which* (things); **never *that*** (except in informal speech)
 
 | Example | Explanation |
@@ -41,7 +41,7 @@ These add **extra, interesting, but non‑essential** information. The sentence 
 | *Paris, **which is the capital of France**, attracts millions of tourists.* | Paris is already known; the capital fact is extra. |
 | *The Eiffel Tower, **which was built in 1889**, is a famous landmark.* | The Eiffel Tower is already identified; the date is extra. |
 
-> **Important:** *That* is generally **not** used in non‑defining clauses. Use *who* for people and *which* for things.
+> **Important:** *That* is generally **not** used in non‑defining clauses. Use *who* for people and *which* for things.  
 
 ---
 
@@ -57,8 +57,8 @@ These add **extra, interesting, but non‑essential** information. The sentence 
 | ***which*** | Things or animals | *The cafe **which** I love has closed.* / *The dog **which** barked was noisy.* |
 | ***that*** | People or things (defining clauses only) | *The car **that** hit the fence was red.* / *The person **that** helped me was kind.* |
 
-> **Tip for *whom*:** Replace with *him* or *her*. If it fits, *whom* is correct.
-> - *The artist **whom** I admire* -> *I admire **him*** ✓
+> **Tip for *whom*:** Replace with *him* or *her*. If it fits, *whom* is correct.  
+> - *The artist **whom** I admire* -> *I admire **him*** ✓  
 
 #### 2. Relative Adverbs (for Place, Time, and Reason)
 
@@ -70,7 +70,7 @@ These add **extra, interesting, but non‑essential** information. The sentence 
 
 > **Note:** Relative adverbs are **never pronouns**. They are always adverbs introducing a full clause (subject + verb).
 
-**Distinction Between Relative Pronouns and Relative Adverbs:**
+**Distinction Between Relative Pronouns and Relative Adverbs:**  
 
 | | Relative Pronoun | Relative Adverb |
 |--|-----------------|-----------------|
@@ -83,7 +83,7 @@ These add **extra, interesting, but non‑essential** information. The sentence 
 
 ### C. Reduced Relative Clauses
 
-Reduced relative clauses are **shortened forms** using *-ing*, *-ed*, or infinitive phrases. They are used when the relative pronoun is the **subject** of the clause.
+Reduced relative clauses are **shortened forms** using *-ing*, *-ed*, or infinitive phrases. They are used when the relative pronoun is the **subject** of the clause.  
 
 #### 1. Active Meaning -> *-ing* (Present Participle)
 
@@ -97,7 +97,7 @@ When the noun is **doing** the action described in the relative clause.
 
 #### 2. Passive Meaning -> *-ed* (Past Participle)
 
-When the noun is **receiving** the action described in the relative clause.
+When the noun is **receiving** the action described in the relative clause.  
 
 | Full Form | Reduced Form |
 |-----------|--------------|
@@ -159,8 +159,8 @@ In defining relative clauses, the relative pronoun can be omitted when it is the
 | **Relative adverb (cannot omit)** | *The house **where** I live is old.* | ✗ (Cannot omit *where* in formal English) |
 
 > **Note:** Relative adverbs (*where, when, why*) cannot be omitted in formal English. In informal English, they can be replaced by *that* or omitted entirely with different word order.
-> - Formal: *The day **when** we met was rainy.*
-> - Informal: *The day **that** we met was rainy.* / *The day we met was rainy.*
+> - Formal: *The day **when** we met was rainy.*  
+> - Informal: *The day **that** we met was rainy.* / *The day we met was rainy.*  
 
 #### 3. *Whose* for Things
 
@@ -182,7 +182,7 @@ In non-defining relative clauses, *which* can refer to the **entire previous cla
 | *She passed the exam, **which** made her parents happy.* | *Which* refers to the fact that she passed |
 | *They cancelled the meeting, **which** was a mistake.* | *Which* refers to the cancellation |
 
-> **Note:** *That* cannot be used this way. Only *which* can refer to a whole clause.
+> **Note:** *That* cannot be used this way. Only *which* can refer to a whole clause.  
 
 ---
 
