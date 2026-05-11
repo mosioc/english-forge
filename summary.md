@@ -1461,6 +1461,16 @@ Some adjectives that are used to describe feelings about something or someone el
 | *She worked **carefully** (M) **in the lab** (P) **yesterday** (T).* |
 | *They arrived **safely** (M) **in Paris** (P) **last night** (T).* |
 
+> **SMEPT Rule:** Sentence -> Manner -> Evaluation -> Place -> Time
+
+| Position | Category | Answers | Examples |
+|----------|----------|---------|----------|
+| **1** | **Sentence / Viewpoint** | From what perspective? | *fortunately, surprisingly, honestly, officially* |
+| **2** | **Manner** | How? | *slowly, carefully, well, by hand, with care* |
+| **3** | **Evaluation / Degree** | To what degree? | *completely, almost, nearly, hardly* |
+| **4** | **Place** | Where? | *at work, in the garden, outside, there* |
+| **5** | **Time** | When? | *today, later, at noon, in July* |
+
 ##### Multiple Adverbs of Same Type
 
 | Type | Order |
