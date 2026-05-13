@@ -98,7 +98,7 @@ Adversative conjunctions connect two clauses or phrases that express **contrasti
 
 #### C.1. *Although, Despite, In Spite Of* (Full Contrast)
 
-*Although*, *despite*, and *in spite of* all express contrast — they mean "even though something is true, something else happens." However, they use **different grammatical structures**, and this is one of the most common sources of error at intermediate and advanced levels.
+*Although*, *despite*, and *in spite of* all express contrast - they mean "even though something is true, something else happens." However, they use **different grammatical structures**, and this is one of the most common sources of error at intermediate and advanced levels.
 
 > **Related Sections:** See *[Section 20. Conjunctions](#b-subordinating-conjunctions)* B.4 for *although/though/even though* as subordinating conjunctions, and *[Section 7. If-Clauses, Wish-Clauses, and Conditionals](./if-clauses-wish-clauses-conditionals.md#1-even-if)* (G.1) for *even if*.
 
@@ -131,7 +131,7 @@ The key to using these correctly is knowing **what follows them**:
 
 | Correct | Incorrect | Why |
 |---------|-----------|-----|
-| ***Although** it was raining, we went out.* | — | *Although* + clause ✓ |
+| ***Although** it was raining, we went out.* | - | *Although* + clause ✓ |
 | ***Despite** the rain, we went out.* | ***Despite** it was raining, we went out.* | *Despite* + clause ✗ (needs a noun/gerund/fact that) |
 | ***In spite of** the rain, we went out.* | ***In spite of** it was raining, we went out.* | *In spite of* + clause ✗ (needs a noun/gerund/fact that) |
 
@@ -139,13 +139,13 @@ The key to using these correctly is knowing **what follows them**:
 
 ##### C. *Although / Though / Even Though*
 
-These are **subordinating conjunctions** — they introduce a dependent clause with a subject and verb.
+These are **subordinating conjunctions** - they introduce a dependent clause with a subject and verb.
 
 | Conjunction | Strength | Example |
 |-------------|----------|---------|
-| ***although*** | Neutral — standard formal/written | ***Although** he is rich, he is unhappy.* |
+| ***although*** | Neutral - standard formal/written | ***Although** he is rich, he is unhappy.* |
 | ***though*** | Slightly more informal; can go at the end of a sentence | *He is rich. He is unhappy, **though**.* |
-| ***even though*** | Stronger — emphasizes the contrast or surprise | ***Even though** he is a millionaire, he lives very simply.* |
+| ***even though*** | Stronger - emphasizes the contrast or surprise | ***Even though** he is a millionaire, he lives very simply.* |
 
 **Position:**
 
@@ -175,7 +175,7 @@ These are **subordinating conjunctions** — they introduce a dependent clause w
 
 ##### D. *Despite* and *In Spite Of*
 
-These are **prepositions** — they must be followed by a noun, pronoun, gerund (*-ing*), or *the fact that + clause*. They **cannot** be followed directly by a clause with a subject and verb.
+These are **prepositions** - they must be followed by a noun, pronoun, gerund (*-ing*), or *the fact that + clause*. They **cannot** be followed directly by a clause with a subject and verb.
 
 | Structure | Example |
 |-----------|---------|
