@@ -319,8 +319,10 @@ These are multi-word conjunctions or special connectors that function as single 
 
 ### G. Common Errors
 
-| ***Despite it was raining**, we went out.* | ***Although it was raining**, we went out.* or ***Despite the rain**, we went out.* | *Despite* + noun/gerund, not + clause |
-| ***Despite of the rain**, we went out.* | ***Despite the rain**, we went out.* | *Despite* has no *of* |
-| ***In spite the rain**, we went out.* | ***In spite of the rain**, we went out.* | *In spite of* needs *of* |
-| ***Although the rain**, we went out.* | ***Despite the rain**, we went out.* | *Although* + clause, not + noun |
-| ***Although being tired**, she worked.* | ***Although she was tired**, she worked.* or ***Despite being tired**, she worked.* | *Although* + subject + verb, not + gerund |
+| Incorrect | Correct | Rule |
+|---|---|---|
+| *Despite it was raining, we went out.* | *Although it was raining, we went out.* or *Despite the rain, we went out.* | *Despite* + noun/gerund, not + clause |
+| *Despite of the rain, we went out.* | *Despite the rain, we went out.* | *Despite* has no *of* |
+| *In spite the rain, we went out.* | *In spite of the rain, we went out.* | *In spite of* needs *of* |
+| *Although the rain, we went out.* | *Despite the rain, we went out.* | *Although* + clause, not + noun |
+| *Although being tired, she worked.* | *Although she was tired, she worked.* or *Despite being tired, she worked.* | *Although* + subject + verb, not + gerund |
