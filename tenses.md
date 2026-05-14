@@ -19,7 +19,7 @@ English tenses are built from four core aspects (Simple, Continuous, Perfect, Pe
 
 ### B. Conjugation of Key Auxiliary Verbs
 
-#### To Be (Linking Verbs) 
+#### To Be (Linking Verbs - Auxiliary Verbs) 
 
 | Tense | Forms |
 |-------|-------|
