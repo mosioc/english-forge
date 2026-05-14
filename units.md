@@ -356,4 +356,14 @@
 102. Expressing and reporting opinions: it-clauses
 103. Linking ideas in academic writing and speech
 104. Referring to other work and sections in academic writing and speaking
-105. Academic discussion: lead-in phrases
+105. Academic discussion: lead-in phrases 
+
+**Other**
+
+212. Glossary
+217. Grammar reminder
+
+**Appendices**
+
+295. Appendix 1: Irregular verbs 
+297. Appendix 2: Passive verb forms 
