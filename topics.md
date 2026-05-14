@@ -175,6 +175,19 @@
 - [F. Regular vs. Irregular Verbs](./types-of-verbs.md#f-regular-vs-irregular-verbs)
 - [G. Summary Table: Verb Types at a Glance](./types-of-verbs.md#g-summary-table-verb-types-at-a-glance)
 
+### [1.8 Types of Words (Parts of Speech)](./types-of-words-parts-of-speech.md)
+- [1. Nouns](./types-of-words-parts-of-speech.md#1-nouns)
+- [2. Pronouns](./types-of-words-parts-of-speech.md#2-pronouns)
+- [3. Verbs](./types-of-words-parts-of-speech.md#3-verbs)
+- [4. Adjectives](./types-of-words-parts-of-speech.md#4-adjectives)
+- [5. Adverbs](./types-of-words-parts-of-speech.md#5-adverbs)
+- [6. Prepositions](./types-of-words-parts-of-speech.md#6-prepositions)
+- [7. Conjunctions](./types-of-words-parts-of-speech.md#7-conjunctions)
+- [8. Articles / Determiners](./types-of-words-parts-of-speech.md#8-articles--determiners)
+- [9. Interjections](./types-of-words-parts-of-speech.md#9-interjections)
+- [A. Key Distinctions and Common Errors](./types-of-words-parts-of-speech.md#a-key-distinctions-and-common-errors)
+- [B. Quick Reference: Questions They Answer](./types-of-words-parts-of-speech.md#b-quick-reference-questions-they-answer)
+
 ---
 
 ## Verbs and Tenses
