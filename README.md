@@ -11,6 +11,7 @@ A journey toward fluency.
     - [1.4 Capitalization](./capitalization.md)
     - [1.5 Word Order (SVO)](./word-order-svo.md)
     - [1.6 Sentence Types by Function](./sentence-types-function.md)
+    - [1.7 Types of Verbs](./types-of-verbs.md)
 - [2. Regular and Irregular Verbs](./regular-irregular-verbs.md)
 - [3. Short Forms (Contractions)](./short-forms-contractions.md)
 - [4. Spelling Rules](./spelling-rules.md)
