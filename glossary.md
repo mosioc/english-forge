@@ -1,5 +1,7 @@
 ## Glossary
 
+From the Glossary of [Advanced Grammar in Use](./units.md#advanced-grammar-in-use).
+
 - [action verb](#action-verb)
 - [active](#active)
 - [adjective](#adjective)
