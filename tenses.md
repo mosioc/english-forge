@@ -19,22 +19,30 @@ English tenses are built from four core aspects (Simple, Continuous, Perfect, Pe
 
 ### B. Conjugation of Key Auxiliary Verbs
 
-#### To Be
+#### To Be (Linking Verbs) 
 
 | Tense | Forms |
 |-------|-------|
-| Present | am / is / are |
-| Past | was / were |
-| Future | will be |
-| Past Participle | been |
+| Present | is (he, she, it) / am (I) / are (you, we, they) |
+| Past | was (I, he, she, it) / were (you, we, they) |
+| Future | will be (all subjects) |
+| Past Participle | been (all subjects) |
 
-#### To Have
+#### To Have (Auxiliary Verbs)
 
 | Tense | Forms |
 |-------|-------|
 | Present | has (he, she, it) / have (I, you, we, they) |
 | Past | had (all subjects) |
 | Future | will have (all subjects) |
+
+#### To Do (Auxiliary Verbs) 
+
+| Tense | Forms |
+|-------|-------|
+| Present | does (he, she, it) / do (I, you, we, they) |
+| Past | did (all subjects) |
+| Future | will do (all subjects) |
 
 ---
 
