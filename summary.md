@@ -1,5 +1,8 @@
 ## Summary; Reminder and Quick Reference Cheatsheet
 
+- [Types of Words (Parts of Speech)](#types-of-words-parts-of-speech)
+  - [Key Distinctions](#key-distinctions)
+  - [What Each Part of Speech Answers](#what-each-part-of-speech-answers)
 - [Word Building: Prefixes and Suffixes](#word-building-prefixes-and-suffixes)
 - [Key Spelling Rules](#key-spelling-rules)
 - [Capitalization](#capitalization)
@@ -7,13 +10,6 @@
   - [Numbers](#numbers)
   - [Dates](#dates)
   - [Time](#time)
-- [Tenses](#tenses)
-  - [Active Voice](#active-voice)
-  - [Passive Voice Overview](#passive-voice-overview)
-  - [More Passive Patterns](#more-passive-patterns)
-  - [Key Tense Rules](#key-tense-rules)
-  - [State Verbs](#state-verbs)
-  - [Advaced Tenses](#advanced-tenses)
 - [Word Order (SVO)](#word-order-svo)
   - [Basic Patterns](#basic-patterns)
   - [Two Objects: Both Patterns](#two-objects-both-patterns)
@@ -23,6 +19,20 @@
   - [Exceptions: Time First](#exceptions-time-first)
   - [Adverb Placement Summary](#adverb-placement-summary)
 - [Sentence Types by Function](#sentence-types-by-function)
+- [Types of Verbs](#types-of-verbs)
+  - [Main Verbs vs. Auxiliary Verbs](#main-verbs-vs-auxiliary-verbs)
+  - [The Three Primary Auxiliary Verbs](#the-three-primary-auxiliary-verbs)
+  - [Action, Linking, and Stative Verbs](#action-linking-and-stative-verbs)
+  - [Stative Verbs That Can Be Action Verbs (Meaning Change)](#stative-verbs-that-can-be-action-verbs-meaning-change)
+  - [Transitive vs. Intransitive Verbs](#transitive-vs-intransitive-verbs)
+  - [Regular vs. Irregular Verbs](#regular-vs-irregular-verbs)
+- [Tenses](#tenses)
+  - [Active Voice](#active-voice)
+  - [Passive Voice Overview](#passive-voice-overview)
+  - [More Passive Patterns](#more-passive-patterns)
+  - [Key Tense Rules](#key-tense-rules)
+  - [State Verbs](#state-verbs)
+  - [Advaced Tenses](#advanced-tenses)
 - [Advanced Future Forms](#advanced-future-forms)
 - [Modals](#modals)
   - [Past Modals (Speculation & Regret)](#past-modals-speculation--regret)
@@ -146,6 +156,40 @@
 
 ---
 
+### Types of Words (Parts of Speech)
+
+Every English word belongs to one of eight (or nine) categories based on its function in a sentence.
+
+| Part of Speech | Function | Examples |
+|----------------|----------|----------|
+| **Noun** | Names a person, place, thing, or idea. | *dog, city, happiness, Maria* |
+| **Pronoun** | Replaces a noun. | *I, you, he, she, it, we, they* |
+| **Verb** | Expresses action or state of being. | *run, think, is, become* |
+| **Adjective** | Describes a noun or pronoun. | *big, happy, red, beautiful* |
+| **Adverb** | Modifies a verb, adjective, or another adverb. | *quickly, very, often, well* |
+| **Preposition** | Shows relationship between a noun/pronoun and another word. | *in, on, at, under, before, with* |
+| **Conjunction** | Connects words, phrases, or clauses. | *and, but, because, although* |
+| **Determiner** | Specifies a noun (includes articles). | *a, an, the, this, my, some* |
+| **Interjection** | Expresses emotion or reaction. | *Oh!, Wow!, Ouch!, Hey!* |
+
+#### Key Distinctions
+
+| Often Confused | Difference | Examples |
+|----------------|------------|----------|
+| **Adjective vs. Adverb** | Adjective describes a noun; adverb describes a verb/adjective/adverb. | *She is **careful**.* (adj) / *She drives **carefully**.* (adv) |
+| **Preposition vs. Conjunction** | Preposition + noun; conjunction + clause. | *I left **after** the game.* (prep) / *I left **after** the game ended.* (conj) |
+| **Determiner vs. Pronoun** | Determiner comes before a noun; pronoun replaces a noun. | ***This** book is mine.* (det) / ***This** is mine.* (pron) |
+
+#### What Each Part of Speech Answers
+
+| Part of Speech | Question It Answers |
+|----------------|---------------------|
+| **Noun** | Who? What? |
+| **Verb** | What action? What state? |
+| **Adjective** | What kind? Which one? How many? |
+| **Adverb** | How? When? Where? Why? To what degree? |
+| **Preposition** | Where? When? How? (shows relationship) |
+
 ### Word Building: Prefixes and Suffixes
 
 | Type | Common Prefixes/Suffixes |
@@ -202,87 +246,6 @@
 - *at* clock times (*at 5 PM*), *on* days (*on Monday*), *in* months (*in July*)
 
 ---
-
-### Tenses
-
-#### Active Voice
-
-| Aspect | Structure | Example |
-|--------|-----------|---------|
-| **Simple** | *Present:* V1 / V1+s \| *Past:* V2 \| *Future:* will + V1 | *She works. She worked. She will work.* |
-| **Continuous** | *be* + V-ing | *She is/was/will be working.* |
-| **Perfect** | *have/has/had* + V3 (past participle) | *She has/had/will have worked.* |
-| **Perfect Continuous** | *have/has/had* + been + V-ing | *She has/had/will have been working.* |
-
-#### Passive Voice Overview
-
-| Aspect | Structure | Example |
-|--------|-----------|---------|
-| **Simple** | *be* + V3 | *It is/was/will be done.* |
-| **Continuous** | *be* + being + V3 | *It is/was being done.* |
-| **Perfect** | *have/has/had* + been + V3 | *It has/had/will have been done.* |
-| **Modal** | modal + be + V3 | *It can/must/should be done.* |
-| **Modal Perfect** | modal + have + been + V3 | *It should have been done.* |
-
-> **Note:** Perfect Continuous passive (*has been being done*) exists but is almost never used. Rephrase instead.
-
-#### More Passive Patterns
-
-| Pattern | Structure | Example |
-|---------|-----------|---------|
-| **Causative (formal)** | *have + object + V3* | *I had my hair cut.* |
-| **Causative (informal)** | *get + object + V3* | *I need to get my car fixed.* |
-| **Imperative Passive (formal)** | *Let + object + be + V3* | *Let the door be locked.* |
-| **With Prepositional Verbs** | *be + V3 + preposition* | *The child was looked after. / He was laughed at.* |
-| **Passive Gerund** | *being + V3* | *She dislikes being told what to do.* |
-| **Passive Infinitive** | *to be + V3* | *She expects to be given a promotion.* |
-
-#### Key Tense Rules
-
-| Rule | Example |
-|------|---------|
-| **State verbs** (no continuous) | *know, believe, understand, belong, own, love, hate, want, need, seem* |
-| **State -> Action (meaning change)** | *think* (opinion) vs. *be thinking* (process); *have* (possession) vs. *be having* (experience) |
-| **Performatives** | *I promise, I apologize, I declare, I suggest, I warn* (the words are the action) |
-| **Used to** (past habits & states) | *I used to smoke. She used to live in Paris.* |
-| **Would** (past habits only, NOT states) | *We would visit every summer.* (NOT *She would have long hair.*) |
-| **For** (duration) vs. **Since** (starting point) | *for two hours / since 2020* |
-| **When** (past simple) vs. **How long** (present perfect) | *When did you arrive? / How long have you been here?* |
-| **Have / Have got** (possession) | *I have a car. = I've got a car.* (BrE) |
-| **Future from the past** | *was going to / was about to / was to* |
-
-#### State Verbs 
-
-| Category | Verbs |
-|----------|-------|
-| **Emotions, attitudes, and preferences** | *agree, appreciate, attract, desire, doubt, expect, hate, hope, like, love, prefer, regret* |
-| **Mental states** | *anticipate, assume, believe, consider, expect, feel, find, imagine, know, realise, think, understand* |
-| **Senses and perception** | *ache, hear, notice, see, smell, sound, taste* |
-| **'Being', 'having', etc.** | *belong to, consist of, constitute, contain, cost, differ from, have, look, mean, measure, own, possess, resemble, seem, weigh* |
-
-#### Advanced Tenses 
-
-| Tense | Use | Examples |
-|-------|-----|----------|
-| **Present Continuous** | Particular events/activities that have begun but not ended at the time of speaking; the activity is in progress at the present time, but not necessarily at the moment of speaking | *'Who are you phoning?' 'I'm trying to get through to Misaki.'* |
-| | To suggest that an event or activity is or may be temporary | *She's doing voluntary work with young children until she starts her university course.* |
-| **Present Simple** | States or situations that are always true or continue indefinitely | *Trees grow more quickly in summer than in winter.* |
-| | States or situations (thoughts, feelings) that exist at the present moment | *This cake tastes wonderful. Where did you buy it?* |
-| | Habits or regular events or actions | *Do you go to Turkey every year for your holidays?* |
-| **Past Simple** | Completed action or event in the past, or situations that existed over a period of time in the past, but not now | *Aisha left a few minutes ago. / Mikhail continued the course even though it was proving very difficult.* |
-| | Repeated past actions | *I saw my grandparents every week as a child.* |
-| **Present Perfect** | Past action, event or state with a connection between past and present; often affecting or relevant to the present situation | *We can't have a meeting, because so few people have shown any interest.* |
-| | Action happened recently with a consequence for the present | *My ceiling has fallen in and the kitchen is flooded. Come quickly!* |
-| | Continues until the present time | *We have belonged to the tennis club since we moved here.* |
-| | Repeated event in the past may (or may not) happen again | *Lee has represented his country on many occasions...* |
-| **Past Continuous** | Situation that started before a particular point in the past and was still in progress at that point | *When he realised I was looking at him, he turned away.* |
-| **Past Perfect** | Past event that took place before another past event | *When I went into the bathroom, I found that the bath had overflowed.* |
-| | Before or up to a particular time in the past | *By 10 o'clock most people had gone home.* |
-| **Present Perfect Continuous** | Activity in progress in the past for a period until now, still in progress or recently finished | *Since the operation two months ago, Samuel has been learning to walk again. / Your eyes are red -- have you been crying?* |
-| **Past Perfect Continuous** | Situation or activity in progress over a period up to a particular past point in time | *When I saw the vase on the website, I knew it was exactly what I had been looking for.* |
-
----
-
 ### Word Order (SVO)
 
 #### Basic Patterns
@@ -366,6 +329,163 @@
 | **Interrogative** | Ask for information | ? | *Where does she live?* |
 | **Imperative** | Give command/request | . or ! | *Sit down. / Don't touch that.* |
 | **Exclamative** | Express emotion | ! | *What a beautiful day!* |
+
+---
+
+### Types of Verbs
+
+| Classification | Types |
+|----------------|-------|
+| **By Structure** | Main Verbs, Auxiliary Verbs (Primary: *be, have, do*), Modal Auxiliaries |
+| **By Function** | Action (Dynamic), Linking, Stative |
+| **By Object Requirement** | Transitive, Intransitive, Ditransitive, Ambitransitive |
+| **By Formation** | Regular, Irregular |
+
+#### Main Verbs vs. Auxiliary Verbs
+
+| Type | Function | Examples |
+|------|----------|----------|
+| **Main Verb** | Carries the core meaning of the action or state. Every complete sentence must have a main verb. | *She **plays** the piano.* / *They **ate** dinner.* / *I **am** happy.* |
+| **Auxiliary Verb** (Helping Verb) | Helps the main verb express tense, mood, voice, or negation. Cannot stand alone as the main meaning-carrier (except *to be* and *to have*, which can also be main verbs). | *She **has** played.* (has = auxiliary, played = main) / *They **are** playing.* (are = auxiliary, playing = main) |
+
+#### The Three Primary Auxiliary Verbs
+
+They can function as main verbs OR as auxiliaries.
+
+| Verb | As Main Verb | As Auxiliary Verb |
+|------|-------------|-------------------|
+| **To Be** (*am, is, are, was, were, be, been, being*) | **Linking verb:** Connects subject to a description or state. *She **is** a teacher. / I **was** tired.* | Forms continuous tenses and passive voice. *She **is** playing.* (continuous) / *The cake **was** eaten.* (passive) |
+| **To Have** (*have, has, had*) | Shows possession or experience. *She **has** a car. / I **had** breakfast.* | Forms perfect tenses. *She **has** played. / They **had** eaten.* |
+| **To Do** (*do, does, did*) | Expresses performing an action or task. *She **did** her homework. / They **do** yoga.* | Forms questions, negatives, and emphatic statements in simple tenses. ***Does** she play?* / *She **didn't** play.* / *She **did** play!* (emphatic) |
+
+#### Action, Linking, and Stative Verbs
+
+| Verb Type | Function | Continuous Tense? | Examples |
+|-----------|----------|-------------------|----------|
+| **Action (Dynamic)** | Express physical or mental actions. | Yes | *run, eat, build, write, think, consider* |
+| **Linking** | Connect subject to a noun, adjective, or prepositional phrase that describes or identifies it. | No | *be, seem, become, look, smell, taste, feel, sound, appear, remain, stay, prove, turn, grow* |
+| **Stative (Non-Continuous)** | Describe states, conditions, emotions, possession, or mental conditions rather than actions. | Rarely / No | *know, believe, understand, love, hate, own, belong, want, need, prefer, remember, forget* |
+
+> **Linking Verb Test:** Substitute the verb with *am/is/are/was/were*. If the sentence still makes logical sense, it's a linking verb.
+> - *She looks happy.* -> *She is happy.* (Makes sense -> **linking**)
+> - *She looks at the painting.* -> *She is at the painting.* (Doesn't make sense -> **action**)
+
+> **Key Rule for Linking Verbs:** They are followed by adjectives, not adverbs.
+> - Correct: *I feel **bad**.* (Describes my emotional state)
+> - Incorrect: *I feel **badly**.* (Describes my sense of touch as impaired)
+
+> **Linking verbs are a subset of stative verbs.** Every linking verb is stative, but not every stative verb is a linking verb. Non-linking stative verbs take a direct object (e.g., *I **know** her* / *They **own** a house*).
+
+#### Stative Verbs That Can Be Action Verbs (Meaning Change)
+
+| Verb | Stative Meaning | Action Meaning |
+|------|-----------------|----------------|
+| *have* | possession (*I have a car.*) | experience/eat (*I'm having lunch.*) |
+| *think* | opinion (*I think it's good.*) | process of considering (*I'm thinking about it.*) |
+| *see* | perception (*I see the bird.*) | meeting (*I'm seeing the doctor.*) |
+| *taste* | state of flavor (*It tastes good.*) | action of testing (*He's tasting the soup.*) |
+| *feel* | state/opinion (*I feel happy.*) | action of touching (*I'm feeling the fabric.*) |
+| *smell* | state of scent (*It smells good.*) | action of sniffing (*She's smelling the flower.*) |
+| *look* | appearance (*You look tired.*) | action of directing eyes (*She's looking at the painting.*) |
+| *weigh* | state of weight (*It weighs 2 kg.*) | action of measuring weight (*I'm weighing the flour.*) |
+
+#### Transitive vs. Intransitive Verbs
+
+| Type | Definition | Example |
+|------|------------|---------|
+| **Transitive** | Requires a direct object to complete its meaning. The action transfers to something or someone. | *She **ate** the cake.* / *He **needs** help.* |
+| **Intransitive** | Does not take a direct object. The action is complete on its own. | *She **arrived** late.* / *The baby **cried**.* |
+| **Ditransitive** | Takes both a direct and an indirect object. | *She **gave** him a gift.* (him = indirect, gift = direct) |
+| **Ambitransitive** | Can be used both transitively and intransitively. | *She **ate**.* (Intransitive) / *She **ate** pizza.* (Transitive) |
+
+> **Intransitive verbs cannot be made passive.** *The child vanished.* (NOT *The child was vanished.*)
+
+#### Regular vs. Irregular Verbs
+
+| Type | Formation | Examples |
+|------|-----------|----------|
+| **Regular Verbs** | Form past simple (V2) and past participle (V3) by adding *-ed* (or *-d*). | *play -> played -> played* / *walk -> walked -> walked* / *love -> loved -> loved* |
+| **Irregular Verbs** | Form V2 and V3 in unpredictable ways; must be memorized. | *eat -> ate -> eaten* / *go -> went -> gone* / *sing -> sang -> sung* / *cut -> cut -> cut* |
+
+---
+
+### Tenses
+
+#### Active Voice
+
+| Aspect | Structure | Example |
+|--------|-----------|---------|
+| **Simple** | *Present:* V1 / V1+s \| *Past:* V2 \| *Future:* will + V1 | *She works. She worked. She will work.* |
+| **Continuous** | *be* + V-ing | *She is/was/will be working.* |
+| **Perfect** | *have/has/had* + V3 (past participle) | *She has/had/will have worked.* |
+| **Perfect Continuous** | *have/has/had* + been + V-ing | *She has/had/will have been working.* |
+
+#### Passive Voice Overview
+
+| Aspect | Structure | Example |
+|--------|-----------|---------|
+| **Simple** | *be* + V3 | *It is/was/will be done.* |
+| **Continuous** | *be* + being + V3 | *It is/was being done.* |
+| **Perfect** | *have/has/had* + been + V3 | *It has/had/will have been done.* |
+| **Modal** | modal + be + V3 | *It can/must/should be done.* |
+| **Modal Perfect** | modal + have + been + V3 | *It should have been done.* |
+
+> **Note:** Perfect Continuous passive (*has been being done*) exists but is almost never used. Rephrase instead.
+
+#### More Passive Patterns
+
+| Pattern | Structure | Example |
+|---------|-----------|---------|
+| **Causative (formal)** | *have + object + V3* | *I had my hair cut.* |
+| **Causative (informal)** | *get + object + V3* | *I need to get my car fixed.* |
+| **Imperative Passive (formal)** | *Let + object + be + V3* | *Let the door be locked.* |
+| **With Prepositional Verbs** | *be + V3 + preposition* | *The child was looked after. / He was laughed at.* |
+| **Passive Gerund** | *being + V3* | *She dislikes being told what to do.* |
+| **Passive Infinitive** | *to be + V3* | *She expects to be given a promotion.* |
+
+#### Key Tense Rules
+
+| Rule | Example |
+|------|---------|
+| **State verbs** (no continuous) | *know, believe, understand, belong, own, love, hate, want, need, seem* |
+| **State -> Action (meaning change)** | *think* (opinion) vs. *be thinking* (process); *have* (possession) vs. *be having* (experience) |
+| **Performatives** | *I promise, I apologize, I declare, I suggest, I warn* (the words are the action) |
+| **Used to** (past habits & states) | *I used to smoke. She used to live in Paris.* |
+| **Would** (past habits only, NOT states) | *We would visit every summer.* (NOT *She would have long hair.*) |
+| **For** (duration) vs. **Since** (starting point) | *for two hours / since 2020* |
+| **When** (past simple) vs. **How long** (present perfect) | *When did you arrive? / How long have you been here?* |
+| **Have / Have got** (possession) | *I have a car. = I've got a car.* (BrE) |
+| **Future from the past** | *was going to / was about to / was to* |
+
+#### State Verbs 
+
+| Category | Verbs |
+|----------|-------|
+| **Emotions, attitudes, and preferences** | *agree, appreciate, attract, desire, doubt, expect, hate, hope, like, love, prefer, regret* |
+| **Mental states** | *anticipate, assume, believe, consider, expect, feel, find, imagine, know, realise, think, understand* |
+| **Senses and perception** | *ache, hear, notice, see, smell, sound, taste* |
+| **'Being', 'having', etc.** | *belong to, consist of, constitute, contain, cost, differ from, have, look, mean, measure, own, possess, resemble, seem, weigh* |
+
+#### Advanced Tenses 
+
+| Tense | Use | Examples |
+|-------|-----|----------|
+| **Present Continuous** | Particular events/activities that have begun but not ended at the time of speaking; the activity is in progress at the present time, but not necessarily at the moment of speaking | *'Who are you phoning?' 'I'm trying to get through to Misaki.'* |
+| | To suggest that an event or activity is or may be temporary | *She's doing voluntary work with young children until she starts her university course.* |
+| **Present Simple** | States or situations that are always true or continue indefinitely | *Trees grow more quickly in summer than in winter.* |
+| | States or situations (thoughts, feelings) that exist at the present moment | *This cake tastes wonderful. Where did you buy it?* |
+| | Habits or regular events or actions | *Do you go to Turkey every year for your holidays?* |
+| **Past Simple** | Completed action or event in the past, or situations that existed over a period of time in the past, but not now | *Aisha left a few minutes ago. / Mikhail continued the course even though it was proving very difficult.* |
+| | Repeated past actions | *I saw my grandparents every week as a child.* |
+| **Present Perfect** | Past action, event or state with a connection between past and present; often affecting or relevant to the present situation | *We can't have a meeting, because so few people have shown any interest.* |
+| | Action happened recently with a consequence for the present | *My ceiling has fallen in and the kitchen is flooded. Come quickly!* |
+| | Continues until the present time | *We have belonged to the tennis club since we moved here.* |
+| | Repeated event in the past may (or may not) happen again | *Lee has represented his country on many occasions...* |
+| **Past Continuous** | Situation that started before a particular point in the past and was still in progress at that point | *When he realised I was looking at him, he turned away.* |
+| **Past Perfect** | Past event that took place before another past event | *When I went into the bathroom, I found that the bath had overflowed.* |
+| | Before or up to a particular time in the past | *By 10 o'clock most people had gone home.* |
+| **Present Perfect Continuous** | Activity in progress in the past for a period until now, still in progress or recently finished | *Since the operation two months ago, Samuel has been learning to walk again. / Your eyes are red -- have you been crying?* |
+| **Past Perfect Continuous** | Situation or activity in progress over a period up to a particular past point in time | *When I saw the vase on the website, I knew it was exactly what I had been looking for.* |
 
 ---
 
