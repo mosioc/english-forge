@@ -1,5 +1,7 @@
 # My Notes - mosioc
 
+- [types of words (parts of speech)](#types-of-words-parts-of-speech)
+- [types of verbs](#types-of-verbs)
 - [prefixes and suffixes](#prefixes-and-suffixes)
 - [spelling rules](#spelling-rules)
 - [capitalization](#capitalization)
@@ -45,6 +47,130 @@
 - [academic grammar](#academic-grammar)
 - [semantics](#semantics)
 - [common errors](#common-errors)
+
+## types of words (parts of speech)
+
+- nouns
+    - name a person, place, thing, or idea (*dog, city, happiness*)
+    - concrete: physical (*table, rain*)
+    - abstract: concept (*love, freedom*)
+    - countable: can count (*apple, chairs*)
+    - uncountable: cannot count (*water, information*)
+    - proper: specific (*Maria, London*)
+
+- pronouns
+    - replace a noun (*I, you, he, she, it*)
+    - subject: *I, you, he, she, it, we, they*
+    - object: *me, you, him, her, it, us, them*
+    - possessive: *mine, yours, his, hers, ours, theirs*
+    - reflexive: *myself, yourself, himself, herself*
+    - demonstrative: *this, that, these, those*
+    - indefinite: *someone, anything, no one, everything*
+    - relative: *who, whom, whose, which, that*
+
+- verbs
+    - express action or state (*run, think, is, become*)
+    - action: physical/mental (*run, eat, think*)
+    - linking: connects subject to description (*is, seem, become*)
+    - auxiliary: helps main verb (*be, have, do*)
+    - modal: possibility/obligation (*can, must, should*)
+
+- adjectives
+    - describe a noun/pronoun (*big, beautiful, red*)
+    - comparative: compare two (*bigger, more beautiful*)
+    - superlative: compare three+ (*biggest, most beautiful*)
+    - possessive: show ownership (*my, your, his, her*)
+
+- adverbs
+    - modify verbs/adjectives/adverbs (*quickly, very, often*)
+    - manner: *quickly, carefully* (how?)
+    - frequency: *always, often, never* (how often?)
+    - time: *now, yesterday, soon* (when?)
+    - place: *here, there, outside* (where?)
+    - degree: *very, too, enough* (to what extent?)
+
+- prepositions
+    - show relationship (*in, on, at, under, before, with*)
+    - time: *at, on, in, before, after, during, since, for*
+    - place: *at, on, in, under, over, behind, between*
+    - direction: *to, from, into, onto, towards, through*
+    - key rule: verbs after prepositions -> *-ing* (*interested in learning*)
+
+- conjunctions
+    - connect words/clauses (*and, but, because*)
+    - coordinating (FANBOYS): *for, and, nor, but, or, yet, so*
+    - subordinating: *because, although, if, when, while, unless*
+    - correlative: *both... and, either... or, neither... nor*
+
+- articles / determiners
+    - specify nouns (*a, an, the, this, my, some*)
+    - definite: *the*
+    - indefinite: *a, an*
+    - quantifiers: *some, any, many, much, few, little*
+
+- interjections
+    - express emotion (*Oh!, Wow!, Ouch!, Hey!*)
+    - surprise: *Oh!, Wow!* | pain: *Ouch!* | disgust: *Ew!*
+    - joy: *Yay!* | realization: *Aha!* | mistake: *Oops!*
+
+- [key distinctions]
+    - adjective vs. adverb
+        - adj describes noun; adv describes verb/adj/adv
+        - *She is careful.* (adj) / *She drives carefully.* (adv)
+    - preposition vs. conjunction
+        - prep + noun; conj + clause
+        - *after the game* (prep) / *after the game ended* (conj)
+    - determiner vs. pronoun
+        - det before noun; pron replaces noun
+        - *This book* (det) / *This is mine* (pron)
+
+## types of verbs 
+
+- main verbs vs. auxiliary verbs
+    - main verb: carries core meaning (*She **plays**.*)
+    - auxiliary verb: helps express tense/voice/negation (*She **has** played.*)
+
+- three primary auxiliaries
+    - to be (*am, is, are, was, were, be, been, being*)
+        - main: linking (*She **is** a teacher.*)
+        - auxiliary: continuous & passive (*She **is** playing. / It **was** eaten.*)
+    - to have (*have, has, had*)
+        - main: possession (*She **has** a car.*)
+        - auxiliary: perfect tenses (*She **has** finished.*)
+    - to do (*do, does, did*)
+        - main: perform action (*She **did** homework.*)
+        - auxiliary: questions, negatives, emphasis (***Does** she play? / She **did** call!*)
+
+- action, linking, stative
+    - action (dynamic): physical/mental actions; continuous OK (*run, eat, think*)
+    - linking: connect subject to description; no continuous (*be, seem, become, look, smell, taste*)
+    - stative: states/emotions/possession; rarely continuous (*know, love, own, want*)
+    - linking verb test: replace with *is/was*
+        - *She looks happy.* -> *She is happy.* (linking ✓)
+        - *She looks at it.* -> *She is at it.* (action ✗)
+    - linking rule: followed by adjectives, not adverbs
+        - *I feel bad.* (not *I feel badly.*)
+    - linking ⊂ stative (linking is a subset of stative)
+
+- stative -> action (meaning change)
+    - *have*: possession -> experience (*I have a car. / I'm having lunch.*)
+    - *think*: opinion -> process (*I think so. / I'm thinking.*)
+    - *see*: perception -> meeting (*I see it. / I'm seeing her.*)
+    - *taste*: flavor -> testing (*It tastes good. / He's tasting it.*)
+    - *feel*: state -> touching (*I feel happy. / I'm feeling it.*)
+    - *smell*: scent -> sniffing (*It smells good. / She's smelling it.*)
+    - *look*: appearance -> directing eyes (*You look tired. / She's looking.*)
+    - *weigh*: weight -> measuring (*It weighs 2 kg. / I'm weighing it.*)
+
+- transitive vs. intransitive
+    - transitive: needs direct object (*She ate **the cake**.*)
+    - intransitive: no object (*She arrived.*)
+    - ditransitive: two objects (*She gave **him** **a gift**.*)
+    - intransitive verbs cannot be passive (*The child vanished.* NOT *was vanished*)
+
+- regular vs. irregular
+    - regular: V2/V3 + *-ed* (*play -> played -> played*)
+    - irregular: unpredictable (*eat -> ate -> eaten / go -> went -> gone*)
 
 ## prefixes and suffixes 
 
