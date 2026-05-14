@@ -1,10 +1,10 @@
-### 1.7 Types of Verbs
+## 1.7 Types of Verbs
 
 Verbs in English fall into distinct categories based on their function in a sentence. Understanding these types is essential for mastering tense formation, sentence structure, and meaning.
 
 ---
 
-#### A. Main Verbs vs. Auxiliary (Helping) Verbs
+### A. Main Verbs vs. Auxiliary (Helping) Verbs
 
 | Type | Function | Examples |
 |------|----------|----------|
@@ -13,25 +13,25 @@ Verbs in English fall into distinct categories based on their function in a sent
 
 ---
 
-#### B. The Three Primary Auxiliary Verbs
+### B. The Three Primary Auxiliary Verbs
 
 These three verbs do the heavy lifting in English grammar. They can function as main verbs OR as auxiliaries.
 
-##### 1. To Be (am, is, are, was, were, be, been, being)
+#### 1. To Be (am, is, are, was, were, be, been, being)
 
 | Role | Function | Example |
 |------|----------|---------|
 | **Main Verb** (Linking Verb) | Links subject to a description or state. | *She **is** a teacher.* / *I **was** tired.* |
 | **Auxiliary Verb** | Forms continuous tenses and passive voice. | *She **is** playing.* (continuous) / *The cake **was** eaten.* (passive) |
 
-##### 2. To Have (have, has, had)
+#### 2. To Have (have, has, had)
 
 | Role | Function | Example |
 |------|----------|---------|
 | **Main Verb** | Shows possession or experience. | *She **has** a car.* / *I **had** breakfast.* |
 | **Auxiliary Verb** | Forms perfect tenses. | *She **has** played.* / *They **had** eaten.* |
 
-##### 3. To Do (do, does, did)
+#### 3. To Do (do, does, did)
 
 | Role | Function | Example |
 |------|----------|---------|
@@ -40,7 +40,7 @@ These three verbs do the heavy lifting in English grammar. They can function as 
 
 ---
 
-#### C. Modal Auxiliary Verbs
+### C. Modal Auxiliary Verbs
 
 Modal verbs express necessity, possibility, permission, ability, or obligation. They are always followed by a base verb (V1) and do not change form for person or number.
 
@@ -65,11 +65,11 @@ Modal verbs express necessity, possibility, permission, ability, or obligation. 
 
 ---
 
-#### D. Full Verbs by Function
+### D. Full Verbs by Function
 
 Beyond the auxiliary/main distinction, verbs can be classified by what they do in a sentence.
 
-##### 1. Action Verbs (Dynamic Verbs)
+#### 1. Action Verbs (Dynamic Verbs)
 
 Express physical or mental actions. They can be used in all tenses, including continuous.
 
@@ -82,7 +82,7 @@ Express physical or mental actions. They can be used in all tenses, including co
 - *She **is running** right now.* (Continuous is fine)
 - *I **thought** about it.*
 
-##### 2. Linking Verbs (Stative/Non-Action)
+#### 2. Linking Verbs (Stative/Non-Action)
 
 Do not express action. They connect the subject to a word or phrase that describes, identifies, or classifies it. The complement can be a noun, adjective, or prepositional phrase. **Linking verbs are NOT used in continuous tenses.**
 
@@ -100,7 +100,7 @@ Do not express action. They connect the subject to a word or phrase that describ
 > - Correct: *I feel **bad**.* (Describes my emotional state)
 > - Incorrect: *I feel **badly**.* (Describes my sense of touch as impaired)
 
-##### 3. Stative Verbs (State Verbs or Non-Continuous Verbs)
+#### 3. Stative Verbs (State Verbs or Non-Continuous Verbs)
 
 Verbs that describe states, conditions, or situations rather than actions. They are **rarely or never used in continuous tenses**. Linking verbs are a subset of stative verbs, but the category is broader.
 
@@ -119,7 +119,7 @@ Verbs that describe states, conditions, or situations rather than actions. They 
 
 ---
 
-#### E. Transitive vs. Intransitive Verbs
+### E. Transitive vs. Intransitive Verbs
 
 | Type | Definition | Example |
 |------|------------|---------|
@@ -130,7 +130,7 @@ Verbs that describe states, conditions, or situations rather than actions. They 
 
 ---
 
-#### F. Regular vs. Irregular Verbs
+### F. Regular vs. Irregular Verbs
 
 | Type | Definition | Examples |
 |------|------------|----------|
@@ -139,7 +139,7 @@ Verbs that describe states, conditions, or situations rather than actions. They 
 
 ---
 
-#### G. Summary Table: Verb Types at a Glance
+### G. Summary Table: Verb Types at a Glance
 
 | Classification | Types |
 |----------------|-------|
