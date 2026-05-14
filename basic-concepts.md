@@ -8,17 +8,17 @@
 - **Verb:** The action or state of being. (e.g., She *reads*.)
 - **Object:** Who or what receives the action. (e.g., She reads *a book*.)
 
-#### Types of Verbs
+#### Types of Verbs (*[See 1.7 Types of Verbs](./types-of-verbs.md)*)
 
 - **Action Verbs:** Express physical or mental action (run, think).
 - **Linking Verbs:** Connect subject to a noun or adjective describing it (is, seem, become).
 - **Auxiliary Verbs:** Helper verbs (be, do, have) used with main verbs for tenses, voice, etc.
-- **All Verbs (Tenses):** Represent time (Present, Past, Future) and aspect (Simple, Continuous, Perfect, Perfect Continuous). *See [main tense section](./tenses.md) for details.*
+- **All Verbs (Tenses):** Represent time (Present, Past, Future) and aspect (Simple, Continuous, Perfect, Perfect Continuous). *See [5. Tenses Overiew](./tenses.md) for details.*
 - **Infinitive:** Base form of a verb, often with 'to' (to run, to eat).
 
 #### Nouns
 
-Person, place, thing, or idea (dog, city, happiness).
+Person, place, thing, or idea (dog, city, happiness). *See [15. Articles and Nouns](./articles-nouns.md) for full details.*
 
 - **Abstract Nouns:** Concepts or qualities (love, freedom).
 - **Concrete Nouns:** Physical things (table, rain).
@@ -28,7 +28,7 @@ Person, place, thing, or idea (dog, city, happiness).
 
 #### Adjectives
 
-Describe a noun or pronoun (big, happy, red).
+Describe a noun or pronoun (big, happy, red). *See [19. Adjectives and Adverbs](./adjectives-adverbs.md)* and *[19.2 Comparative Structures](./comparative-structures.md)* for full details.
 
 - **Comparative:** Compares two things (bigger, happier).
 - **Superlative:** Compares three or more (biggest, happiest).
@@ -36,19 +36,19 @@ Describe a noun or pronoun (big, happy, red).
 
 #### Adverbs
 
-Modify verbs, adjectives, or other adverbs (quickly, very, often).
+Modify verbs, adjectives, or other adverbs (quickly, very, often). *See [19. Adjectives and Adverbs > Adverbs](./adjectives-adverbs.md#b-adverbs)*
 
 #### Pronouns
 
-Replace a noun (he, she, it, they, who, which).
+Replace a noun (he, she, it, they, who, which). *See [16. Pronouns and Determiners](./pronouns-determiners.md) for full details.*
 
 #### Question Words
 
-Used to ask questions (Who, What, Where, When, Why, How).
+Used to ask questions (Who, What, Where, When, Why, How). *See [13. Questions](./questions.md)*
 
 #### Prepositions
 
-Show relationship between a noun/pronoun and other words (location, time, direction: in, on, at, under, before).
+Show relationship between a noun/pronoun and other words (location, time, direction: in, on, at, under, before). *See [21. Prepositions](./prepositions.md) for full details.*
 
 - **Prepositions of Place:** Indicate location (in, on, at, under, behind).
 - **Specific Prepositions:**
@@ -59,14 +59,14 @@ Show relationship between a noun/pronoun and other words (location, time, direct
 
 #### Articles
 
-Specify nouns (a, an, the).
+Specify nouns (a, an, the). *See [15. Articles and Nouns > Articles](./articles-nouns.md#a-articles) for full details.*
 
 - *a* / *an*: Indefinite (one of many).
 - *the*: Definite (specific one).
 
 #### Conjunctions
 
-Connect words, phrases, or clauses.
+Connect words, phrases, or clauses. *See [20. Conjunctions](./conjunctions.md) for full details.*
 
 - **Coordinating Conjunctions (FANBOYS):** For, And, Nor, But, Or, Yet, So - connect equal elements.
 - **Subordinating Conjunctions:** Introduce dependent clauses (because, although, when, if).
@@ -74,7 +74,7 @@ Connect words, phrases, or clauses.
 
 #### Prefixes and Suffixes
 
-Word parts added to change meaning or word type.
+Word parts added to change meaning or word type. *See [1.1 Prefixes and Suffixes](./prefixes-suffixes.md) for full details.*
 
 - **Prefix:** Beginning of a word (un-happy, re-do).
 - **Suffix:** End of a word (happi-ness, read-ing).
@@ -90,25 +90,25 @@ Word parts added to change meaning or word type.
   - Use a semicolon (;).
   - Make them separate sentences.
 
-- **Conditional Sentences:** Express conditions and their results (If/When + clause, main clause). Types 0, 1, 2, 3 cover present/future possibilities and past hypotheticals. *See [Conditional section](./if-clauses-wish-clauses-conditionals.md) for details.*
+- **Conditional Sentences:** Express conditions and their results (If/When + clause, main clause). Types 0, 1, 2, 3 cover present/future possibilities and past hypotheticals. *See [Sectoin 7. If-Clauses, Wish-Clauses, and Conditionals](./if-clauses-wish-clauses-conditionals.md) for details.*
 
-- **Clauses:** Groups of words with a subject and a verb.
+- **Clauses:** Groups of words with a subject and a verb. *See [17. Clause Concepts](./clause-concepts.md) for full details.*
   - **Independent Clause:** Can stand alone as a sentence.
   - **Dependent (Subordinate) Clause:** Cannot stand alone; relies on an independent clause.
     - **Adverbial Clauses:** Act like adverbs, modify verbs/adjectives/adverbs (e.g., *Because it was raining*, we stayed home).
     - **Noun Clauses:** Act like nouns (e.g., *What you said* surprised me).
 
-- **Punctuation:** Marks used to structure writing (., ,, ?, !, :, ;).
+- **Punctuation:** Marks used to structure writing (., ,, ?, !, :, ;). *See [1.2 Punctuation](./punctuation.md) for full details.*
 
-- **Active and Passive Voice:**
+- **Active and Passive Voice:** *See [8. Passive Voice](./passive-voice.md) for details.*
   - **Active:** Subject performs action (The cat chased the mouse).
-  - **Passive:** Subject receives action (The mouse was chased by the cat). *See [Passive Voice section](./passive-voice.md) for details.*
+  - **Passive:** Subject receives action (The mouse was chased by the cat). *See [8. Passive Voice](./passive-voice.md) for details.*
 
 - **Noun Phrases:** A noun and its modifiers (the big red ball).
 
 - **Adverbial Phrases:** Groups of words acting as an adverb (in the morning, very quickly).
 
-- **Subject-Verb-Object (SVO):** Basic English sentence order. *See [Section 1.5 Word Order (SVO)](./word-order-svo.md) for full details.*
+- **Subject-Verb-Object (SVO):** Basic English sentence order. *See [1.5 Word Order (SVO)](./word-order-svo.md) for full details.*
 
 - **Sentence Structure:** How clauses and phrases are arranged (simple, compound, complex, compound-complex).
 
