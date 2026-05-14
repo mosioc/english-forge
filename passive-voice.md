@@ -17,20 +17,43 @@ The passive voice is formed using the appropriate tense of **be** + past partici
 
 | Tense | Forms |
 |-------|-------|
-| Present | am / is / are |
-| Past | was / were |
-| Future | will be |
-| Present Perfect | has been / have been |
-| Past Perfect | had been |
-| Future Perfect | will have been |
+| **Base Form** | be |
+| **Present** | am (I) / is (he, she, it) / are (you, we, they) |
+| **Past** | was (I, he, she, it) / were (you, we, they) |
+| **Future** | will be (all subjects) |
+| **Present Participle** | being |
+| **Past Participle** | been |
+| **Present Perfect** | has been (he, she, it) / have been (I, you, we, they) |
+| **Past Perfect** | had been (all subjects) |
+| **Future Perfect** | will have been (all subjects) |
 
 #### Conjugation of "to have" (for perfect tenses)
 
 | Tense | Forms |
 |-------|-------|
-| Present | has (he, she, it) / have (I, you, we, they) |
-| Past | had (all subjects) |
-| Future | will have (all subjects) |
+| **Base Form** | have |
+| **Present** | has (he, she, it) / have (I, you, we, they) |
+| **Past** | had (all subjects) |
+| **Future** | will have (all subjects) |
+| **Present Participle** | having |
+| **Past Participle** | had |
+| **Present Perfect** | has had (he, she, it) / have had (I, you, we, they) |
+| **Past Perfect** | had had (all subjects) |
+| **Future Perfect** | will have had (all subjects) |
+
+#### Conjugation of "to do" (for questions, negatives, emphasis)
+
+| Tense | Forms |
+|-------|-------|
+| **Base Form** | do |
+| **Present** | does (he, she, it) / do (I, you, we, they) |
+| **Past** | did (all subjects) |
+| **Future** | will do (all subjects) |
+| **Present Participle** | doing |
+| **Past Participle** | done |
+| **Present Perfect** | has done (he, she, it) / have done (I, you, we, they) |
+| **Past Perfect** | had done (all subjects) |
+| **Future Perfect** | will have done (all subjects) |
 
 ---
 
