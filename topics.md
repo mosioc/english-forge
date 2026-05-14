@@ -160,6 +160,21 @@
 - [F. Quick Reference: Identifying Sentence Types](./sentence-types-function.md#f-quick-reference-identifying-sentence-types)
 - [G. Common Errors to Avoid](./sentence-types-function.md#g-common-errors-to-avoid)
 
+### [1.7 Types of Verbs](./types-of-verbs.md)
+- [A. Main Verbs vs. Auxiliary (Helping) Verbs](./types-of-verbs.md#a-main-verbs-vs-auxiliary-helping-verbs)
+- [B. The Three Primary Auxiliary Verbs](./types-of-verbs.md#b-the-three-primary-auxiliary-verbs)
+  - [1. To Be (am, is, are, was, were, be, been, being)](./types-of-verbs.md#1-to-be-am-is-are-was-were-be-been-being)
+  - [2. To Have (have, has, had)](./types-of-verbs.md#2-to-have-have-has-had)
+  - [3. To Do (do, does, did)](./types-of-verbs.md#3-to-do-do-does-did)
+- [C. Modal Auxiliary Verbs](./types-of-verbs.md#c-modal-auxiliary-verbs)
+- [D. Full Verbs by Function](./types-of-verbs.md#d-full-verbs-by-function)
+  - [1. Action Verbs (Dynamic Verbs)](./types-of-verbs.md#1-action-verbs-dynamic-verbs)
+  - [2. Linking Verbs (Stative/Non-Action)](./types-of-verbs.md#2-linking-verbs-stativenon-action)
+  - [3. Stative Verbs (State Verbs or Non-Continuous Verbs)](./types-of-verbs.md#3-stative-verbs-state-verbs-or-non-continuous-verbs)
+- [E. Transitive vs. Intransitive Verbs](./types-of-verbs.md#e-transitive-vs-intransitive-verbs)
+- [F. Regular vs. Irregular Verbs](./types-of-verbs.md#f-regular-vs-irregular-verbs)
+- [G. Summary Table: Verb Types at a Glance](./types-of-verbs.md#g-summary-table-verb-types-at-a-glance)
+
 ---
 
 ## Verbs and Tenses
@@ -200,8 +215,9 @@
 ### [5. Tenses Overview](./tenses.md)
 - [A. Core Aspect Patterns](./tenses.md#a-core-aspect-patterns)
 - [B. Conjugation of Key Auxiliary Verbs](./tenses.md#b-conjugation-of-key-auxiliary-verbs)
-  - [To Be](./tenses.md#to-be)
-  - [To Have](./tenses.md#to-have)
+  - [To Be (Linking Verbs - Auxiliary Verbs)](./tenses.md#to-be-linking-verbs---auxiliary-verbs)
+  - [To Have (Auxiliary Verbs)](./tenses.md#to-have-auxiliary-verbs)
+  - [To Do (Auxiliary Verbs)](./tenses.md#to-do-auxiliary-verbs)
 - [C. Tense Tables (Active Voice)](./tenses.md#c-tense-tables-active-voice)
   - [Present Tenses](./tenses.md#present-tenses)
   - [Past Tenses](./tenses.md#past-tenses)
@@ -387,6 +403,7 @@
 - [A. Formation Basics](./passive-voice.md#a-formation-basics)
   - [Conjugation of "to be"](./passive-voice.md#conjugation-of-to-be)
   - [Conjugation of "to have" (for perfect tenses)](./passive-voice.md#conjugation-of-to-have-for-perfect-tenses)
+  - [Conjugation of "to do" (for questions, negatives, emphasis)](./passive-voice.md#conjugation-of-to-do-for-questions-negatives-emphasis)
 - [B. Simple Tenses (be + V3)](./passive-voice.md#b-simple-tenses-be--v3)
 - [C. Continuous Tenses (be + being + V3)](./passive-voice.md#c-continuous-tenses-be--being--v3)
 - [D. Perfect Tenses (have/has/had + been + V3)](./passive-voice.md#d-perfect-tenses-havehashad--been--v3)
