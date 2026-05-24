@@ -72,7 +72,7 @@ This is **not lazy** - it's standard American pronunciation.
 |-----------|---------|-------------|
 | T begins a stressed syllable | *a**tt**ack, a**tt**end, ba**tt**alion, po**t**ential* | The T starts the stressed syllable |
 | T at the start of a word | ***t**ime, **t**able, **t**oday* | Word-initial |
-| T after N | ***nt**er, wi**nt**er, cou**nt**er, ce**nt**er* | T after N is usually held or glottal, not flapped |
+| T after N | e**nt**er, wi**nt**er, cou**nt**er, ce**nt**er | T after N is usually held or glottal, not flapped |
 | T at the end | *ca**t**, ha**t**, si**t*** | No following vowel |
 | T is emphasized | *That's exac**t**ly right!* | Emphasis preserves the true T |
 
