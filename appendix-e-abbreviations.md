@@ -2,7 +2,7 @@
 
 Abbreviations are shortened forms of words or phrases. They are used to save space, time, and effort in writing and speaking. Understanding common abbreviations is essential for reading and writing in English, especially in formal, academic, and professional contexts.
 
-> **Related Sections:** See *Section 3. Short Forms (Contractions)* for contracted verb forms (e.g., *don't, I'm*) and *Appendix A: American vs. British English* for regional variations.
+> **Related Sections:** See *[Section 3. Short Forms (Contractions)](./short-forms-contractions.md)* for contracted verb forms (e.g., *don't, I'm*) and *[Appendix A: American vs. British English](./appendix-a-american-british-english.md)* for regional variations.
 
 ---
 
