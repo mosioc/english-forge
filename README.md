@@ -55,6 +55,7 @@ A journey toward fluency.
 - Appendices
     - [Appendix A: American vs. British English](./appendix-a-american-british-english.md)
     - [Appendix B: Pronunciation](./appendix-b-pronunciation.md)
+    - [Appendix B1: American Accent](./appendix-b-american-accent.md)
     - [Appendix C: Vocabulary](./appendix-c-vocabulary.md)
     - [Appendix D: Silent Letters](./appendix-d-silent-letters.md)
     - [Appendix E: Abbreviations](./appendix-e-abbreviations.md)
