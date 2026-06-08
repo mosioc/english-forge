@@ -10,10 +10,10 @@ Abbreviations are shortened forms of words or phrases. They are used to save spa
 
 | Type | Definition | Example |
 |------|------------|---------|
-| **Acronym** | Pronounced as a word | *NASA, UNESCO, AIDS* |
-| **Initialism** | Each letter pronounced separately | *FBI, CEO, ATM, DVD* |
+| **Acronym** | Pronounced as a word | *NASA, UNESCO, AIDS, NPC* |
+| **Initialism** | Each letter pronounced separately | *FBI, CEO, ATM, DVD, GOAT* |
 | **Contraction** | Shortened by omitting letters (with apostrophe) | *don't, I'm, won't, can't* |
-| **Clipping** | Part of the word is dropped | *phone (telephone), ad (advertisement)* |
+| **Clipping** | Part of the word is dropped | *phone (telephone), ad (advertisement), delulu (delusional)* |
 | **Shortening** | First few letters of a word | *Jan. (January), Mon. (Monday)* |
 | **Symbol/Sign** | Non-letter character representing a word | *& (and), @ (at), % (percent)* |
 
@@ -35,6 +35,7 @@ Abbreviations are shortened forms of words or phrases. They are used to save spa
 | *SIM* | Subscriber Identity Module | Mobile phone card |
 | *PIN* | Personal Identification Number | Security code |
 | *ZIP code* | Zone Improvement Plan code | Postal code (US) |
+| *NPC* | Non-Player Character | Gaming / Internet slang for someone lacking independent thought |
 
 > **Note:** Some acronyms become so common that they are no longer written in all caps (e.g., *laser, radar, scuba*).
 
@@ -94,7 +95,7 @@ These are frequently used in academic and formal writing.
 
 ### E. Common Clippings (Shortened Words)
 
-Clippings are created by dropping part of a word. They are common in informal speech and writing.
+Clippings are created by dropping part of a word. They are common in informal speech, writing, and modern slang.
 
 | Clipping | Full Form | Example |
 |----------|-----------|---------|
@@ -118,6 +119,8 @@ Clippings are created by dropping part of a word. They are common in informal sp
 | *plane* | airplane | *The **plane** lands at 5 PM.* |
 | *pub* | public house | *We met at the **pub**.* |
 | *bra* | brassiere | *She bought a new **bra**.* |
+| *delulu* | delusional | *Thinking they will text you back is total **delulu**.* |
+| *solulu* | solution | *Sleeping early is the only **solulu** to your fatigue.* |
 
 ---
 
@@ -153,7 +156,6 @@ These are often used in calendars, addresses, and formal writing.
 | *Mr.* | Mister | Title |
 | *Mrs.* | Mistress (pronounced "missus") | Title |
 | *Ms.* | (no full form) | Title (neutral) |
-| *Dr.* | Doctor | Title |
 | *Prof.* | Professor | Title |
 | *Rev.* | Reverend | Religious title |
 | *Hon.* | Honorable | Title |
@@ -331,19 +333,21 @@ These are often used in calendars, addresses, and formal writing.
 | *WTV* | Whatever | *"WTV, I don't care."* |
 | *IYKYK* | If You Know, You Know | *"That ending... IYKYK."* |
 | *Vibe* | Mood / Energy | *"The vibe was chill."* |
-| *Aura* | Personal energy or impression | *"She's got a calm aura."* |
+| *Aura* | Personal energy, presence, or impression | *"She lost 1000 aura for tripping there."* |
 | *Flex* | Show off / Brag | *"He's flexing that new setup."* |
 | *Lowkey / Highkey* | Slightly / Definitely | *"Lowkey, I liked that game."* |
 | *Deadass* | Seriously / For real | *"You deadass forgot?"* |
 | *WTMF / WTF* | What The [Heck/F***] | *"WTF just happened?"* |
-| *ICY* | Cool / Stylish | *"Your outfit is icy."* |
-| *OML* | Oh My Lord | *"OML, that scared me."* |
 | *NGL* | Not Gonna Lie | *"NGL, that was awesome."* |
 | *Slay* | Perform exceptionally well / look great | *"You slayed that presentation!"* |
-| *Vibes* | General feeling or atmosphere | *"Good vibes only."* |
-| *404* | Clueless / Confused (like 'Error 404') | *"He's 404 right now."* |
 | *YOLO* | You Only Live Once | *"YOLO, let's try it!"* |
 | *BFF* | Best Friends Forever | *"Me and Sarah are BFFs."* |
+| *Chopped* | Ugly, unappealing, or ruined | *"My haircut looks totally chopped."* |
+| *Larp* | Live Action Role Play (used when someone pretends to be something they aren't) | *"He's just larping as a successful trader."* |
+| *Cook / Let him cook* | To prepare, perform, or develop a great idea | *"Wait, he has a point—let him cook."* |
+| *Glazing* | Over-praising or sucking up to someone | *"Stop glazing him, his project wasn't even that good."* |
+| *Mewing* | A facial exercise technique used to define the jawline | *"He can't talk right now, he's mewing."* |
+| *Sigma* | An independent, successful lone wolf | *"He has that true sigma grindset."* |
 
 ---
 
@@ -399,10 +403,10 @@ These are often used in calendars, addresses, and formal writing.
 
 | Category | Examples |
 |----------|----------|
-| **Acronyms** (said as words) | *NASA, UNESCO, AIDS, NATO, LASER* |
-| **Initialisms** (each letter said) | *FBI, CEO, ATM, DVD, TV, HR* |
+| **Acronyms** (said as words) | *NASA, UNESCO, AIDS, NATO, LASER, NPC* |
+| **Initialisms** (each letter said) | *FBI, CEO, ATM, DVD, TV, HR, GOAT* |
 | **Latin abbreviations** | *e.g., i.e., etc., et al., cf., vs., N.B.* |
-| **Clippings** | *phone, ad, fridge, lab, exam, gym, photo, bike* |
+| **Clippings** | *phone, ad, fridge, lab, exam, gym, photo, bike, delulu* |
 | **Shortenings (months/days)** | *Jan., Feb., Mar., Mon., Tue., Wed.* |
 | **Titles** | *Mr., Mrs., Ms., Dr., Prof., Rev.* |
 | **Measurements** | *in., ft., mi., cm, kg, lb, oz, L, mph* |
@@ -410,7 +414,7 @@ These are often used in calendars, addresses, and formal writing.
 | **Academic degrees** | *BA, BS, MA, PhD, MD, MBA* |
 | **Professional/Business** | *FYI, ASAP, EOD, ETA, TBD, TBA, PFA, CC, BCC, OOO* |
 | **Texting/Social media** | *LOL, OMG, BRB, IMO, IDK, BTW, FYI, TBH* |
-| **Gen Z / Internet slang** | *Rizz, W/L, Cap, Sus, FR, GOAT, Slay, Vibes* |
+| **Gen Z / Internet slang** | *Rizz, W/L, Cap, Sus, FR, Slay, Vibes, Chopped, Larp, Glazing, Mewing* |
 | **Medical** | *BP, HR, BMI, ER, ICU, Rx, OTC* |
 | **Symbols** | *&, @, #, %, $, £, €, °, ©, ®* |
 
@@ -421,8 +425,8 @@ These are often used in calendars, addresses, and formal writing.
 | Formal (Acceptable in Academic/Business Writing) | Informal (Avoid in Formal Writing) |
 |--------------------------------------------------|-------------------------------------|
 | *e.g., i.e., etc., et al.* | *LOL, OMG, BTW, FYI* (FYI is borderline acceptable in business) |
-| *Mr., Mrs., Ms., Dr., Prof.* | *info, ad, phone, bike* |
+| *Mr., Mrs., Ms., Dr., Prof.* | *info, ad, phone, bike, delulu* |
 | *Jan., Feb., Mon., Tue.* (in tables/calendars) | *ASAP* (acceptable in business email, not academic) |
 | *AM, PM, BC, AD* | *c.* (acceptable in some academic contexts) |
 | *CEO, CFO, HR, MBA* (after introduction) | *TBA, TBD* (acceptable in informal business) |
-| *N/A, PTO, EOD, COB* (internal business) | *Rizz, Cap, Sus, Slay, GOAT* (internet slang) |
+| *N/A, PTO, EOD, COB* (internal business) | *Rizz, Cap, Sus, Slay, GOAT, Chopped, Larp* (internet slang) |
