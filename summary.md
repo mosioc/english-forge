@@ -161,21 +161,21 @@
 Every English word belongs to one of eight (or nine) categories based on its function in a sentence.
 
 | Part of Speech | Function | Examples |
-|----------------|----------|----------|
+| ---------------- | ---------- | ---------- |
 | **Noun** | Names a person, place, thing, or idea. | *dog, city, happiness, Maria* |
 | **Pronoun** | Replaces a noun. | *I, you, he, she, it, we, they* |
 | **Verb** | Expresses action or state of being. | *run, think, is, become* |
 | **Adjective** | Describes a noun or pronoun. | *big, happy, red, beautiful* |
 | **Adverb** | Modifies a verb, adjective, or another adverb. | *quickly, very, often, well* |
 | **Preposition** | Shows relationship between a noun/pronoun and another word. | *in, on, at, under, before, with* |
-| **Conjunction** | Connects words, phrases, or clauses. | *and, but, because, although* |
+| **Conjunction** | Connects words, phrases, or clauses. | *and, or, but, because, although* |
 | **Determiner** | Specifies a noun (includes articles). | *a, an, the, this, my, some* |
 | **Interjection** | Expresses emotion or reaction. | *Oh!, Wow!, Ouch!, Hey!* |
 
 #### Key Distinctions
 
 | Often Confused | Difference | Examples |
-|----------------|------------|----------|
+| ---------------- | ------------ | ---------- |
 | **Adjective vs. Adverb** | Adjective describes a noun; adverb describes a verb/adjective/adverb. | *She is **careful**.* (adj) / *She drives **carefully**.* (adv) |
 | **Preposition vs. Conjunction** | Preposition + noun; conjunction + clause. | *I left **after** the game.* (prep) / *I left **after** the game ended.* (conj) |
 | **Determiner vs. Pronoun** | Determiner comes before a noun; pronoun replaces a noun. | ***This** book is mine.* (det) / ***This** is mine.* (pron) |
@@ -183,7 +183,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 #### What Each Part of Speech Answers
 
 | Part of Speech | Question It Answers |
-|----------------|---------------------|
+| ---------------- | --------------------- |
 | **Noun** | Who? What? |
 | **Verb** | What action? What state? |
 | **Adjective** | What kind? Which one? How many? |
@@ -193,7 +193,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 ### Word Building: Prefixes and Suffixes
 
 | Type | Common Prefixes/Suffixes |
-|------|--------------------------|
+| ------ | -------------------------- |
 | **Noun-forming** | `-ness`, `-ity`/`-ty`, `-ment`, `-tion`/`-sion`, `-er`/`-or`, `-ist`, `-ism` |
 | **Adjective-forming** | `-able`/`-ible`, `-ful`, `-less`, `-ous`/`-ious`, `-ic`/`-al`, `-y` |
 | **Verb-forming** | `-ize`/`-ise`, `-en` |
@@ -205,7 +205,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 ### Key Spelling Rules
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | *-y* -> *-ie* (before -s/-ed/-er/-est) | *baby -> babies, happy -> happier* |
 | Keep *-y* before *-ing* | *trying, hurrying* |
 | Keep *-y* after vowel | *plays, played, monkeys* |
@@ -220,7 +220,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 ### Capitalization
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | Proper nouns | *John, Paris, Monday, January, English* |
 | Titles before names | *Dr. Smith, President Biden* |
 | Titles alone = lowercase | *The doctor is here.* |
@@ -233,25 +233,29 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 ### Numbers, Dates & Time
 
 #### Numbers
+
 - Spell out 1-9 (*five*), digits 10+ (*15*)
 - Spell out at sentence start (*Twenty-five people came*)
 
 #### Dates
+
 - US: *December 25, 2024* -> 12/25/2024
 - UK: *25 December 2024* -> 25/12/2024
 
 #### Time
+
 - *quarter past / half past / quarter to* (UK)
 - *three fifteen / three thirty / three forty-five* (US)
 - *at* clock times (*at 5 PM*), *on* days (*on Monday*), *in* months (*in July*)
 
 ---
+
 ### Word Order (SVO)
 
 #### Basic Patterns
 
 | Pattern | Structure | Example |
-|---------|-----------|---------|
+| --------- | ----------- | --------- |
 | **Intransitive** (no object) | S + V | *The baby cried.* |
 | **Transitive** (direct object) | S + V + DO | *She bought a car.* |
 | **Adverbial** (obligatory adverbial) | S + V + A | *She lives in London.* |
@@ -270,7 +274,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 #### When to Use the *to/for* Pattern
 
 | Reason | Example |
-|--------|---------|
+| -------- | --------- |
 | IO is a long phrase | *I gave the documents to the woman who called.* |
 | Emphasize the IO | *She gave the award to him, not to his brother.* |
 | Verb requires *to* | *Explain the problem **to me**.* (NOT *Explain me the problem*) |
@@ -299,7 +303,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 #### Exceptions: Time First
 
 | Condition | Example |
-|-----------|---------|
+| ----------- | --------- |
 | Time is the topic/introduces the sentence | ***Yesterday** I met an old friend.* |
 | Time contrasts with another time | ***Last year** we went to France; **this year** we're going to Italy.* |
 | Place is a long phrase | ***At 8 a.m.** we arrived at the small hotel on top of the hill.* |
@@ -311,7 +315,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 #### Adverb Placement Summary
 
 | Adverb Type | Position | Example |
-|-------------|----------|---------|
+| ------------- | ---------- | --------- |
 | **Frequency** (*always, never*) | Before main verb / After *be* | *She often visits. / He is always late.* |
 | **Manner** (*carefully*) | After verb + object | *She opened the box carefully.* |
 | **Place** (*here, outside*) | End | *Let's go outside.* |
@@ -324,7 +328,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 ### Sentence Types by Function
 
 | Type | Function | Punctuation | Example |
-|------|----------|-------------|---------|
+| ------ | ---------- | ------------- | --------- |
 | **Declarative** | Give information | . | *She works at a hospital.* |
 | **Interrogative** | Ask for information | ? | *Where does she live?* |
 | **Imperative** | Give command/request | . or ! | *Sit down. / Don't touch that.* |
@@ -335,7 +339,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 ### Types of Verbs
 
 | Classification | Types |
-|----------------|-------|
+| ---------------- | ------- |
 | **By Structure** | Main Verbs, Auxiliary Verbs (Primary: *be, have, do*), Modal Auxiliaries |
 | **By Function** | Action (Dynamic), Linking, Stative |
 | **By Object Requirement** | Transitive, Intransitive, Ditransitive, Ambitransitive |
@@ -353,7 +357,7 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 They can function as main verbs OR as auxiliaries.
 
 | Verb | As Main Verb | As Auxiliary Verb |
-|------|-------------|-------------------|
+| ------ | ------------- | ------------------- |
 | **To Be** (*am, is, are, was, were, be, been, being*) | **Linking verb:** Connects subject to a description or state. *She **is** a teacher. / I **was** tired.* | Forms continuous tenses and passive voice. *She **is** playing.* (continuous) / *The cake **was** eaten.* (passive) |
 | **To Have** (*have, has, had*) | Shows possession or experience. *She **has** a car. / I **had** breakfast.* | Forms perfect tenses. *She **has** played. / They **had** eaten.* |
 | **To Do** (*do, does, did*) | Expresses performing an action or task. *She **did** her homework. / They **do** yoga.* | Forms questions, negatives, and emphatic statements in simple tenses. ***Does** she play?* / *She **didn't** play.* / *She **did** play!* (emphatic) |
@@ -361,16 +365,18 @@ They can function as main verbs OR as auxiliaries.
 #### Action, Linking, and Stative Verbs
 
 | Verb Type | Function | Continuous Tense? | Examples |
-|-----------|----------|-------------------|----------|
+| ----------- | ---------- | ------------------- | ---------- |
 | **Action (Dynamic)** | Express physical or mental actions. | Yes | *run, eat, build, write, think, consider* |
 | **Linking** | Connect subject to a noun, adjective, or prepositional phrase that describes or identifies it. | No | *be, seem, become, look, smell, taste, feel, sound, appear, remain, stay, prove, turn, grow* |
 | **Stative (Non-Continuous)** | Describe states, conditions, emotions, possession, or mental conditions rather than actions. | Rarely / No | *know, believe, understand, love, hate, own, belong, want, need, prefer, remember, forget* |
 
 > **Linking Verb Test:** Substitute the verb with *am/is/are/was/were*. If the sentence still makes logical sense, it's a linking verb.
+>
 > - *She looks happy.* -> *She is happy.* (Makes sense -> **linking**)
 > - *She looks at the painting.* -> *She is at the painting.* (Doesn't make sense -> **action**)
 
 > **Key Rule for Linking Verbs:** They are followed by adjectives, not adverbs.
+>
 > - Correct: *I feel **bad**.* (Describes my emotional state)
 > - Incorrect: *I feel **badly**.* (Describes my sense of touch as impaired)
 
@@ -379,7 +385,7 @@ They can function as main verbs OR as auxiliaries.
 #### Stative Verbs That Can Be Action Verbs (Meaning Change)
 
 | Verb | Stative Meaning | Action Meaning |
-|------|-----------------|----------------|
+| ------ | ----------------- | ---------------- |
 | *have* | possession (*I have a car.*) | experience/eat (*I'm having lunch.*) |
 | *think* | opinion (*I think it's good.*) | process of considering (*I'm thinking about it.*) |
 | *see* | perception (*I see the bird.*) | meeting (*I'm seeing the doctor.*) |
@@ -392,7 +398,7 @@ They can function as main verbs OR as auxiliaries.
 #### Transitive vs. Intransitive Verbs
 
 | Type | Definition | Example |
-|------|------------|---------|
+| ------ | ------------ | --------- |
 | **Transitive** | Requires a direct object to complete its meaning. The action transfers to something or someone. | *She **ate** the cake.* / *He **needs** help.* |
 | **Intransitive** | Does not take a direct object. The action is complete on its own. | *She **arrived** late.* / *The baby **cried**.* |
 | **Ditransitive** | Takes both a direct and an indirect object. | *She **gave** him a gift.* (him = indirect, gift = direct) |
@@ -414,7 +420,7 @@ They can function as main verbs OR as auxiliaries.
 #### Active Voice
 
 | Aspect | Structure | Example |
-|--------|-----------|---------|
+| -------- | ----------- | --------- |
 | **Simple** | *Present:* V1 / V1+s \| *Past:* V2 \| *Future:* will + V1 | *She works. She worked. She will work.* |
 | **Continuous** | *be* + V-ing | *She is/was/will be working.* |
 | **Perfect** | *have/has/had* + V3 (past participle) | *She has/had/will have worked.* |
@@ -423,7 +429,7 @@ They can function as main verbs OR as auxiliaries.
 #### Passive Voice Overview
 
 | Aspect | Structure | Example |
-|--------|-----------|---------|
+| -------- | ----------- | --------- |
 | **Simple** | *be* + V3 | *It is/was/will be done.* |
 | **Continuous** | *be* + being + V3 | *It is/was being done.* |
 | **Perfect** | *have/has/had* + been + V3 | *It has/had/will have been done.* |
@@ -435,7 +441,7 @@ They can function as main verbs OR as auxiliaries.
 #### More Passive Patterns
 
 | Pattern | Structure | Example |
-|---------|-----------|---------|
+| --------- | ----------- | --------- |
 | **Causative (formal)** | *have + object + V3* | *I had my hair cut.* |
 | **Causative (informal)** | *get + object + V3* | *I need to get my car fixed.* |
 | **Imperative Passive (formal)** | *Let + object + be + V3* | *Let the door be locked.* |
@@ -446,7 +452,7 @@ They can function as main verbs OR as auxiliaries.
 #### Key Tense Rules
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | **State verbs** (no continuous) | *know, believe, understand, belong, own, love, hate, want, need, seem* |
 | **State -> Action (meaning change)** | *think* (opinion) vs. *be thinking* (process); *have* (possession) vs. *be having* (experience) |
 | **Performatives** | *I promise, I apologize, I declare, I suggest, I warn* (the words are the action) |
@@ -457,19 +463,19 @@ They can function as main verbs OR as auxiliaries.
 | **Have / Have got** (possession) | *I have a car. = I've got a car.* (BrE) |
 | **Future from the past** | *was going to / was about to / was to* |
 
-#### State Verbs 
+#### State Verbs
 
 | Category | Verbs |
-|----------|-------|
+| ---------- | ------- |
 | **Emotions, attitudes, and preferences** | *agree, appreciate, attract, desire, doubt, expect, hate, hope, like, love, prefer, regret* |
 | **Mental states** | *anticipate, assume, believe, consider, expect, feel, find, imagine, know, realise, think, understand* |
 | **Senses and perception** | *ache, hear, notice, see, smell, sound, taste* |
 | **'Being', 'having', etc.** | *belong to, consist of, constitute, contain, cost, differ from, have, look, mean, measure, own, possess, resemble, seem, weigh* |
 
-#### Advanced Tenses 
+#### Advanced Tenses
 
 | Tense | Use | Examples |
-|-------|-----|----------|
+| ------- | ----- | ---------- |
 | **Present Continuous** | Particular events/activities that have begun but not ended at the time of speaking; the activity is in progress at the present time, but not necessarily at the moment of speaking | *'Who are you phoning?' 'I'm trying to get through to Misaki.'* |
 | | To suggest that an event or activity is or may be temporary | *She's doing voluntary work with young children until she starts her university course.* |
 | **Present Simple** | States or situations that are always true or continue indefinitely | *Trees grow more quickly in summer than in winter.* |
@@ -492,7 +498,7 @@ They can function as main verbs OR as auxiliaries.
 ### Advanced Future Forms
 
 | Structure | Use | Examples |
-|-----------|-----|----------|
+| ----------- | ----- | ---------- |
 | **Present Simple** | Timetables, schedules, official arrangements (future events part of a programme); a time expression is usually used | *The next train to Dublin leaves at 3.45.* (station announcement) |
 | **Present Continuous** | Arrangements; intended or already arranged future activities; usually a personal pronoun and future time are mentioned | *We're having a party next Saturday. Can you come?* |
 | **(be) going to + infinitive** | Plans, intentions, evidence-based predictions; decisions made some time before reported; often preferred in informal spoken English (pronounced /ˈɡɒnə/) | *I'm going to study. Look — it's going to rain. 'Has anybody offered to look after the children?' 'Sophia's going to do it.'* |
@@ -509,7 +515,7 @@ They can function as main verbs OR as auxiliaries.
 
 ### Modals
 
-Modal verbs have meanings relating to ideas such as possibility, likelihood, prediction, necessity, permission and obligation. They do not have **to-infinitive**, **-s**, **-ing** or past participle forms. 
+Modal verbs have meanings relating to ideas such as possibility, likelihood, prediction, necessity, permission and obligation. They do not have **to-infinitive**, **-s**, **-ing** or past participle forms.
 
 The semi-modals are: **ought to, used to, need, dare, had better, have (got) to, be able to**. These have meanings like modal verbs but not the same formal features: for example, some can be marked for tense (e.g. *have / had [got] to*); some have non-modal uses (e.g. *She needs a rest*).  
 
@@ -517,7 +523,7 @@ The semi-modals are: **ought to, used to, need, dare, had better, have (got) to,
 > No *to*, no *-s*, no *do/does/did* for questions or negatives.  
 
 | Modal | Primary Uses |
-|-------|-------------|
+| ------- | ------------- |
 | *can* | ability, possibility, informal permission |
 | *can't* | impossibility, disbelief |
 | *could* | past ability, polite permission, possibility, suggestion |
@@ -537,7 +543,7 @@ The semi-modals are: **ought to, used to, need, dare, had better, have (got) to,
 > ***Mustn't* vs. *Don't have to*:** *You mustn't smoke here.* (prohibition) / *You don't have to come.* (no obligation)
 
 | Modal Group | Rule | Examples |
-|-------------|------|----------|
+| ------------- | ------ | ---------- |
 | **Can, Could, Be Able To** | *Can* (present) / *couldn't* (past) for general ability | *A polyglot is someone who can speak several different languages. / Anita could speak three languages before she was six. / Olivia couldn't swim until she was ten.* |
 | | *Could* (not *can*) to say there is a possibility | *'Why isn't Ben here yet?' 'It could be because his mother's ill again.'* |
 | | *Be able to* preferred for specific achievement (difficult, requiring effort) | *Despite yesterday's snowfalls, we were able to drive home in less than an hour.* |
@@ -570,7 +576,7 @@ The semi-modals are: **ought to, used to, need, dare, had better, have (got) to,
 #### Past Modals (Speculation & Regret)
 
 | Form | Meaning |
-|------|---------|
+| ------ | --------- |
 | *must have + V3* | Almost certain about the past |
 | *may/might/could have + V3* | Possible in the past |
 | *can't/couldn't have + V3* | Impossible in the past |
@@ -589,7 +595,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 #### If-Clauses
 
 | Conditional | If-Clause | Main Clause | Meaning |
-|-------------|-----------|-------------|---------|
+| ------------- | ----------- | ------------- | --------- |
 | **Zero** | Present Simple | Present Simple | Always true |
 | **First** | Present Simple | *will* + V1 | Real future |
 | **Second** | Past Simple | *would* + V1 | Unreal present/future |
@@ -600,7 +606,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 #### Wish-Clauses
 
 | Time | Structure | Use |
-|------|-----------|-----|
+| ------ | ----------- | ----- |
 | **Present** (unreal) | *wish + past simple* | *I wish I had a car.* |
 | **Present** (formal) | *wish + were* | *I wish I were taller.* |
 | **Past** (regret) | *wish + past perfect* | *I wish I had studied.* |
@@ -609,7 +615,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 #### Key Alternatives
 
 | Expression | Meaning |
-|------------|---------|
+| ------------ | --------- |
 | *as long as / provided (that)* | Only if |
 | *unless* | If not |
 | *otherwise* | If not (consequence) |
@@ -621,7 +627,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 #### Inversion in Conditionals (Formal)
 
 | Normal | Inverted |
-|--------|----------|
+| -------- | ---------- |
 | *If you should need help...* | *Should you need help...* |
 | *If I were you...* | *Were I you...* |
 | *If he were to resign...* | *Were he to resign...* |
@@ -630,7 +636,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 #### Real vs. Unreal Conditionals: Detailed Notes
 
 | Conditional Type | Description | Example |
-|-----------------|-------------|---------|
+| ----------------- | ------------- | --------- |
 | **Real** | Suggests a situation is or was true, or may have been or may become true | *If anyone phones, tell them I'll be back at eleven.* |
 | **Unreal** | Suggests a situation is imaginary or untrue | *What would you do if you won the lottery?* |
 
@@ -644,7 +650,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 **Real Conditionals: Tenses**
 
 | Time Reference | Tense in If-Clause | Example |
-|----------------|-------------------|---------|
+| ---------------- | ------------------- | --------- |
 | Future | Present tense | *I'll give you a lift if it rains.* |
 | Present | Present tense | *If you leave now, you'll be home in two hours.* |
 | Unchanging relationships | Present tense | *If water freezes, it expands.* |
@@ -653,7 +659,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 **Unreal Conditionals: Tenses**
 
 | Time Reference | If-Clause | Main Clause | Example |
-|----------------|-----------|-------------|---------|
+| ---------------- | ----------- | ------------- | --------- |
 | Present/Future | Past tense (*if ... were* sometimes used instead of *if ... was*) | *would + bare infinitive* | *If my grandfather was / were still alive, he would be a hundred today.* |
 | Past (didn't happen) | Past perfect | *would have + past participle* | *If I had known how difficult the job was, I wouldn't have taken it.* |
 | Mixed (past condition, present result) | Past perfect | *would + infinitive* | *If the doctor had been called earlier, Paula would still be alive today.* |
@@ -662,7 +668,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 **Unreal Conditionals: Key Notes**
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | *Could / might (have)* can be used instead of *would (have)* | *If my grandfather was / were still alive, he might have enjoyed looking after our garden. / If I lived out of town, I could take up horse riding.* |
 | *Could have + past participle* expresses disapproval of something not done in the past | *You could have let me know you were going to be late.* |
 | Do not normally use *would* in an *if-clause* | *If I had a more reliable car, I'd drive to Spain rather than fly.* (NOT *If I would have...*) |
@@ -672,7 +678,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 ### Unreal Time (Hypothetical Situations)
 
 | Structure | Time | Example |
-|-----------|------|---------|
+| ----------- | ------ | --------- |
 | *hope + present/future* | Future (possible) | *I hope it doesn't rain.* |
 | *if only + past simple* | Present unreal | *If only I had more time.* |
 | *if only + past perfect* | Past regret | *If only I had listened.* |
@@ -692,7 +698,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 ### Subjunctive Mood
 
 | Type | Form | Example |
-|------|------|---------|
+| ------ | ------ | --------- |
 | **Present Subjunctive** | Base form (V1) for ALL persons | *I suggest that he **go**.* |
 | | (NO -s in 3rd person singular) | *She insisted that he **be** present.* |
 | **Past Subjunctive** | *were* for ALL persons | *If I **were** you...* |
@@ -704,7 +710,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 #### Subjunctive Triggers
 
 | Type | Examples |
-|------|----------|
+| ------ | ---------- |
 | **Verbs** | *suggest, insist, recommend, demand, request, propose, ask, advise, require, urge, command, order* |
 | **Adjectives** | *essential, important, necessary, vital, crucial, imperative, advisable* |
 | **Nouns** | *suggestion, demand, recommendation, requirement, proposal, insistence* |
@@ -723,7 +729,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 - **Passive:** The roof was damaged by the storm. (This sentence is about **the roof** and says what happened to it. The subject is the 'done to'. If it is mentioned, the agent goes in a prepositional phrase with **by** after the verb.)
 
 | Pattern | Structure | Example |
-|---------|-----------|---------|
+| --------- | ----------- | --------- |
 | **Simple Passive** | *be + V3* | *It is done.* |
 | **Continuous Passive** | *be + being + V3* | *It is being done.* |
 | **Perfect Passive** | *have/has/had + been + V3* | *It has been done.* |
@@ -735,7 +741,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 | **Passive in Conditionals** | *if... be + V3* | *If it is broken, it will be replaced.* |
 
 | Rule | Details | Examples |
-|------|---------|----------|
+| ------ | --------- | ---------- |
 | **Active vs. Passive** | In active: subject is 'agent', object is 'done to'. In passive: subject is 'done to', agent goes with *by* | Active: *The storm damaged the roof.* / Passive: *The roof was damaged by the storm.* |
 | **Transitive verbs** | Verbs taking an object can have passive forms | *was destroyed* |
 | **Intransitive verbs** | Verbs not taking an object cannot have passive forms | *The child vanished...* (NOT *The child was vanished...*) |
@@ -751,7 +757,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### Tense Backshift
 
 | Direct Speech -> Reported Speech | Example |
-|---------------|-----------------|
+| --------------- | ----------------- |
 | Present Simple -> Past Simple | "I **like** coffee." -> He said he **liked** coffee. |
 | Present Continuous -> Past Continuous | "I **am working**." -> She said she **was working**. |
 | Past Simple -> Past Perfect | "I **saw** the film." -> He said he **had seen** the film. |
@@ -766,19 +772,19 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### No Backshift
 
 | Condition | Example |
-|-----------|---------|
+| ----------- | --------- |
 | Statement is still true | "I **am** a teacher." -> She said she **is** a teacher. (still true now) |
 | Reporting verb is present tense | "I'm tired." -> She **says** she **is** tired. |
 | Reporting a very recent conversation | (Just now) "I'm hungry." -> She said she **is** hungry. |
 | General truths / timeless facts | "Water **boils** at 100°C." -> He said water **boils** at 100°C. |
 | Modals: *could, would, should, might, ought to, had better* | "I **could** help." -> She said she **could** help. (no change) |
 
-#### Changes Beyond Tenses 
+#### Changes Beyond Tenses
 
 -> (Beyond tenses: time and place words)
 
 | Word in Direct Speech | Word in Reported Speech | Example |
-|-----------------------|-------------------------|---------|
+| ----------------------- | ------------------------- | --------- |
 | *now* | *then / at that time* | "I'm busy **now**." -> She said she was busy **then**. |
 | *today* | *that day* | "I'll do it **today**." -> He said he would do it **that day**. |
 | *yesterday* | *the day before* | "I saw her **yesterday**." -> She said she had seen her **the day before**. |
@@ -792,7 +798,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### Reporting Patterns
 
 | Type | Pattern | Example |
-|------|---------|---------|
+| ------ | --------- | --------- |
 | Statement | *say/tell + (that) + clause* | "I'm tired." -> He **said (that) he was** tired. (*Say* does not take an object without *to*; *tell* requires an object: *She told me...*) |
 | Yes/No Question | *ask + if/whether + clause* | "Are you tired?" -> She **asked if I was** tired. |
 | Wh-Question | *ask + wh-word + clause* | "Where do you live?" -> She **asked where I lived**. |
@@ -806,7 +812,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### Reporting with Nouns and Adjectives
 
 | Pattern | Example |
-|---------|---------|
+| --------- | --------- |
 | Noun + that-clause | "I'm innocent." -> **His claim that he was innocent** was false. |
 | Adj + that-clause | "He made a mistake." -> **It is clear that he made** a mistake. |
 | Adj + to-infinitive | "She helped." -> **She was happy to help**. |
@@ -817,7 +823,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### Direct Speech Punctuation
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | Statement with reporting clause after | *'I think we should go to India while we have the opportunity,' argued Oliver.* |
 | Question with reporting clause after | *'Can I make an appointment to see the doctor?' asked Maxim.* |
 | Exclamation with reporting clause after | *'You must be mad!' yelled her brother.* |
@@ -836,7 +842,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 **Auxiliary** verbs (also called helping verbs) are used together with a main verb to form tenses, questions, negatives, and the passive voice.  
 
 | Auxiliary | Functions |
-|-----------|-----------|
+| ----------- | ----------- |
 | **be** (*am/is/are, was/were, be, been*) | Continuous tenses, passive voice |
 | **have** (*have/has/had*) | Perfect tenses |
 | **do** (*do/does/did*) | Questions, negatives, emphasis (present/past simple) |
@@ -846,7 +852,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### Short Responses
 
 | Statement | Affirmative | Negative |
-|-----------|-------------|----------|
+| ----------- | ------------- | ---------- |
 | Positive | *So + aux + I* | - |
 | Negative | - | *Neither/Nor + aux + I* |
 | *think/hope/believe/expect/be afraid* + clause | *I think so.* | *I don't think so.* / *I hope not.* |
@@ -864,7 +870,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### After Negative/Emphatic Adverbs (Verb-Subject)
 
 | Trigger | Example |
-|---------|---------|
+| --------- | --------- |
 | Negative adverbs (*never, rarely, seldom*) | *Never have I seen such a thing.* |
 | *Hardly/Scarcely/Barely... when/before* | *Hardly had I sat down when the phone rang.* |
 | *No sooner... than* | *No sooner had I left than it rained.* |
@@ -878,7 +884,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### After Place Adverbs
 
 | Example | Note |
-|---------|------|
+| --------- | ------ |
 | *Here comes the bus.* | If subject is a **pronoun**, no inversion: *Here it comes.* |
 | *There goes my chance.* | |
 | *In the corner sat an old man.* | |
@@ -886,7 +892,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 #### In Conditionals (Formal (Omit *If*))
 
 | With *if* | Without *if* |
-|-----------|---------------|
+| ----------- | --------------- |
 | *If you should need help...* | *Should you need help...* |
 | *If I were you...* | *Were I you...* |
 | *If he were to arrive...* | *Were he to arrive...* |
@@ -916,7 +922,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 ### Emphatic Structures
 
 | Type | Structure | Example |
-|------|-----------|---------|
+| ------ | ----------- | --------- |
 | **It-cleft** | *It + be + [focus] + that/who + clause* | *It was John who called.* |
 | ***Not until* cleft** | *It was not until + time + that + clause* | *It was not until midnight that I finished.* |
 | **Wh-cleft** (pseudo-cleft) | *What/Where/When + clause + be + [focus]* | *What I need is rest.* |
@@ -932,7 +938,7 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the subject. If a verb phrase includes more than one auxiliary verb, only the first comes before the subject. In present and past simple tenses of verbs (apart from *be*), we use *do* or *did*. If *be* is used in a verb phrase without another verb, the form of *be* comes before the subject. If we use *what, which, who* or *whose* as the subject, we use the same word order as in a statement; i.e. the subject goes before the verb phrase.
 
 | Type | Structure | Example |
-|------|-----------|---------|
+| ------ | ----------- | --------- |
 | **Yes/No** (no auxiliary) | *Do/Does/Did + subject + V1?* | *Do you like coffee?* |
 | **Yes/No** (with auxiliary/modal) | *Aux/Modal + subject + V1?* | *Can you swim? / Is she coming?* |
 | **Wh-Question** | *Wh-word + aux/modal + subject + V1?* | *Where do you live?* |
@@ -949,12 +955,13 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 | ***That*-clause question** | *Is it true/possible that + clause?* | *Is it true that she resigned?* |
 
 **Question Word Choice Notes:**
+
 - Prefer *which* when asking about an identified group or range of things or people. Prefer *what* when the possible range of reference is open. Example: *I've got orange juice or apple juice. Which would you prefer? / What do you think he meant?*
 - *Which* or *what* can sometimes be used with little difference in meaning. Example: *What / Which towns do we go through on the way?*
 - Don't confuse *whose* with *who's* (short for either *who is* or *who has*), which are pronounced the same.
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the subject. | *Are they leaving soon? / Where will you stay?* |
 | If a verb phrase includes more than one auxiliary verb, only the first comes before the subject. | *Has she been doing her homework? / What should we have told Nina?* |
 | In present and past simple tenses of verbs (apart from *be*), we use *do* or *did*. | *Does he enjoy school? / Where did you go on holiday?* |
@@ -964,7 +971,7 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 #### Negative Questions
 
 | Aspect | Explanation | Examples |
-|--------|-------------|----------|
+| -------- | ------------- | ---------- |
 | **Formation** | Auxiliary verb (*have, did, would, etc.*) + *-n't* | *Haven't you finished your homework yet? / Why didn't she pay for the meal? / Who wouldn't like to own an expensive sports car?* |
 | **Alternative formation** | Negative statement + positive tag at the end | *We don't have to leave just yet, do we?* |
 | **Uses** | To make a suggestion, to persuade someone, to criticise, or to show surprise | |
@@ -975,7 +982,7 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 ### Negative Structures
 
 | Structure | Formation | Example |
-|-----------|-----------|---------|
+| ----------- | ----------- | --------- |
 | **With auxiliary** | *aux + not* | *She isn't ready.* |
 | **Without auxiliary** | *do/does/did + not + V1* | *I don't like it.* |
 | **Negative contractions** | *aux + n't* | *She isn't ready.* (cannot = one word) |
@@ -996,7 +1003,7 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 #### Exclamations (full structures)
 
 | Type | Structure | Example |
-|------|-----------|---------|
+| ------ | ----------- | --------- |
 | ***What*** | *What + (a/an) + (adj) + noun + (subj + verb)!* | *What a beautiful day!* |
 | ***How*** | *How + adj/adv + (subj + verb)!* | *How kind you are!* |
 | ***So/Such*** | *So + adj! / Such + (a/an) + adj + noun!* | *You're so kind! / Such a mess!* |
@@ -1006,7 +1013,7 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 #### Interjections (stand-alone)
 
 | Emotion | Examples |
-|---------|----------|
+| --------- | ---------- |
 | Surprise | *Oh!, Wow!, Gosh!* |
 | Pain | *Ouch!, Ow!* |
 | Disgust | *Ew!, Yuck!, Ugh!* |
@@ -1028,7 +1035,7 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 #### Quick Decision Table
 
 | Pattern | Example |
-|---------|---------|
+| --------- | --------- |
 | *Verb + -ing* | *enjoy, avoid, mind, finish, suggest, admit, deny, consider, practise, risk, postpone, miss, keep* |
 | *Verb + to + V1* | *want, need, hope, plan, decide, agree, offer, promise, fail, learn, manage, refuse, pretend, wish* |
 | *Verb + obj + to + V1* | *tell, ask, want, advise, allow, remind, teach, encourage, order, expect* |
@@ -1038,7 +1045,7 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 #### Meaning Change: *-ing* vs. *to*
 
 | Verb | + -ing | + to |
-|------|--------|------|
+| ------ | -------- | ------ |
 | *stop* | quit (*stop smoking*) | in order to (*stop to smoke*) |
 | *remember* | memory of past (*remember locking*) | don't forget future (*remember to lock*) |
 | *forget* | memory of past (*forget meeting*) | fail to do future (*forget to call*) |
@@ -1050,7 +1057,7 @@ If a verb phrase includes an auxiliary verb, the auxiliary verb comes before the
 #### Other Key Patterns
 
 | Pattern | Example |
-|---------|---------|
+| --------- | --------- |
 | *would rather + V1* | *I'd rather stay.* |
 | *would prefer + to + V1* | *I'd prefer to leave.* |
 | *be/get used to + -ing* | *I'm used to waking early.* |
@@ -1082,7 +1089,7 @@ Some verbs (e.g. *describe*) are followed by an object. These are called **trans
 | **Intransitive verbs** | Not usually followed by an object | *appear, come, fall, go, happen, matter, sleep, swim, wait* |
 
 | Pattern | Verbs | Example |
-|---------|-------|---------|
+| --------- | ------- | --------- |
 | **Verb + to-infinitive** | *agree, aim, ask, decline, demand, fail, hesitate, hope, hurry, manage, offer, plan, prepare, refuse, want, wish* | *They won't agree to pay for the damage.* |
 | **Verb + -ing** | *admit, avoid, consider, delay, deny, detest, dread, envisage, feel like, finish, imagine, miss, recall, resent, risk, suggest* | *Stevens admitted stealing the wallet.* |
 | **Verb + to-infinitive or -ing (little difference)** | *begin, cease, continue, start* | *Before we began eating / to eat my father thanked everyone.* |
@@ -1098,7 +1105,7 @@ Some verbs (e.g. *describe*) are followed by an object. These are called **trans
 ### Ellipsis (Omitting Words)
 
 | Type | Structure | Example |
-|------|-----------|---------|
+| ------ | ----------- | --------- |
 | **Verb Phrase** | *Aux/Modal + Ø* | *She can swim, and I can __ too.* |
 | **To-Infinitive** | *to + Ø* | *I wanted to go, but I forgot to __.* |
 | **Noun Phrase** | *Det/Adj + Ø* | *I like the red car, not the blue __.* |
@@ -1111,7 +1118,7 @@ Some verbs (e.g. *describe*) are followed by an object. These are called **trans
 **Substitution to Avoid Repetition:**
 
 | Form | Structure | Use | Example |
-|------|-----------|-----|---------|
+| ------ | ----------- | ----- | --------- |
 | **Affirmative** | *So + auxiliary verb + subject* | To say that a second person does the same things as the person already mentioned | *I had a racing bike when I was young, and so did my brother. / 'Emma loves ice cream.' 'So do I.'* |
 | **Negative** | *Neither + auxiliary verb + subject* | The corresponding negative form | *'I didn't think much of the restaurant.' 'Neither did I.'* |
 | **Negative (alternative)** | *Nor + auxiliary verb + subject* | Alternative negative form | *'Nor did I.'* |
@@ -1124,7 +1131,7 @@ Some verbs (e.g. *describe*) are followed by an object. These are called **trans
 A **catenative verb** (from Latin *catena* = "chain") is a verb that can be followed directly by another verb in a chain. The second verb appears in one of four forms:
 
 | Pattern | Key Verbs | Example |
-|---------|-----------|---------|
+| --------- | ----------- | --------- |
 | **Verb + Bare Infinitive** | Modals, *make, let, have, help* | *Let me **go**.* |
 | **Verb + To-Infinitive** | *want, decide, agree, expect, seem* | *I want **to leave**.* |
 | **Verb + Object + To-Infinitive** | *tell, ask, advise, force, allow* | *She told me **to wait**.* |
@@ -1138,7 +1145,7 @@ A **catenative verb** (from Latin *catena* = "chain") is a verb that can be foll
 **Causative verbs** show that the subject causes someone else to do an action (or causes something to be done), rather than doing it themselves.
 
 | Verb | Meaning | Structure | Example |
-|------|---------|-----------|---------|
+| ------ | --------- | ----------- | --------- |
 | **make** | Force | *make + obj + V1* | *She made him cry.* |
 | **have** | Delegate | *have + obj + V1* / *have + obj + V3* | *I had the plumber fix it. / I had my hair cut.* |
 | **get** | Persuade | *get + obj + to + V1* / *get + obj + V3* | *I got him to help. / I got my car fixed.* |
@@ -1156,7 +1163,7 @@ A **catenative verb** (from Latin *catena* = "chain") is a verb that can be foll
 **Articles (a / an and the)** are determiners. They specify what the noun refers to and come at the beginning of the noun phrase. However, they cannot be quantifiers or pronouns.
 
 | Article/Determiner | Type | Use | Example |
-|--------------------|------|-----|---------|
+| -------------------- | ------ | ----- | --------- |
 | *the* | Definite | Specific, unique, previously mentioned nouns, superlatives | *The sun* is bright. |
 | *a / an* | Indefinite | Non-specific singular countable (*a* before consonant SOUND, *an* before vowel SOUND) | *A dog* barked. / *An apple* fell. |
 | *zero article* (*Ø*) | No article | General statements (plural/uncountable), proper nouns, meals, transport, sports, languages | *Life* is beautiful. / *English* is hard. |
@@ -1167,7 +1174,7 @@ A **catenative verb** (from Latin *catena* = "chain") is a verb that can be foll
 | *of* | Possessive/quantifier | Possession (objects), quantity, description | *The cover of the book* |
 
 | Article | When to Use | Examples |
-|---------|-------------|----------|
+| --------- | ------------- | ---------- |
 | **the** | Thing already mentioned | *Lisa took a cake and some biscuits to the party, but only the biscuits were eaten.* |
 | | Clear from the situation which person/thing we mean | *Can you shut the door after you, please?* |
 | | Understandable from context | *We had a good time on holiday. The beaches were all beautifully clean.* ('the beaches we went to') |
@@ -1180,7 +1187,7 @@ A **catenative verb** (from Latin *catena* = "chain") is a verb that can be foll
 #### Nouns
 
 | Type | Can Plural? | Can *a/an*? | Quantifiers |
-|------|-------------|-------------|-------------|
+| ------ | ------------- | ------------- | ------------- |
 | **Countable** | Yes | Yes (singular) | *many, few, a few, fewer* |
 | **Uncountable** | No | No | *much, little, a little, less* |
 | **Proper** | Rarely | Rarely | Usually no article |
@@ -1189,7 +1196,7 @@ A **catenative verb** (from Latin *catena* = "chain") is a verb that can be foll
 #### Key Article/Noun Rules
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | ***A* before consonant *sound*** | *a university, a one-eyed monster* |
 | ***An* before vowel *sound*** | *an hour, an MBA* |
 | **Partitives for uncountable nouns** | *a piece of advice, a glass of water, a loaf of bread* |
@@ -1203,7 +1210,7 @@ A **catenative verb** (from Latin *catena* = "chain") is a verb that can be foll
 Nouns can be either **countable** or **uncountable**. Countable nouns are those which can have the word **a / an** before them or be used in the plural. Uncountable nouns are not used with **a / an** or in the plural.
 
 | Concept | Detail |
-|---------|--------|
+| --------- | -------- |
 | **Countable nouns** | Can have *a/an* before them or be used in the plural. |
 | **Uncountable nouns** | Not used with *a/an* or in the plural. |
 | **Normally uncountable in English** | *accommodation, advice, applause, assistance, baggage, camping, cash, chaos, chess, clothing, conduct, courage, cutlery, dancing, dirt, employment, evidence, fun, furniture, harm, health, homework, housing, housework, information, jewellery, leisure, litter, luck, luggage, machinery, money, mud, music, news, nonsense, parking, pay, permission, photography, poetry, pollution, produce, progress, publicity, research, rubbish, safety, scenery, shopping, sightseeing, sunshine, transport, underwear, violence, weather, work* |
@@ -1211,7 +1218,7 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 | **Different meanings (countable vs. uncountable)** | *competition, glass, grammar, iron, jam, lace, property, room, sight, speech, time, tin, work* |
 
 | Noun | Uncountable Use | Countable Use |
-|------|-----------------|---------------|
+| ------ | ----------------- | --------------- |
 | **coffee** | *Brazil is a major producer of coffee.* | *Three coffees and a lemonade, please.* |
 | **chicken** | *I don't eat chicken.* | *The chickens have escaped.* |
 | **fear** | *He was trembling with fear.* | *I have a fear of spiders.* |
@@ -1223,7 +1230,7 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 #### Compound Nouns
 
 | Type | Structure | Examples |
-|------|-----------|----------|
+| ------ | ----------- | ---------- |
 | **Noun + noun** | Say what something is made of, where, when, or what someone does | *rice pudding, a glasshouse, the kitchen cupboard, hill fog, a night flight, a morning call, a language teacher, a window-cleaner* |
 | **Multi-noun compounds** | More than two nouns | *a milk chocolate bar, an air-traffic controller, a dinner-party conversation* |
 | ***-ing* + noun** | *-ing* form says what purpose the following noun has | *chewing gum, a living room, drinking water, playing cards, a dressing gown, a turning-point, a working party* |
@@ -1232,7 +1239,7 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 #### Possessive Form of Nouns
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | Singular nouns: add *'s* | *Leon's car; the college's administrators* |
 | Irregular plurals not ending in *-s*: add *'s* | *women's issues* |
 | Regular plurals: add apostrophe only | *the girls' shoes; the companies' difficulties* |
@@ -1251,7 +1258,7 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 **Pronouns** are words that replace nouns or noun phrases.
 
 | Type | Examples |
-|------|----------|
+| ------ | ---------- |
 | **Subject** | *I, you, he, she, it, we, they* |
 | **Object** | *me, you, him, her, it, us, them* |
 | **Possessive** | *mine, yours, his, hers, ours, theirs* |
@@ -1270,7 +1277,7 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 **Determiners** are words placed before nouns (or noun phrases) to clarify meaning, specify quantity, or indicate possession. They signal that a noun is coming.
 
 | Type | Examples |
-|------|----------|
+| ------ | ---------- |
 | **Articles** | *a, an, the* |
 | **Possessive** | *my, your, his, her, its, our, their* |
 | **Demonstrative** | *this, that, these, those* |
@@ -1282,7 +1289,7 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 #### Little / Few / Less / Fewer
 
 | | Countable | Uncountable |
-|--|-----------|-------------|
+| -- | ----------- | ------------- |
 | **Positive** ("some, enough") | *a few* | *a little* |
 | **Negative** ("not many/much") | *few* | *little* |
 | **Comparative** ("smaller amount") | *fewer* | *less* |
@@ -1292,7 +1299,7 @@ Nouns can be either **countable** or **uncountable**. Countable nouns are those 
 #### Some and Any
 
 | Word | Use | Pronunciation | Example |
-|------|-----|---------------|---------|
+| ------ | ----- | --------------- | --------- |
 | **some** | Affirmative sentences | Weak /səm/ | *Peter gave me some advice.* |
 | | Questions expecting agreement or 'Yes' | Weak /səm/ | *Hasn't some information about the proposal been sent out already?* |
 | | Offers and requests (sounding positive) | Weak /səm/ | *Shall I send you some details?* |
@@ -1310,7 +1317,7 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 #### Quantifiers with and without 'of'
 
 | Rule | Context | Examples |
-|------|---------|----------|
+| ------ | --------- | ---------- |
 | **of required** | After quantifiers when there is a possessive form, pronoun, or determiner before a noun | *Many of Liam's closest friends are women. / Some of my jewellery is missing. / Have you seen any of these new light bulbs in the shops yet?* |
 | **of optional** | After *both* and *all* in informal contexts before *the, these, those* (and *this/that* with *all*); *my, your, her, his,* etc.; and *mine, yours,* etc. | *Are you going to eat all (of) that cake, or can I finish it?* |
 | **of required** | After *both* and *all* before *them, you, us* (or *it* with *all*) | *Both of us were exhausted after flying to Japan.* |
@@ -1319,7 +1326,7 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 #### No, None, Neither, Either
 
 | Word | Function | Rule | Examples |
-|------|----------|------|----------|
+| ------ | ---------- | ------ | ---------- |
 | **no** | determiner | Means 'not a' or 'not any' before a singular, uncountable, or plural noun | *There's no train until tomorrow. / No information was given. / She had no shoes on.* |
 | **none of** | quantifier | Means 'not any' before *the, my, this*, etc. | *None of my clothes fit any more.* |
 | **none** | pronoun | If clear from context | *'How many children have you got?' 'None.'* |
@@ -1327,12 +1334,12 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 | **neither of** | quantifier | Instead of *none of* when talking about two people or things | *Neither of his parents could drive.* |
 | **either** | determiner | Followed by a singular countable noun; singular verb if subject | *You could catch the 10:05 or the 10:32. Either train gets you there in good time.* |
 | **either of** | quantifier | Used with plural nouns and pronouns | *Has either of them passed their driving test yet?* |
-| **either** | adverbial | As in *either... or...* or for adding negative agreement | *We can either take the train or go by bus. / I had no wish to go, and Lev didn't want to go either.* |to go either.* |
+| **either** | adverbial | As in *either... or...* or for adding negative agreement | *We can either take the train or go by bus. / I had no wish to go, and Lev didn't want to go either.* | to go either.* |
 
 #### Much, Many, A Lot Of
 
 | Quantifier | Use | Examples |
-|------------|-----|----------|
+| ------------ | ----- | ---------- |
 | **much** | With uncountable nouns | *There isn't much traffic along the street where I live.* |
 | **many** | With plural nouns | *Will you be taking many suitcases on the trip?* |
 | **much of / many of** | Before *the, my, this*, etc. | *Much of the national park was destroyed in the fire.* |
@@ -1344,7 +1351,7 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 #### All, Each, Every
 
 | Word | Rule | Examples |
-|------|------|----------|
+| ------ | ------ | ---------- |
 | **all / all of** | Total number or amount; *of* can be left out informally | *There is heating in all (of) the holiday cottages.* |
 | **all** (without noun) | Can mean 'everything' when followed by a relative clause; can mean 'the only thing' | *I don't agree with all that he said. / All she wants to do is help.* |
 | **each / every** | With singular countable nouns (two or more for *each*, three or more for *every*) | *Every newspaper had the same front page story.* |
@@ -1354,7 +1361,7 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 #### Each Other / One Another
 
 | Rule | Verbs | Examples |
-|------|-------|----------|
+| ------ | ------- | ---------- |
 | Used with verbs describing actions where two or more do the same thing to the other(s) | *avoid, attract, complement, face, help, repel* | *They tried to avoid each other / one another at the party.* |
 | Can be omitted when subject is plural or has '... and ...' form | *meet, embrace, fight, kiss, marry* | *John and Carmen first met (each other) when they were working in Spain.* |
 | Preposition (often *with*) required before *each other/one another* | *communicate, agree, coincide, collaborate, compete, contrast, co-operate, disagree, joke, look at, quarrel, talk to/with* | *The scheme allows students to communicate with each other. / We looked at each other and started to laugh.* |
@@ -1367,7 +1374,7 @@ The same rules generally apply to *someone / anyone, somebody / anybody, somethi
 A **clause** is a group of words containing a subject and a verb. It is the fundamental unit of a sentence that expresses either a complete thought (independent clause) or a part of a thought (dependent/subordinate clause).
 
 | Clause Type | Function | Introducers |
-|-------------|----------|-------------|
+| ------------- | ---------- | ------------- |
 | **Independent** | Stands alone | (none needed) |
 | **Adjective (Relative)** | Modifies noun | *who, whom, whose, which, that, where, when, why* |
 | **Adverb (Adverbial)** | Modifies verb/adj/adv | *because, although, if, when, while, unless, so that* |
@@ -1389,7 +1396,7 @@ Relative clauses have a similar function to adjectives in that they give more in
 #### Reduced Forms
 
 | Form | Meaning | Example |
-|------|---------|---------|
+| ------ | --------- | --------- |
 | *-ing* | Active | *The man sitting there is my uncle.* |
 | *-ed (V3)* | Passive | *The book written by her is famous.* |
 | *to + V1* | Future/Superlative/Ordinal | *The first to arrive gets a prize.* |
@@ -1398,7 +1405,7 @@ Relative clauses have a similar function to adjectives in that they give more in
 #### Special Cases
 
 | Case | Rule |
-|------|------|
+| ------ | ------ |
 | Prepositions (formal) | *The person to whom I spoke* |
 | Prepositions (informal) | *The person I spoke to* |
 | *Whose* for things | *The house whose roof was damaged* |
@@ -1407,7 +1414,7 @@ Relative clauses have a similar function to adjectives in that they give more in
 #### Defining vs. Non-Defining
 
 | Rule | Explanation | Examples |
-|------|-------------|----------|
+| ------ | ------------- | ---------- |
 | **Defining relative clauses** | Specify which person or thing we mean, or which type of person or thing we mean. No comma between the noun and the clause. | *Magnus stopped the police car that was driving past.* |
 | **Non-defining relative clauses** | Add extra information about a noun, but this information is not necessary to explain which person or thing we mean. Not used often in everyday speech, but frequently in written English. A comma is often put before and after the clause. | *My mother, who is in her seventies, enjoys hill walking.* |
 | **No repeated subject** | After a relative clause, do not repeat the subject with a pronoun. (Sometimes found in informal speech.) | *The house, which is to the north of the road, is owned by a rock star.* (Not '... it is owned ...') / *'A friend of mine who is a solicitor - she helped me.'* (informal) |
@@ -1417,7 +1424,7 @@ Relative clauses have a similar function to adjectives in that they give more in
 #### -ing and -ed Clauses (Participle Clauses)
 
 | Clause Type | Use | Examples |
-|-------------|-----|----------|
+| ------------- | ----- | ---------- |
 | **-ing clauses** | Something that takes place at the same time as or just before an action in the main clause; often used in written narrative after quoted speech to say what someone was doing while talking | *Glancing over his shoulder, he could see the dog chasing him. / Pushing her way through the crowds, she just managed to get on the bus. / 'Wait a minute,' said Amy, running through the door.* |
 | **-ing clauses** | Reasons and results | *Knowing exactly what I wanted, I didn't spend much time shopping.* (= Because I knew exactly what I wanted, ...) |
 | **-ed clauses** | Something that happened before an action in the main clause; often the event in the -ed clause causes the event in the main clause | *Annoyed by the boys' behaviour, she complained to the headteacher.* |
@@ -1448,7 +1455,7 @@ When we use more than one adjective before a noun, there is often a **preferred*
 > To help learn this order: gradable adjectives (opinion, size, quality, shape, and age) usually precede ungradable adjectives (participle adjective and adjectives describing origin, material, type and purpose).  
 
 | Example | Order |
-|---------|-------|
+| --------- | ------- |
 | *an old plastic container* | age + material + noun |
 | *a hard red ball* | quality + colour + noun |
 | *a frightening Korean mask* | opinion + origin + noun |
@@ -1459,7 +1466,7 @@ When we use more than one adjective before a noun, there is often a **preferred*
 #### Degrees of Adjectives
 
 | Type | Comparative | Superlative |
-|------|-------------|-------------|
+| ------ | ------------- | ------------- |
 | Short (1 syllable) | *-er* | *-est* |
 | Short (CVC) | double consonant + *-er* | double consonant + *-est* |
 | 2 syllables (*-y, -le, -er, -ow*) | *-er* | *-est* |
@@ -1471,7 +1478,7 @@ When we use more than one adjective before a noun, there is often a **preferred*
 #### Key Adjective Rules
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | **Predicative only** (after verb, not before noun) | *asleep, awake, alive, alone, afraid, ill, well, glad, sorry, sure, fond, aware* |
 | **Attributive only** (before noun, not after verb) | *main, principal, mere, sheer, utter, only, eventual, elder, indoor, outdoor* |
 | **Repeating for emphasis** | *a long, long journey* |
@@ -1483,16 +1490,16 @@ When we use more than one adjective before a noun, there is often a **preferred*
 #### Gradable and Non-Gradable Adjectives
 
 | Adjective Type | Description | Common Modifiers | Comparative/Superlative | Example |
-|----------------|-------------|------------------|------------------------|---------|
+| ---------------- | ------------- | ------------------ | ------------------------ | --------- |
 | **Gradable** | Describe qualities that can be measured or graded | *very, extremely, fairly, quite* (= fairly) | Yes | *They live in a very large house.* |
 | **Non-gradable** | Refer to qualities that are completely present or completely absent | *absolutely, completely, quite* (= completely) | Not usually | *Our teacher gave us an absolutely impossible problem to solve.* |
 
 #### Easily Confused Adjectives (-ed vs. -ing)
 
-Some adjectives that are used to describe feelings about something or someone else have both an *-ed* and *-ing* form. 
+Some adjectives that are used to describe feelings about something or someone else have both an *-ed* and *-ing* form.
 
 | -ed Form (describes how the person feels) | -ing Form (gives an evaluation of the thing or other person) |
-|-------------------------------------------|-------------------------------------------------------------|
+| ------------------------------------------- | ------------------------------------------------------------- |
 | *alarmed* | *alarming* |
 | *amazed* | *amazing* |
 | *bored* | *boring* |
@@ -1508,7 +1515,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Quite: Two Meanings
 
 | Meaning | Use | Examples |
-|---------|-----|----------|
+| --------- | ----- | ---------- |
 | = fairly (to a particular degree, but not 'very') | With gradable adjectives | *I was quite satisfied with the result.* |
 | = completely (to a large degree, 'very much') | With gradable adjectives | *No, you're quite wrong!* |
 | = completely | With non-gradable adjectives | *The food here is quite superb.* |
@@ -1516,7 +1523,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Adverb Types
 
 | Type | Examples | Position |
-|------|----------|----------|
+| ------ | ---------- | ---------- |
 | **Manner** | *quickly, carefully* | After verb/object |
 | **Frequency** | *always, often, never* | Before main verb / After *be* |
 | **Time** | *now, yesterday, soon* | End / Front (for emphasis) |
@@ -1532,7 +1539,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Too / Enough
 
 | Rule | Example |
-|------|---------|
+| ------ | --------- |
 | *too* before adj/adv | *too hot, too quickly* |
 | *enough* after adj/adv | *tall enough, fast enough* |
 | *enough* before nouns | *enough money* |
@@ -1545,7 +1552,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Still / Yet / Already / Any More
 
 | Adverb | Meaning | Polarity | Position |
-|--------|---------|----------|----------|
+| -------- | --------- | ---------- | ---------- |
 | *still* | Continues | Pos/Neg/Q | Mid |
 | *yet* | Expected but hasn't happened | Neg/Q | End (mid is formal) |
 | *already* | Happened earlier than expected | Pos/Q (surprise) | Mid |
@@ -1555,7 +1562,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Even - Position = Meaning
 
 | Position | Focus | Example |
-|----------|-------|---------|
+| ---------- | ------- | --------- |
 | Before subject | Subject | *Even John helped.* |
 | Before main verb | Action | *John even helped.* |
 | Before object | Object | *John helped even me.* |
@@ -1565,7 +1572,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### So / Such
 
 | Followed by... | Use |
-|----------------|-----|
+| ---------------- | ----- |
 | Adjective alone (no noun) | **so** - *so tired* |
 | Adverb alone | **so** - *so quickly* |
 | *much/many* + noun | **so** - *so much water, so many people* |
@@ -1584,7 +1591,7 @@ Some adjectives that are used to describe feelings about something or someone el
 > **SMEPT Rule:** Sentence -> Manner -> Evaluation -> Place -> Time
 
 | Position | Category | Answers | Examples |
-|----------|----------|---------|----------|
+| ---------- | ---------- | --------- | ---------- |
 | **1** | **Sentence / Viewpoint** | From what perspective? | *fortunately, surprisingly, honestly, officially* |
 | **2** | **Manner** | How? | *slowly, carefully, well, by hand, with care* |
 | **3** | **Evaluation / Degree** | To what degree? | *completely, almost, nearly, hardly* |
@@ -1599,6 +1606,7 @@ Some adjectives that are used to describe feelings about something or someone el
 | **Place** | Small -> Large (*in a flat in Marylebone, London*) |
 
 ##### Exceptions
+
 - **Time first:** For emphasis or contrast. *Yesterday I met an old friend.*
 - **Place first:** With movement verbs. *She went to London by train.*
 
@@ -1607,7 +1615,7 @@ Some adjectives that are used to describe feelings about something or someone el
 ### Comparative Structures
 
 | Type | Structure |
-|------|-----------|
+| ------ | ----------- |
 | **Comparative** | *adj/adv-er + than* / *more + adj/adv + than* |
 | **Superlative** | *the + adj/adv-est* / *the most + adj/adv* |
 | **Equality** | *as + adj/adv + as* |
@@ -1621,7 +1629,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Modifying Comparatives
 
 | Modifier | Meaning | Example |
-|----------|---------|---------|
+| ---------- | --------- | --------- |
 | *much / far / a lot* | Much more | *much taller* |
 | *a little / a bit / slightly* | Slightly more | *a little colder* |
 | *even* | Emphasizes difference | *even faster* |
@@ -1641,7 +1649,7 @@ Some adjectives that are used to describe feelings about something or someone el
 **Conjunctions** are words that link together words, phrases, clauses, or sentences. They are essential for creating complex sentences and showing the relationships between different ideas.
 
 | Type | Examples |
-|------|----------|
+| ------ | ---------- |
 | **Coordinating (FANBOYS)** | *for, and, nor, but, or, yet, so* |
 | **Subordinating** | *because, although, if, when, while, unless, since, as, before, after, until, so that, in order that* |
 | **Adversative** | *but, however, yet, although, whereas, despite, in spite of* |
@@ -1667,7 +1675,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Time Clauses: Tenses
 
 | Rule | Explanation | Examples |
-|------|-------------|----------|
+| ------ | ------------- | ---------- |
 | **Future time** | To refer to the future after a time conjunction, use present tenses | *Have something to eat before you leave.* |
 | **Completed action** | To talk about an action in the adverbial clause that is completed before another action in the main clause, use either simple or perfect tenses (present or past), but not *will* or *will have + -ed* | *As soon as you see / have seen her, come and tell me. / She wrote to me after she spoke / had spoken to Carlos.* |
 | **Same time** | If the actions in the main clause and the adverbial clause take place at the same time, use simple, not perfect tenses | *When I saw Kim, I asked her over for dinner.* |
@@ -1676,7 +1684,7 @@ Some adjectives that are used to describe feelings about something or someone el
 **Other Types of Adverbial Clause**
 
 | Type | Conjunction/Structure | Example |
-|------|----------------------|---------|
+| ------ | ---------------------- | --------- |
 | **Place** | *where* | *Can you put it back where you found it, please?* |
 | **Contrast** | *whereas* | *My sister is blonde, whereas my brother has dark hair.* |
 | **Cause/Reason** | *because* | *He wasn't allowed in because he was too young.* |
@@ -1688,7 +1696,7 @@ Some adjectives that are used to describe feelings about something or someone el
 ### Discourse Markers - Functions
 
 | Function | Markers |
-|----------|---------|
+| ---------- | --------- |
 | Adding | *and, also, furthermore, moreover, in addition, besides* |
 | Contrasting | *but, however, nevertheless, although, whereas, on the other hand* |
 | Cause/Effect | *so, therefore, consequently, thus, hence, as a result* |
@@ -1706,7 +1714,7 @@ Some adjectives that are used to describe feelings about something or someone el
 ### Correlative Conjunctions
 
 | Pair | Function | Verb Agreement |
-|------|----------|----------------|
+| ------ | ---------- | ---------------- |
 | *both... and...* | Inclusion | Always plural |
 | *either... or...* | Choice | Closest subject |
 | *neither... nor...* | Negative choice | Closest subject |
@@ -1719,6 +1727,7 @@ Some adjectives that are used to describe feelings about something or someone el
 | *such/so... that...* | Result | Depends on subject |
 
 #### Key Rules
+
 - **Parallel structure:** Both sides must match. *She is both **smart** and **kind**.*
 - **Either/neither position:** Place directly before the first contrasted element.
 - **Verb agreement:** With *either/or* and *neither/nor*, verb agrees with closest subject. *Neither the manager nor the employees **were** informed.*
@@ -1733,7 +1742,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Time (Prepositions)
 
 | Preposition | Use |
-|-------------|-----|
+| ------------- | ----- |
 | *at* | clock times, mealtimes, holidays (*at 5 PM, at Christmas*) |
 | *on* | days, dates (*on Monday, on May 5th*) |
 | *in* | months, years, seasons, parts of day (*in July, in 2024, in the morning*) |
@@ -1753,7 +1762,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Place (Prepositions)
 
 | Preposition | Use |
-|-------------|-----|
+| ------------- | ----- |
 | *in* | enclosed spaces, cities, countries |
 | *on* | surfaces, streets |
 | *at* | specific points |
@@ -1764,7 +1773,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### *By* (All Uses)
 
 | Use | Example |
-|-----|---------|
+| ----- | --------- |
 | Method | *by car, by email* |
 | Agent (passive) | *written by Shakespeare* |
 | Proximity | *by the window* |
@@ -1774,7 +1783,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Key Verb + Preposition Collocations
 
 | Preposition | Verbs |
-|-------------|-------|
+| ------------- | ------- |
 | *to* | listen, speak, talk, give, send, belong, refer, travel |
 | *at* | look, laugh, arrive, stare |
 | *about* | talk, think, worry, ask, dream |
@@ -1789,7 +1798,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Exceptions & Stranded Prepositions
 
 | Pattern | Example |
-|---------|---------|
+| --------- | --------- |
 | **Exceptions** | *except, except for, apart from, but* |
 | **Stranded (informal)** | *Who did you go with? / This is the book I was looking for.* |
 | **Stranded (formal)** | *With whom did you go? / This is the book for which I was looking.* |
@@ -1807,7 +1816,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Common by Particle
 
 | Particle | Examples |
-|----------|----------|
+| ---------- | ---------- |
 | *up* | *give up, make up, look up, clean up, show up* |
 | *down* | *slow down, calm down, write down, break down* |
 | *on* | *put on, carry on, turn on, get on, take on* |
@@ -1824,7 +1833,7 @@ Some adjectives that are used to describe feelings about something or someone el
 > **Rule:** Keep the same grammatical form throughout a list, comparison, or correlative pair.
 
 | Pattern | Example |
-|---------|---------|
+| --------- | --------- |
 | Noun + Noun + Noun | *apples, bananas, and oranges* |
 | Verb + Verb + Verb | *run, swim, and jump* |
 | -ing + -ing + -ing | *running, swimming, and jumping* |
@@ -1839,7 +1848,7 @@ Some adjectives that are used to describe feelings about something or someone el
 ### Register and Formality
 
 | Feature | Formal | Neutral | Informal |
-|---------|--------|---------|----------|
+| --------- | -------- | --------- | ---------- |
 | Contractions | No | Optional | Yes |
 | Passive voice | Common | Occasional | Rare |
 | Phrasal verbs | Avoided | Some | Common |
@@ -1850,7 +1859,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Email Closings
 
 | Register | Examples |
-|----------|----------|
+| ---------- | ---------- |
 | **Formal** | *Yours faithfully, / Yours sincerely, / Respectfully,* |
 | **Neutral** | *Best regards, / Kind regards, / Sincerely,* |
 | **Informal** | *Best, / Cheers, / Thanks, / Talk soon,* |
@@ -1860,7 +1869,7 @@ Some adjectives that are used to describe feelings about something or someone el
 ### Hedges and Softening Language
 
 | Type | Examples |
-|------|----------|
+| ------ | ---------- |
 | **Modal verbs** | *may, might, could, would, should* |
 | **Verbs** | *think, believe, suppose, seem, appear, tend to* |
 | **Adverbs** | *probably, possibly, perhaps, maybe, apparently, roughly* |
@@ -1881,7 +1890,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Nominalisation (Making Nouns from Verbs/Adjectives)
 
 | Verb | Noun | Adjective | Noun |
-|------|------|-----------|------|
+| ------ | ------ | ----------- | ------ |
 | *decrease* | *decrease* | *significant* | *significance* |
 | *develop* | *development* | *available* | *availability* |
 | *analyse* | *analysis* | *different* | *difference* |
@@ -1891,7 +1900,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Complex Prepositions
 
 | Preposition | Meaning | Example |
-|-------------|---------|---------|
+| ------------- | --------- | --------- |
 | *with reference to* | regarding | *...inequalities with reference to gender* |
 | *as a result of* | because of | *...flooding as a result of heavy rain* |
 | *prior to* | before | *...prior to the experiment* |
@@ -1903,7 +1912,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Expressing Opinions Impersonally (It-Clauses)
 
 | Pattern | Structure | Example |
-|---------|-----------|---------|
+| --------- | ----------- | --------- |
 | **Opinion** | *It + be + adj + to-infinitive* | *It is difficult to evaluate...* |
 | **Opinion** | *It + be + adj + that-clause* | *It is possible that...* |
 | **Reporting others** | *It + passive verb + that* | *It has been reported that...* |
@@ -1916,7 +1925,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Linking Ideas in Academic Writing
 
 | Device | Function | Examples |
-|--------|----------|----------|
+| -------- | ---------- | ---------- |
 | **Sentence connectors** | Link sentences | *Furthermore, In sum, However, Firstly* |
 | **Conjunctions** | Link clauses | *in that, given that, whereas, albeit* |
 | **Pro-forms** | Refer back | *the former, the latter, as such, these* |
@@ -1924,7 +1933,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Referring to Other Work
 
 | Pattern | Example |
-|---------|---------|
+| --------- | --------- |
 | *as + past participle* | ***As noted** by Kerr (2004)...* |
 | *as + is/has been + V3* | *...as **has been shown** in recent studies* |
 | Referring to figures | ***As shown** in Figure 2...* |
@@ -1934,7 +1943,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Lead-In Phrases for Academic Discussion
 
 | Function | Phrases |
-|----------|---------|
+| ---------- | --------- |
 | **Cautious opinion** | *I would think that..., I shouldn't have thought that...* |
 | **Inviting opinions** | *Why do you think that...?, How do you recommend we...?* |
 | **Clarifying** | *What I mean is that..., What I'm saying is that...* |
@@ -1945,12 +1954,12 @@ Some adjectives that are used to describe feelings about something or someone el
 
 ---
 
-### Semantics 
+### Semantics
 
 #### Lexical Relations
 
 | Relation | Definition | Example |
-|----------|------------|---------|
+| ---------- | ------------ | --------- |
 | **Synonymy** | Same meaning | *big/large* |
 | **Antonymy** | Opposite meaning | *hot/cold* (gradable), *alive/dead* (complementary) |
 | **Hyponymy** | "Is a type of" | *poodle -> dog -> animal* |
@@ -1961,7 +1970,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Thematic Roles
 
 | Role | Definition | Example |
-|------|------------|---------|
+| ------ | ------------ | --------- |
 | **Agent** | Deliberate doer | ***She** opened the door.* |
 | **Patient** | Entity acted upon | *She opened **the door**.* |
 | **Experiencer** | Feels/perceives | ***I** felt happy.* |
@@ -1973,7 +1982,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Denotation vs. Connotation
 
 | Denotation | Connotation |
-|------------|-------------|
+| ------------ | ------------- |
 | *slender* | Positive |
 | *thin* | Neutral |
 | *skinny* | Negative |
@@ -1981,7 +1990,7 @@ Some adjectives that are used to describe feelings about something or someone el
 #### Entailment vs. Presupposition
 
 | Feature | Entailment | Presupposition |
-|---------|------------|----------------|
+| --------- | ------------ | ---------------- |
 | Survives negation? | ✗ No | ✓ Yes |
 | *She stopped smoking.* | She doesn't smoke now | She used to smoke |
 | *She didn't stop smoking.* | She smokes now | She used to smoke |
@@ -1991,7 +2000,7 @@ Some adjectives that are used to describe feelings about something or someone el
 ### Troubleshooting: Common Errors
 
 | Error | Correction | Area |
-|-------|------------|------|
+| ------- | ------------ | ------ |
 | *I am knowing* | *I know* | Stative verb (no continuous) |
 | *If I will see* | *If I see* | No *will* in *if*-clause |
 | *Despite it was raining* | *Although it was raining / Despite the rain* | *Despite* + noun/gerund, not clause |
