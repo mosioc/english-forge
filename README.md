@@ -1,6 +1,6 @@
 # English Forge
 
-A journey toward fluency.
+A journey [toward](https://mosioc.github.io/english-forge) fluency.
 
 ## INDEX
 
