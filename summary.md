@@ -41,7 +41,7 @@
   - [Wish-Clauses](#wish-clauses)
   - [Key Alternatives](#key-alternatives)
   - [Inversion in Conditionals (Formal)](#inversion-in-conditionals-formal)
-  - [Real vs. Unreal Conditionals: Detailed Notes](#real-vs-unreal-conditionals-detailed-notes)
+  - [Real (Zero/First) vs. Unreal (Second/Third/Mixed) Conditionals](#real-zerofirst-vs-unreal-secondthirdmixed-conditionals)
 - [Unreal Time (Hypothetical Situations)](#unreal-time-hypothetical-situations)
 - [Subjunctive Mood](#subjunctive-mood)
   - [Subjunctive Triggers](#subjunctive-triggers)
@@ -590,6 +590,8 @@ The semi-modals are: **ought to, used to, need, dare, had better, have (got) to,
 
 ### If, Wish, and Conditionals
 
+> **How these relate:** *Conditionals* link two clauses (condition -> result) and split into **Real** (Zero/First; true or plausible) and **Unreal** (Second/Third/Mixed; hypothetical). **Unreal Time** is a broader umbrella for structures that borrow the same "backshifted tense = not real" trick but have no if...then structure; just one clause or a fixed phrase + clause. **Wish** is the best-known member of that Unreal Time family.
+
 Some conditional clauses beginning with **if** suggest that a situation is **real** - that is, the situation is or was true, or may have been or may become true (e.g. *If anyone phones, tell them I'll be back at eleven; If you really want to learn Italian, you need to spend some time in Italy*). Others suggest that a situation is **unreal** - that is, the situation is imaginary or untrue (e.g. *What would you do if you won the lottery?; If you had started out earlier, you wouldn't have been so late*).
 
 #### If-Clauses
@@ -604,6 +606,8 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 | **Mixed B** | Past Simple | *would have* + V3 | Present condition -> past result | *If she weren't so shy, she would have spoken up yesterday.* |
 
 #### Wish-Clauses
+
+> *Wish* is one instance of [Unreal Time](#unreal-time-hypothetical-situations); it shares the same backshifted-tense logic as *if only, would rather, as if,* etc., but expresses desire rather than condition -> result.
 
 | Time | Structure | Use |
 | ------ | ----------- | ----- |
@@ -633,7 +637,7 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 | *If he were to resign...* | *Were he to resign...* |
 | *If I had known...* | *Had I known...* |
 
-#### Real vs. Unreal Conditionals: Detailed Notes
+#### Real (Zero/First) vs. Unreal (Second/Third/Mixed) Conditionals
 
 | Conditional Type | Description | Example |
 | ----------------- | ------------- | --------- |
@@ -661,9 +665,9 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 | Time Reference | If-Clause | Main Clause | Example |
 | ---------------- | ----------- | ------------- | --------- |
 | Present/Future | Past tense (*if ... were* sometimes used instead of *if ... was*) | *would + bare infinitive* | *If my grandfather was / were still alive, he would be a hundred today.* |
-| Past (didn't happen) | Past perfect | *would have + past participle* | *If I had known how difficult the job was, I wouldn't have taken it.* |
+| Past (didn't happen) | Past perfect | *would have + V3 (past participle)* | *If I had known how difficult the job was, I wouldn't have taken it.* |
 | Mixed (past condition, present result) | Past perfect | *would + infinitive* | *If the doctor had been called earlier, Paula would still be alive today.* |
-| Mixed (present condition, past result) | Past tense | *would have + past participle* | *If Bruno wasn't so lazy, he would have passed the exam easily.* |
+| Mixed (present condition, past result) | Past tense | *would have + V3 (past participle)* | *If Bruno wasn't so lazy, he would have passed the exam easily.* |
 
 **Unreal Conditionals: Key Notes**
 
@@ -676,6 +680,8 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 ---
 
 ### Unreal Time (Hypothetical Situations)
+
+> Umbrella category for single-clause/fixed-phrase structures using unreal-tense backshift (no if...then structure). See [Wish-Clauses](#wish-clauses) for the most common member.
 
 | Structure | Time | Example |
 | ----------- | ------ | --------- |
