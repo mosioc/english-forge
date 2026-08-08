@@ -594,14 +594,14 @@ Some conditional clauses beginning with **if** suggest that a situation is **rea
 
 #### If-Clauses
 
-| Conditional | If-Clause | Main Clause | Meaning |
-| ------------- | ----------- | ------------- | --------- |
-| **Zero** | Present Simple | Present Simple | Always true |
-| **First** | Present Simple | *will* + V1 | Real future |
-| **Second** | Past Simple | *would* + V1 | Unreal present/future |
-| **Third** | Past Perfect | *would have* + V3 | Unreal past |
-| **Mixed A** | Past Perfect | *would* + V1 | Past cause -> present result |
-| **Mixed B** | Past Simple | *would have* + V3 | Present condition -> past result |
+| Conditional | If-Clause | Main Clause | Meaning | Example |
+| ------------- | ----------- | ------------- | --------- | --------- |
+| **Zero** | Present Simple | Present Simple | Always true | *If you heat ice, it melts.* |
+| **First** | Present Simple | *will* + V1 | Real future | *If it rains, I'll take an umbrella.* |
+| **Second** | Past Simple | *would* + V1 | Unreal present/future | *If I had more time, I would learn Rust.* |
+| **Third** | Past Perfect | *would have* + V3 | Unreal past | *If I had studied harder, I would have passed.* |
+| **Mixed A** | Past Perfect | *would* + V1 | Past cause -> present result | *If I had taken that job, I would be rich now.* |
+| **Mixed B** | Past Simple | *would have* + V3 | Present condition -> past result | *If she weren't so shy, she would have spoken up yesterday.* |
 
 #### Wish-Clauses
 
