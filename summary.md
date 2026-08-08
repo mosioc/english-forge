@@ -758,7 +758,17 @@ Passive verb forms have one of the tenses of the verb **to be** and a **past par
 
 ### Reported Speech
 
-**Say and tell** are the verbs most commonly used to report statements. We use an **object after tell** (... me ...), but not after say. Note, however, that we can use to + object after say (... to Ivan ...), but not after tell, and that we can report what topic was talked about using **tell + object + about**.
+**Say** and **tell** are the verbs most commonly used to report statements, but they follow different patterns.
+
+- **tell**: takes an object directly; `tell + object` (*tell me...*)
+- **say**: does NOT take an object directly; use `say + to + object` instead (*say to Ivan...*), never `say + object`
+- **tell**: can report what topic was talked about with `tell + object + about` (*tell me about the trip*)
+
+| Verb | Direct object? | Pattern | Example |
+| ------ | ---------------- | --------- | --------- |
+| **tell** | Yes | `tell + object` | *He told me the news.* |
+| **tell** | Yes (+ topic) | `tell + object + about` | *He told me about the trip.* |
+| **say** | No | `say + (to + object)` | *He said (to Ivan) that he'd be late.* |
 
 #### Tense Backshift
 
