@@ -308,9 +308,9 @@ Every English word belongs to one of eight (or nine) categories based on its fun
 | Time contrasts with another time | ***Last year** we went to France; **this year** we're going to Italy.* |
 | Place is a long phrase | ***At 8 a.m.** we arrived at the small hotel on top of the hill.* |
 
-> **Key Rule:** Don't separate the verb from its object.
-> ✓ *I read **the book** yesterday.*
-> ✗ *I read yesterday **the book**.*
+> **Key Rule:** Don't separate the verb from its object.  
+> ✓ *I read **the book** yesterday.*  
+> ✗ *I read yesterday **the book**.*  
 
 #### Adverb Placement Summary
 
